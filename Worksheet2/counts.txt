@@ -1,0 +1,1 @@
+245 This is the word count of records in the "Music"category

@@ -1,0 +1,229 @@
+    1  pwd
+    2  passwd
+    3  wget www.github.com
+    4  man 
+    5  a
+    6  touch b.txt
+    7  touch c.txt
+    8  ls -l
+    9  rm b.txt
+   10  rm c.txt
+   11  ls -l
+   12  ping google.com -t
+   13  ping www.google.com
+   14  mkdir Worksheet1
+   15  cd Worksheet1/
+   16  git init
+   17  rm Worksheet1
+   18  cd
+   19  rm Worksheet1
+   20  pwd
+   21  cd ~/Desktop
+   22  mkdir myproject
+   23  cd
+   24  cd myproject/
+   25  git init
+   26  touch mnelson.txt
+   27  ls
+   28  git status
+   29  git add mnelson.txt
+   30  git status
+   31  git commit -m "This is my first commit!"
+   32  git config user.name "Brandon"
+   33  git commit -m "This is my first commit!"
+   34  git chechout -b <new branch>
+   35  git branch
+   36  git checkout -b <new_branch>
+   37  git checkout -b newBranch
+   38  git branch
+   39  git remote add origin https://github.com/Trikkuri/newrepo.git
+   40  git push -u origin main
+   41  git push -u origin master
+   42  git branch
+   43  git remote add origin https://github.com/Trikkuri/newrepo.git
+   44  git push -u origin master
+   45  git status
+   46  cd myproject/
+   47  pwd
+   48  cd .git
+   49  pwd
+   50  git status
+   51  ls
+   52  cd mnelson.txt
+   53  touch mnelson.txt
+   54  ls
+   55  git status
+   56  rm.git
+   57  rm .git
+   58  rm mnelson.txt
+   59  pwd
+   60  rm -r .git
+   61  git init
+   62  rm -r .git
+   63  rm -r myprojects
+   64  rm -r myproject
+   65  pwd
+   66  cd myproject
+   67  cd-
+   68  cd -
+   69  rm -r .git
+   70  rm -r objects
+   71  rm -f .git
+   72  rm -rf .git
+   73  pwd
+   74  git init
+   75  cd cs131
+   76  cd .git
+   77  rm -rf .git
+   78  pwd
+   79  git init
+   80  mkdir Worksheet1
+   81  history > cmds.log
+   82  pwd
+   83  git add cmds.log
+   84  git statud
+   85  git status
+   86  rm cmds.log
+   87  cd Worksheet1
+   88  history > cmds.log
+   89  git add
+   90  git add .
+   91  git status
+   92  git add cmds.log
+   93  git commit .
+   94  user.email bpham2018@gmail.com
+   95  git config --global user.email bpham2018@gmail.com
+   96  git commit .
+   97  git config --global user.email bpham2018@gmail.com
+   98  pwd
+   99  git config --global user.name Trikkuri
+  100  cd~
+  101  cd -
+  102  cd
+  103  rm -rf cs131
+  104  cd cs131
+  105  mkdir cs131
+  106  cd cs131
+  107  .git init
+  108  git init
+  109  mkdir Worksheet1
+  110  cd Worksheet1
+  111  history > cmds.log
+  112  ls -lrt cmds.log
+  113  git status
+  114  git add
+  115  git add cmds.log
+  116  git status
+  117  mkdir sampleProject
+  118  ls -ltr
+  119  cd
+  120  rm -rf cs131
+  121  ls-ltr
+  122  ls -ltr
+  123  rm -rf Worksheet1
+  124  rm -rf myproject
+  125  ls -ltr
+  126  cd sampleProject/
+  127  touch sampleFile.txt
+  128  git init
+  129  git add .
+  130  git status
+  131  cd ~/.ssh && ssh-keygen
+  132  mkdir ~/.ssh
+  133  cd ~/.ssh && ssh-keygen
+  134  cat id_rsa.pub
+  135  ls -ltr
+  136  rm -rf cat id_rsa.pub
+  137  rm -rf cat id_rsa.pub.pub
+  138  ls -ltr
+  139  pwd
+  140  mkdir cs131
+  141  git init
+  142  rm -rf sampleProject
+  143  ls -ltr
+  144  mkdir sampleProject
+  145  ls -ltr
+  146  cd sampleProject/
+  147  touch sampleFile.txt
+  148  git init
+  149  git add.
+  150  git status
+  151  git add .
+  152  git status
+  153  cd ~/.ssh && ssh-keygen
+  154  cat id_rsa.pub
+  155  git status
+  156  git add sampleFile.txt
+  157  cd sampleProject
+  158  cd sampleProject/
+  159  cd
+  160  cd samplePriject/
+  161  ls -ltr
+  162  cd sampleProject/
+  163  git add sampleFile.txt
+  164  git status
+  165  git commit
+  166  git status
+  167  git commit -M "Sample Commit"
+  168  git commit -m "Sample Commit"
+  169  git remote add origin git@github.com:Trikkuri/cs131.git
+  170  git branch -M master
+  171  git push -u origin master
+  172  cd
+  173  mkdir cs131
+  174  cd cs131?
+  175  cd cs131/
+  176  git init
+  177  mkdir Worksheet1
+  178  history > cmds.log
+  179  ls -ltr
+  180  rm -rf cs131
+  181  ls -ltr
+  182  mkdir cs131
+  183  cd cs131/
+  184  mkdir Worksheet1
+  185  ls -ltr
+  186  cd Worksheet1/
+  187  touch cmds.log
+  188  history > cmds.log
+  189  git add .
+  190  git status
+  191  git commit -m "Worksheet1 Submission"
+  192  git push --set-upstream origin master
+  193  git remote add origin git@github.com:Trikkuri/cs131.git
+  194  git push -u origin master
+  195  git clone github.com:Trikkuri/cs131.git
+  196  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
+  197  grep "United States"
+  198  grep -x "United States"
+  199  grep -f "United States" 'Global YouTube Statistic.csv
+  200  grep -f "United States" 'Global YouTube Statistic.csv"
+  201  grep -f "United States" 'Global YouTube Statistic.csv'
+  202  cd
+  203  lw
+  204  ls
+  205  pwd cs131
+  206  grep -f "United States" 'Global YouTube Statistic.csv'
+  207  cd
+  208  cd cs131
+  209  grep -f "United States" 'Global YouTube Statistic.csv'
+  210  cd Global YouTube Statistic.csv
+  211  cd ' Global YouTube Statistic.csv'
+  212  vi 'Global YouTube Statistic.csv'
+  213  cd cs131
+  214  cd
+  215  cd cs131
+  216  pwd
+  217  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
+  218  grep -f "United States" 'Global Youtube Statistics.csv'
+  219  grep "United States" file.csv
+  220  grep "United States" *.csv
+  221  grep "Music" *.csv
+  222  wc
+  223  grep -wc "Music" *.csv
+  224  grep -wc "Music" *.csv >> counts.txt
+  225  nano counts.txt
+  226  history > cmds.log
+  227  nano cmds.logs
+  228  "history > cmds.log"
+  229  history > cmds.log
