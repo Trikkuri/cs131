@@ -1,0 +1,72 @@
+  343  cd cs131
+  344  ls
+  345  mkdir Assignment2
+  346  ls
+  347  cd Assignment2
+  348  find /etc -type f > one.txt 2> two.txt
+  349  cat one.txt
+  350  cat two.txt
+  388  cd Assignment2
+  389  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
+  390  ls
+  391  vi *.csv
+  392  sorhelp sort
+  393  help sort
+  394  man -k sort
+  395  man sory
+  396  man sort
+  397  sort -t "," -k "created_month,created_year" -n *.csv
+  398  sort -k "created_month,created_year" -n *.csv > sorter.txt
+  399  touch sorter.txt
+  400  sort -k "created_year,created_month" -n *.csv > sorter.txt
+  401  sort -t "," -k "created_month" -n *.csv > sorter.txt
+  402  sort -t "," -k "highest_monthly_earnings" -n *csv > sorter.txt
+  403  ls
+  404  cd cs131
+  405  ls
+  406  rm -rf cs131
+  407  ls
+  408  cd Assignment2
+  409  ls
+  410  cut -d ',' -f 21-22 Global\ YouTube\ Statistics.csv | sort -nr | head -n3
+  411  cut -d ',' -f 01-22 Global\ YouTube\ Statistics.csv | sort -nr | head -n3
+  412  cut -d ',' -f 20-21 Global\ YouTube\ Statistics.csv | sort -nr | head -n3 > sorter.txt
+  413  cat sorter.txt
+  414  vi *.csv
+  415  vi sorter.txt
+  416  echo bash
+  417  scho SHELL
+  418  echo SHELL
+  419  cut-d ',' -f 20-21 Global\ YouTube\ Statistics.csv > sorter.txt
+  420  cut -d ',' -f 20-21 Global\ YouTube\ Statistics.csv > sorter.txt
+  421  cat sorter.txt
+  422  truncate -s sorter.txt
+  423  vi sorter.txt
+  424  cut -d ',' -f 20-21 Global\ YouTube\ Statistics.csv | sort -nr | head -n3 > sorter.txt
+  425  cat sorter.txt
+  426  cut -d ',' -f 20-21 Global\ YouTube\ Statistics.csv | sort -nr > sorter.txt
+  427  cat sorter.txt
+  428  uniq -c sorter.txt
+  429  sort -nr sorter.txt
+  430  uniq -c | sort -nr sorter.txt
+  431  vi sorter.txt
+  432  uniq -c sorter.txt > sorter.txt
+  433  cat sorter.txt
+  434  vi sorter.txt
+  435  cut -d ',' -f 20-21 Global\ YouTube\ Statistics.csv | sort -nr > sorter.txt
+  436  cat sorter.txt
+  437  uniq -c sorter.txt
+  438  cat sorter.txt
+  439  uniq -c sorter.txt | sort -nr
+  440  touch Assignment2.txt
+  441  vi Assignment2.txt 
+  442  cat Assignment2.txt 
+  443  ps -u brandonf23
+  444  vi Assignment2.txt 
+  445  ps -aux
+  446  man ps
+  447  vi Assignment2.txt 
+  448  cat one.txt
+  449  cat two.txt
+  450  vi Assignment2.txt 
+  451  history > cmds.log

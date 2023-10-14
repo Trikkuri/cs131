@@ -1,0 +1,57 @@
+Tasks
+
+1)a. The cammand is finding/searching for one.txt and two.txt.
+
+b.one.txt seems to show everything under the /etc directory. two.txt shows the directories that find could not execute because permission was denied.
+
+2)As per the Dataset, Top 3 [Year, Month] with most # of YouTube channels created were:
+	1. 2006, March with 15 channels
+	2. 2014, July with 13 channels
+	3. 2014, August with 12 channels
+commands used:
+cut -d ',' -f 20,21 Global| YouTube| Statistics.csv > sorter.txt
+sort -nr sorter.txt
+uniq -c sorter.txt | sort -nr
+
+3)command: ps -u brandonf23
+
+  output:
+
+    PID TTY          TIME CMD
+3965562 ?        00:00:01 systemd
+3965564 ?        00:00:00 (sd-pam)
+3965574 ?        00:00:00 sshd
+3965577 pts/109  00:00:00 bash
+3992708 pts/109  00:00:00 ps
+
+4)a.using cammand from T3:
+
+    PID TTY          TIME CMD
+3965562 ?        00:00:01 systemd
+3965564 ?        00:00:00 (sd-pam)
+3965574 ?        00:00:00 sshd
+3965577 pts/109  00:00:00 bash
+3993373 ?        00:00:00 sshd
+3993378 pts/60   00:00:00 bash
+3994197 pts/60   00:00:00 vim
+3994260 pts/109  00:00:00 ps
+
+b.PID of vim: 3994197
+
+d.new output:
+
+    PID TTY          TIME CMD
+3965562 ?        00:00:01 systemd
+3965564 ?        00:00:00 (sd-pam)
+3965574 ?        00:00:00 sshd
+3965577 pts/109  00:00:00 bash
+3993373 ?        00:00:00 sshd
+3993378 pts/60   00:00:00 bash
+3994734 pts/109  00:00:00 ps
+
+The vim process is no longer showing since we :q! out of it in the second terminal.
+
+5)init process in Linux: systemd
+PID of systemd: 3965562
+
+6)The ps -aux command to used to show every process status running on the system.
