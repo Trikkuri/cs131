@@ -1,0 +1,62 @@
+  473  cd cs131
+  474  ls
+  475  mkdir Worksheet5
+  484  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
+  485  ls
+  486  categories=("Music" "Entertainment" "Gaming" "Comedy")
+  489  for category in $categories; do grep "$category" United\ State.txt >> $category.txt; done
+  490  grep "United State" *.csv > United\ States.txt
+  491  ls
+  492  vi Unite\ States.txt
+  493  ls
+  494  vi United\ States.txt
+  495  for category in $categories; do grep "$category" United\ States.txt >> $category.txt; done
+  496  ls
+  497  cat Music.txt
+  498  for category in "$categories"; do grep "$category" United\ State.txt >> $category.txt; done
+  499  for category in "$categories"; do grep "$category" United\ States.txt >> $category.txt; done
+  500  ls
+  501  rm Music.txt
+  502  rm United\ States.txt
+  503  ls
+  504  mkdir United\ States
+  505  ls
+  506  for category in $categories; do grep "United States, .*$category" "Global\ YouTube\ Statistics.csv" >> $category.txt; done
+  507  for category in $categories; do grep "United States, .*$category" "Global%20YouTube%20Statistics.csv" >> $category.txt; done
+  508  for category in $categories; do grep "United States, .*$category" Global\ YouTube\ Statistics.csv >> $
+  523  cd..
+  524  cd ..
+  525  ls
+  526  for category in "${categories[@]}"; do grep "United States, .*$category" Global\ YouTube\ Statistics.csv >> $category.txt; done
+  527  ls
+  528  wc Comedy.txt
+  529  wc -rn Comedy.txt
+  530  wc -l Comedy.txt
+  531  cat comedy.txt
+  532  cat Comedy.txt
+  533  cat Gaming.txt
+  534  cat Music.txt
+  535  for category in "${categories[@]}"; do grep "United States, .*$category" Global\ YouTube\ Statistics.csv >> $category.txt; done
+  536  cat Comedy.txt
+  537  grep "United States" 'Global YouTube Statistics.csv' >> UnitedStates.txt
+  538  ls
+  539  cat UnitedStates.txt
+  540  for category in "${categories[@]}"; do grep "$category" UnitedStates.txt >> $category.txt; done
+  541  ls
+  542  cat Comedy.txt
+  543  wc -l Comedy.txt
+  544  wc -l Gaming.txt
+  545  wc -l Entertainment.txt
+  546  wc -l Music.txt
+  547  wc -l Comedy.txt | wc -l Gaming.txt | wc -1 Entertainment.txt | wc -1 Music.txt >> ws5.txt
+  548  wc -l Comedy.txt | wc -l Gaming.txt | wc -l Entertainment.txt | wc -l Music.txt >> ws5.txt
+  549  ls
+  550  cat ws5.txt
+  551  wc -l Comedy.txt > ws5.txt
+  552  cat ws5.txt
+  553  wc -l Music.txt >> ws5.txt
+  554  cat ws5.txt
+  555  wc -l Entertainment.txt >> ws5.txt
+  556  wc -l Gaming.txt >> ws5.txt
+  557  cat ws5.txt
+  558  history > cmds.log
