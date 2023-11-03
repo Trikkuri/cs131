@@ -1,0 +1,110 @@
+Task 1.
+
+command used: 
+wc -l last.fake
+output:
+2162 last.fake
+
+command used:
+grep “f23” last.fake > lastf23.fake
+output:
+see lastf23.fake
+
+command used:
+wc -l lastf23.fake
+output:
+239 lastf23.fake
+
+Task 2.
+
+command(s) used:
+grep "Sun" lastf23.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "The list of people who worked on Sunday are:"}
+{print $1}
+END {print "Kudos to these people for putting in the work"}'
+
+output:
+The list of people who worked on Sunday are:
+jewonf23
+saniaf23
+tienf23
+Kudos to these people for putting in the work
+
+Task 3.
+
+command(s) used:
+awk '$7 >= "23:00" || $7 <= "04:00"' lastf23.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "Night Owls List:"}
+{print $1}
+END {print "Night Owls are dope. Please ensure you get enough sleep though."}'
+
+output:
+Night Owls List:
+aaronf23
+anasf23
+divijf23
+hamzaf23
+hof23
+jamesf23
+junf23
+kobef23
+maximf23
+rahulf23
+rikkif23
+saniaf23
+thif23
+tienf23
+Night Owls are dope. Please ensure you get enough sleep though.
+
+Task 4.
+
+command(s) used:
+awk '$7 >= "05:00" && $7 <= "09:00"' lastf23.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "Early Birds List:"}
+{print $1}
+END {print "Early Birds are dope. Please ensure you get enough sleep though."}'
+
+output:
+Early Birds List:
+hamzaf23
+hof23
+saniaf23
+thif23
+tienf23
+Early Birds are dope. Please ensure you get enough sleep though.
+
+Task 5.
+
+command used:
+awk '/^t/ {print $1}' lastf23.fake | sort | uniq
+
+output:
+thif23
+tienf23
+
+Task 6.
+
+command used:
+awk -F: '/^a/ && $3 % 2 == 0 {print $1}' passwd.fake
+
+output:
+angie23fa
+areebah23fa
+apple23fa
+ajay23fa
+alan23fa
+amreenf23
+
+Task 7.
+
+command used:
+sed 's/[a-zA-Z0-9 \t]//g' passwd.fake | sort -u
+
+output:
+-::::-:/://
+-:::::///-://
+-:::::/://
+::::-:///://
+:::::///://
+:::::///_/://
+:::::///__/://
+::::://://
+:::::/://
+

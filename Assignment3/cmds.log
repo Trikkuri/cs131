@@ -1,0 +1,220 @@
+  569  cd cs131
+  570  cd Assignment3
+  571  ls
+  572  grep 'Sun' lastf23.fake | awk 'BEGIN {print "The list of people who worked on Sunday are:"} END {"sort" | "uniq" ; print "Kudos to these people for putting in the work"}
+
+  573  grep 'Sun' lastf23.fake | awk 'BEGIN {print "The list of people who worked on Sunday are:"} END {"sort" | "uniq" ; print "Kudos to these people for putting in the work"}'
+  574  grep "Sun" lastf23.fake | sort | uniq |awk 'Begin {print "The list of people who worked on Sunday are:"} {print $1} END {print "Kudos to these people for putting in the work"}'
+  575  grep "Sun" lastf23.fake | sort | uniq -u | awk 'Begin {print "The list of people who worked on Sunday are:" $1} END {print "Kudos to these people for putting in the work"}'
+  576  grep "Sun" lastf23.fake | sort | uniq -u | awk 'Begin {print "The list of people who worked on Sunday are:"} print $1} END {print "Kudos to these people for putting in the work"}'
+  577  grep "Sun" lastf23.fake | sort | uniq -u | awk 'Begin {print "The list of people who worked on Sunday are:"} {!a[1]} END {print "Kudos to these people for putting in the work"}'
+  578  grep "Sun" lastf23.fake | sort | uniq -u | awk 'Begin {print "The list of people who worked on Sunday are:"} {!a[$1]} END {print "Kudos to these people for putting in the work"}'
+  579  grep "Sun" lastf23.fake | sort | uniq -u | awk 'Begin {print "The list of people who worked on Sunday are:"} END {print $1 ; print "Kudos to these people for putting in the work"}'
+  580  grep "Sun" lastf23.fake | sort | uniq -u | awk 'Begin {print $1} END {print "Kudos to these people for putting in the work"}'
+  581  grep "Sun" lastf23.fake | sort | uniq -u | awk 'BEGIN {print $1} END {print "Kudos to these people for putting in the work"}'
+  582  grep "Sun" lastf23.fake | sort | uniq -u
+  583  grep "Sun" lastf23.fake | awk {print $1} | sort | uniq
+  584  grep "Sun" lastf23.fake | awk '{print $1}' | sort | uniq
+  585  awk 'BEGIN {print "The list of people who worked on Sunday are:\n" $1} END {print "Kudos to these people for putting in the work}'
+  586  awk 'BEGIN {print "The list of people who worked on Sunday are:\n" $1} END {print "Kudos to these people for putting in the work"}'
+  587  awk 'BEGIN {print "The list of people who worked on Sunday are:" $1} END {print "Kudos to these people for putting in the work"}'
+  588  grep "Sun" lastf23.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "The list of people who worked on Sunday are:" $1} END {print "Kudos to these people for putting in the work"}'
+  589  grep "Sun" lastf23.fake | awk 'BEGIN{print "The list of people who worked on Sunday are:}
+{print $1} | sort | uniq
+END {print "Kudos to these people for putting in the work"}'
+  590  grep "Sun" lastf23.fake | awk 'BEGIN{print "The list of people who worked on Sunday are:"}
+{print $1} | sort | uniq
+END {print "Kudos to these people for putting in the work"}'
+  591  grep "Sun" lastf23.fake | awk 'BEGIN{print "The list of people who worked on Sunday are:"}
+{print $1} | "sort" | "uniq"
+END {print "Kudos to these people for putting in the work"}'
+  592  grep "Sun" lastf23.fake | awk {print $1} | sort | uniq
+  593  grep "Sun" lastf23.fake | awk '{print $1}' | sort | uniq
+  594  grep "Sun" lastf23.fake | awk '{print $1}' | sort | uniq | awk {BEGIN '{print "The list of people who worked in Sunday are:"}
+{print $1}
+END {print "Kudos to these people for putting in the work"}'
+  595  grep "Sun" lastf23.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "The list of people who worked on Sunday are:"}
+{print $1}
+END {print "Kudos to these people for putting in the work"}'
+  596  vi Assignment3.txt
+  597  awk '$7 >= "23:00" || $7 <= "04:00"' lastf23.fake | sort | uniq | awk 'BEGIN {print "Night Owls List:"}
+{print $1}
+END {print "Night owls are dope. Please ensure you get enough sleep though."}'
+  598  awk '$7 >= "23:00" || $7 <= "04:00"' lastf23.fake | sort | uniq
+  599  awk '$7 >= "23:00" || $7 <= "04:00"' lastf23.fake
+  600  awk '$7 >= "23:00" || $7 <= "04:00"' lastf23.fake | awk '{print $1}' | sort | uniq
+  601  awk '$7 >= "23:00" || $7 <= "04:00"' lastf23.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "Night Owls List:"}
+{print $1}
+END {print "Night owls are dope. Please ensure you get enough sleep though."}'
+  602  vi Assignment3.txt
+  603  awk '$7 >= "05:00" || $7 <= "09:00"' lastf23.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "Early Birds List:"}
+{print $1}
+END {print "Early Birds are dope. PLease ensure you get enough sleep though."}'
+  604  awk '$7 >= "05:00" && $7 <= "09:00"' lastf23.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "Early Birds List:"}
+{print $1}
+END {print "Early Birds are dope. PLease ensure you get enough sleep though."}'
+  605  vi Assignment3.txt
+  606  awk '/^t/ {print $1}' lastf23.fake | sort | uniq
+  607  vi Assignment3.txt
+  608  awk -F: '/^a/ && $3 % 2 == 0 {print $1}' passwd.fake
+  609  cat passwd.fake
+  610  wget https://github.com/khanchandaniashish/CS131/blob/main/awkdata/passwd.fake 
+  611  ls
+  612  rm passwd.fake.1
+  613  ls
+  614  wget https://raw.github.com/khanchandaniashish/CS131/blob/main/awkdata/passwd.fake 
+  615  rm passwd.fake
+  616  ls
+  617  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/awkdata/passwd.fake
+  618  ls
+  619  awk -F: '/^a/ && $3 % 2 == 0 {print $1}' passwd.fake
+  620  awk '/^a/ && $3 % 2 == 0 {print $1}' passwd.fake
+  621  awk '/^a/ && expr $3 % 2 == 0 {print $1}' passwd.fake
+  622  awk -F '/^a/ && expr $3 % 2 == 0 {print $1}' passwd.fake
+  623  awk -F: '/^a/ && expr $3 % 2 == 0 {print $1}' passwd.fake
+  624  awk -F: '/^a/ && $3 % 2 == 0 {print $1}' passwd.fake
+  625  vi Assignment3.txt
+  626  sed 's/[a-zA-Z0-9 \t]//g' passwd.fake
+  627  sed 's/[a-zA-Z0-9 \t]//g' passwd.fake | sort -u
+  628  sed 's/[a-zA-Z0-9 \t]//' passwd.fake | sort -u
+  629  sed 's/[a-zA-Z0-9 \t]//g' passwd.fake | sort -u
+  630  vi Assignment3.txt
+  631  history > cmds.log
+  632  ls
+  633  vi cmds.log
+  634  ls
+  635  git init
+  636  git status
+  637  git add .
+  638  git status
+  639  git commit -m "Assignment3"
+  640  git push
+  641  git push --set-upstream origin master
+  642  git status
+  643  git push --u origin master
+  644  git push -u origin master
+  645  pit status
+  646  git status
+  647  git init
+  648  git status
+  649  git push --set-upstream
+  650  git push -u master
+  651  git push -u origin master
+  652  ls
+  653  git status
+  654  cd ..
+  655  git init
+  656  git add .
+  657  git status
+  658  git commit -m "Assignment3"
+  659  git push -u origin master
+  660  cd Assignment3
+  661  ls
+  662  cat Assignment3.txt
+  663  cd ..
+  664  git status
+  665  git push --set-upstream origin master
+  666  ls
+  667  git clone --recurese-submodules
+  668  git clone --recurse-submodules
+  669  cd Assignment3
+  670  ls
+  671  ls -a
+  672  rm -rf .git
+  673  ls
+  674  cd ..
+  675  ls
+  676  git init
+  677  git status
+  678  git add .
+  679  git commit -m "Assignment3"
+  680  git push -u origin master
+  681  cd Assignment3
+  682  ls
+  683  touch newfile.txt
+  684  cd ..
+  685  git add .
+  686  git commit -m "Fin"
+  687  git push -u origin master
+  688  ls
+  689  cd Assignment3
+  690  git rm --cache client_folder
+  691  cd ..
+  692  ls -a
+  693  git rm --cache client_folder
+  694  git clone --recurse-submodules
+  695  mv /cs131/Assignment3/* /cs131/
+  696  ps
+  697  cd
+  698  cd cs131
+  699  echo $PATH
+  700  mv /Assignment3/* /cs131/
+  701  mv */Assignment3/* */cs131/*
+  702  cd Assignment3
+  703  ls
+  704  mv Assignment3.txt cs131
+  705  ls
+  706  mv cmds.log cs131
+  707  mv lastf23 cs131
+  708  mv lastf23.fake cs131
+  709  mv last.fake cs131
+  710  mv passwd.fake cs131
+  711  mv ps.fake cs131
+  712  ls
+  713  cd cs131
+  714  cat cs131
+  715  ls
+  716  cd ..
+  717  ls
+  718  mv cs131 cs131
+  719  cd Assignment3
+  720  ls
+  721  ls -a
+  722  cd . .. cs131
+  723  cd .. cs131
+  724  cd ..
+  725  rm -rf Assignment3
+  726  ls
+  727  mkdir Assignment3
+  728  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/awkdata/last.fake
+  729  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/awkdata/passwd.fake
+  730  wget wget https://github.com/khanchandaniashish/CS131/blob/main/awkdata/ps.fake 
+  731  touch Assignment3.txt
+  732  wc -1 last.fake
+  733  wc -l last.fake
+  734  grep "f23" last.fake > lastf23.fake
+  735  wc -l last.fake
+  736  wc -l lastf23.fake
+  737  ls
+  738  mv last.fake Assignment3
+  739  mv ps.fake Assignment3
+  740  mv lastf23.fake Assignment3
+  741  mv passwd.fake Assignment3
+  742  mv Assignment3.txt Assignment3
+  743  ls
+  744  cd Assignment3
+  745  grep "Sun" lastf23.fake | awk '{print}' | sort | uniq | awk 'BEGIN {print "The list of people who worked on Sunday are:"}
+{print $1}
+END {print "Kudos to these people for putting in the work"}'
+  746  grep "Sun" lastf23.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "The list of people who worked on Sunday are:"}
+{print $1}
+END {print "Kudos to these people for putting in the work"}'
+  747  awk '$7 >= "23:00" || $7 <= "04:00"' lastf23.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "The list of people who worked on Sunday are:"}
+{print $1}
+  748  awk '$7 >= "23:00" || $7 <= "04:00"' lastf23.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "Night Owls List:"}
+{print $1}
+END {print "Night Owls are dope. Please ensure you get enough sleep though."}'
+  749  awk '$7 >= "25:00" && $7 <= "09:00"' lastf23.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "Early Birds List:"}
+{print $1}
+END {print "Early Birds are dope. Please ensure you get enough sleep though."}'
+  750  awk '$7 >= "25:00" && $7 <= "09:00"' lastf23.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "Early Birds List:"}
+{print $1}
+END {print "Early Birds are dope. Please ensure you get enough sleep though."}'
+  751  awk '$7 >= "05:00" && $7 <= "09:00"' lastf23.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "Early Birds List:"}
+{print $1}
+END {print "Early Birds are dope. Please ensure you get enough sleep though."}'
+  752  awk '/^t/ {print $1}' lastf23.fake | sort | uniq
+  753  awk -F: '/^a/ && $3 % 2 == 0 {print $1}' passwd.fake
+  754  sed 's/[a-zA-Z0-9 \t]//g' passwd.fake | sort -u
+  755  vi Assignment3.txt
+  756  history > cmds.log
