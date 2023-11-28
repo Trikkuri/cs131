@@ -1,0 +1,6895 @@
+Name,Global_Sales
+.hack//Infection Part 1,1.27
+.hack//Mutation Part 2,0.68
+.hack//Outbreak Part 3,0.46
+[Prototype],1.31
+[Prototype],1.24
+[Prototype 2],0.79
+[Prototype 2],0.74
+[Prototype 2],0.11
+007: Quantum of Solace,1.48
+007: Quantum of Solace,1.14
+007: Quantum of Solace,0.65
+007: Quantum of Solace,0.03
+007: The World is not Enough,0.92
+007 Racing,0.53
+100 Classic Books,0.66
+15 Days,0.01
+1701 A.D.,0.3
+187: Ride or Die,0.15
+187: Ride or Die,0.06
+18 Wheeler: American Pro Trucker,0.4
+18 Wheeler: American Pro Trucker,0.11
+1 vs. 100,0.08
+2002 FIFA World Cup,0.59
+2002 FIFA World Cup,0.19
+2002 FIFA World Cup,0.05
+2010 FIFA World Cup South Africa,1.23
+2010 FIFA World Cup South Africa,0.85
+2010 FIFA World Cup South Africa,0.46
+2010 FIFA World Cup South Africa,0.42
+2014 FIFA World Cup Brazil,0.61
+2014 FIFA World Cup Brazil,0.42
+24: The Game,0.3
+25 to Life,0.42
+25 to Life,0.17
+300: March to Glory,0.41
+3D Dot Game Heroes,0.57
+4x4 EVO 2,0.24
+50 Cent: Blood on the Sand,0.21
+50 Cent: Blood on the Sand,0.19
+50 Cent: Bulletproof,1.77
+50 Cent: Bulletproof,0.44
+7 Days to Die,0.14
+7 Days to Die,0.05
+7th Dragon III Code: VFD,0.17
+7 Wonders of the Ancient World,0.13
+A Boy and His Blob,0.21
+AC/DC LIVE: Rock Band Track Pack,0.24
+AC/DC LIVE: Rock Band Track Pack,0.23
+Academy of Champions: Soccer,0.12
+Ace Attorney Investigations: Miles Edgeworth,0.7
+Ace Combat: Assault Horizon,0.74
+Ace Combat: Assault Horizon,0.49
+Ace Combat: Assault Horizon Legacy,0.24
+Ace Combat: Joint Assault,0.29
+Ace Combat 04: Shattered Skies,3.17
+Ace Combat 2,0.89
+Ace Combat 5: The Unsung War,1.71
+Ace Combat 6: Fires of Liberation,1.01
+Ace Combat X: Skies of Deception,0.99
+Ace Combat Zero: The Belkan War,0.51
+Achtung Panzer: Kharkov 1943,0.02
+Active Life: Outdoor Challenge,1.54
+Activision Anthology,0.5
+Act of Aggression,0.01
+Advance Wars,0.7
+Advance Wars: Dual Strike,0.39
+Advance Wars 2: Black Hole Rising,0.65
+Advent Rising,0.13
+Adventure Time: The Secret of the Nameless Kingdom,0.08
+Adventure Time: The Secret of the Nameless Kingdom,0.06
+Aedis Eclipse: Generation of Chaos,0.02
+Aegis of Earth: Protonovus Assault,0.03
+Aeon Flux,0.04
+Aeon Flux,0.01
+Aero Elite: Combat Academy,0.07
+Afrika,0.22
+Afro Samurai,0.24
+Afro Samurai,0.2
+A Game of Thrones: Genesis,0.03
+Agatha Christie: And Then There Were None,0.07
+Agatha Christie: Evil Under the Sun,0.08
+Agatha Christie: The ABC Murders,0.1
+Agatha Christie: The ABC Murders,0.02
+Agatha Christie's The ABC Murders,0.03
+Agatha Christie's The ABC Murders,0.01
+Age of Conan: Rise of the Godslayer,0.03
+Age of Empires: Mythologies,0.21
+Age of Empires: The Age of Kings,0.22
+Age of Empires II: The Age of Kings,0.09
+Age of Empires III,0.38
+Age of Empires III: The Asian Dynasties,0.06
+Age of Empires Online,0.06
+Age of Mythology,0.09
+Age of Mythology: The Titans,0.04
+Aggressive Inline,0.35
+Aggressive Inline,0.06
+Aggressive Inline,0.06
+Airblade,0.23
+Airborne Troops: Countdown to D-Day,0.12
+Air Conflicts: Secret Wars,0.03
+AirForce Delta Storm,0.18
+AirForce Delta Strike,0.11
+Airline Tycoon 2,0.05
+Alan Wake,1.33
+Alan Wake,0.06
+Alias,0.11
+Alias,0.05
+Alice: Madness Returns,0.58
+Alice: Madness Returns,0.5
+Alice: Madness Returns,0.12
+Alice in Wonderland,0.51
+Alien: Isolation,1.13
+Alien: Isolation,0.51
+Alien: Isolation,0.14
+Alien Hominid,0.1
+Alien Hominid,0.09
+Alien Resurrection,0.16
+Aliens: Colonial Marines,0.77
+Aliens: Colonial Marines,0.6
+Aliens: Colonial Marines,0.18
+Aliens: Infestation,0.16
+Aliens in the Attic,0.05
+Aliens versus Predator: Extinction,0.19
+Aliens versus Predator: Extinction,0.08
+Aliens vs Predator,1.06
+Aliens vs Predator,1.04
+Aliens vs Predator,0.19
+Aliens vs Predator: Requiem,0.22
+Alien Syndrome,0.08
+Alien Syndrome,0.06
+All-Pro Football 2K8,0.26
+All-Pro Football 2K8,0.15
+All-Star Baseball 2002,0.56
+All-Star Baseball 2002,0.22
+All-Star Baseball 2003,0.77
+All-Star Baseball 2003,0.26
+All-Star Baseball 2003,0.15
+All-Star Baseball 2004,0.42
+All-Star Baseball 2004,0.13
+All-Star Baseball 2004,0.08
+Alone in the Dark,0.48
+Alone in the Dark,0.18
+Alone in the Dark,0.06
+Alone in the Dark,0.01
+Alone in the Dark: Inferno,0.13
+Alpha Protocol,0.43
+Alpha Protocol,0.39
+Alpha Protocol,0.03
+Alter Echo,0.13
+Altered Beast: Guardian of the Realms,0.09
+Alter Ego,0.03
+Alundra,0.23
+Alvin and the Chipmunks,0.07
+Alvin and the Chipmunks,0.05
+Amazing Island,0.06
+America's Army: Rise of a Soldier,0.25
+America's Army: True Soldiers,0.08
+America's Test Kitchen: Let's Get Cooking,0.26
+American Chopper,0.42
+American Chopper,0.15
+American Idol,0.55
+AMF Bowling 2004,0.3
+AMF Xtreme Bowling,0.02
+Amped: Freestyle Snowboarding,0.82
+Amped 2,0.25
+Amped 3,0.16
+Amplitude,0.18
+Anarchy Reigns,0.2
+Anarchy Reigns,0.17
+Angry Birds Star Wars,0.29
+Angry Birds Star Wars,0.28
+Angry Birds Star Wars,0.21
+Angry Birds Star Wars,0.16
+Angry Birds Trilogy,0.63
+Angry Birds Trilogy,0.26
+Angry Birds Trilogy,0.16
+Anima - Gate of Memories,0.02
+Animal Crossing,3.15
+Animal Crossing: Amiibo Festival,0.41
+Animal Crossing: City Folk,4.62
+Animal Crossing: Happy Home Designer,3.05
+Animal Crossing: New Leaf,9.16
+Animal Crossing: Wild World,12.13
+AniMates!,0.03
+Anno 1701: Dawn of Discovery,0.13
+Anno 2070,1.43
+Anno 2205,0.25
+Antz Extreme Racing,0.04
+Antz Extreme Racing,0.02
+Anubis II,0.07
+Apache: Air Assault,0.2
+Apache: Air Assault,0.16
+Apache: Air Assault,0.03
+APB Reloaded,0.04
+Ape Escape,1.63
+Ape Escape: On the Loose,0.7
+Ape Escape 2,0.63
+Ape Escape 3,0.13
+Ape Escape Academy,0.33
+Apex,0.14
+Apollo Justice: Ace Attorney,0.99
+Aquaman: Battle for Atlantis,0.01
+Aquapazza: Aquaplus Dream Match,0.11
+Aqua Teen Hunger Force: Zombie Ninja Pro-Am,0.07
+Arcana Heart,0.16
+Arcana Heart 3,0.2
+Arcania: Gothic 4,0.19
+Arcania: Gothic 4,0.09
+Archer Maclean's Mercury,0.56
+Arc Rise Fantasia,0.19
+Arc the Lad: End of Darkness,0.06
+Arc the Lad: Twilight of the Spirits,0.36
+Arctic Thunder,0.36
+Area 51,0.45
+Area 51,0.29
+Arena Football,0.56
+Arena Football,0.15
+Arkanoid DS,0.06
+ArmA II,0.14
+ArmA III,0.11
+Armed and Dangerous,0.13
+Armored Core: For Answer,0.19
+Armored Core: For Answer,0.15
+Armored Core: Last Raven,0.18
+Armored Core: Nexus,0.26
+Armored Core: Nine Breaker,0.07
+Armored Core: Verdict Day,0.12
+Armored Core 2,0.79
+Armored Core 2: Another Age,0.41
+Armored Core 3,0.67
+Armored Core 3 Portable,0.08
+Armored Core 4,0.2
+Armored Core 4,0.25
+Armored Core V,0.39
+Armored Core V,0.21
+Army Corps of Hell,0.09
+Army Men: Air Attack 2,0.3
+Army Men: Green Rogue,0.13
+Army Men: Major Malfunction,0.02
+Army Men: Sarge's Heroes 2,0.24
+Army Men: Sarge's Heroes 2,0.17
+Army Men: Sarge's War,0.15
+Army of Two,1.64
+Army of Two,1.17
+Army of Two: The 40th Day,0.95
+Army of Two: The 40th Day,0.85
+Army of Two: The 40th Day,0.32
+Army of Two: The Devil's Cartel,0.28
+Army of Two: The Devil's Cartel,0.26
+Ar Nosurge: Ode to an Unborn Star,0.16
+Arslan: The Warriors of Legend,0.09
+Art Academy,2.52
+Art Academy: Home Studio,0.01
+Art Academy: Lessons for Everyone,0.46
+Art of Fighting Anthology,0.04
+Ar tonelico: Melody of Elemia,0.1
+Ar tonelico Qoga: Knell of Ar Ciel,0.24
+Arx Fatalis,0.05
+Asphalt: Injection,0.22
+Asphalt: Urban GT,0.59
+Asphalt 3D,0.49
+Assassin's Creed,5.54
+Assassin's Creed,4.82
+Assassin's Creed: Altair's Chronicles,0.05
+Assassin's Creed: Bloodlines,1.23
+Assassin's Creed: Brotherhood,3.49
+Assassin's Creed: Brotherhood,2.82
+Assassin's Creed: Brotherhood,0.59
+Assassin's Creed: Revelations,4.22
+Assassin's Creed: Revelations,4.19
+Assassin's Creed: Revelations,0.74
+Assassin's Creed: Rogue,1.29
+Assassin's Creed: Rogue,1.01
+Assassin's Creed: Rogue,0.08
+Assassin's Creed: Unity,3.96
+Assassin's Creed: Unity,3.5
+Assassin's Creed: Unity,0.55
+Assassin's Creed Chronicles,0.07
+Assassin's Creed Chronicles: China,0.04
+Assassin's Creed II,5.55
+Assassin's Creed II,5.26
+Assassin's Creed II,0.55
+Assassin's Creed II: Discovery,0.28
+Assassin's Creed III,6.45
+Assassin's Creed III,5.29
+Assassin's Creed III,0.93
+Assassin's Creed III,0.35
+Assassin's Creed III: Liberation,1.32
+Assassin's Creed IV: Black Flag,3.71
+Assassin's Creed IV: Black Flag,3.3
+Assassin's Creed IV: Black Flag,2.85
+Assassin's Creed IV: Black Flag,0.64
+Assassin's Creed IV: Black Flag,0.29
+Assassin's Creed Syndicate,3.39
+Assassin's Creed Syndicate,1.3
+Assassin's Creed Syndicate,0.21
+Assassin's Creed The Ezio Collection,0.2
+Assassin's Creed The Ezio Collection,0.08
+Assetto Corsa,0.06
+Assetto Corsa,0.02
+Astonishia Story,0.03
+Astro Boy,0.09
+Astro Boy: Omega Factor,0.09
+Astro Boy: The Video Game,0.11
+Astro Boy: The Video Game,0.11
+Asura's Wrath,0.4
+Asura's Wrath,0.24
+Atari Anthology,0.4
+Atari Classics Evolved,0.09
+Atelier Annie: Alchemists of Sera Island,0.12
+Atelier Ayesha: The Alchemist of Dusk,0.26
+Atelier Iris: Eternal Mana,0.15
+Atelier Iris 2: The Azoth Of Destiny,0.06
+Atelier Shallie: Alchemists of the Dusk Sea,0.18
+Atelier Sophie: The Alchemist of the Mysterious Book,0.12
+Atelier Totori: The Adventurer of Arland,0.42
+Athens 2004,0.27
+Atomic Betty,0.03
+Attack of the Movies 3D,0.04
+Attack on Titan: Humanity in Chains,0.42
+ATV Offroad Fury,2.41
+ATV Offroad Fury: Blazin' Trails,0.57
+ATV Offroad Fury 2,2.18
+ATV Offroad Fury 3,1.2
+ATV Quad Power Racing 2,0.28
+Auto Modellista,0.39
+Avalon Code,0.24
+A Vampyre Story,0.02
+Avatar: The Last Airbender,0.5
+Avatar: The Last Airbender,0.33
+Avatar: The Last Airbender,0.28
+Avatar: The Last Airbender,0.11
+A Witch's Tale,0.11
+Azure Striker Gunvolt,0.01
+Azurik: Rise of Perathia,0.24
+Back to the Future: The Game,0.09
+Back to the Future: The Game,0.05
+Backyard Baseball,0.13
+Backyard Baseball '09,0.04
+Backyard Wrestling: Don't Try This at Home,0.6
+Backyard Wrestling: Don't Try This at Home,0.17
+Backyard Wrestling 2: There Goes the Neighborhood,0.28
+Bad Boys: Miami Takedown,1.15
+Bad Boys: Miami Takedown,0.18
+Bad Boys: Miami Takedown,0.05
+Baja: Edge of Control,0.21
+Baja: Edge of Control,0.2
+Bakugan: Battle Brawlers,1.38
+Bakugan: Battle Brawlers,0.66
+Bakugan: Battle Brawlers,0.24
+Bakugan: Battle Brawlers,0.23
+Baldur's Gate: Dark Alliance,1.24
+Baldur's Gate: Dark Alliance,0.2
+Baldur's Gate: Dark Alliance,0.14
+Baldur's Gate: Dark Alliance,0
+Baldur's Gate: Dark Alliance II,0.68
+Baldur's Gate: Dark Alliance II,0.26
+Ball Breakers,0.18
+Balls of Fury,0.02
+Band Hero,0.97
+Band Hero,0.79
+Band Hero,0.74
+Band Hero,0.43
+Bangai-O Spirits,0.08
+Banjo-Kazooie,0.01
+Banjo-Kazooie: Grunty's Revenge,0.33
+Banjo-Pilot,0.1
+Barbie Groovy Games,0.56
+Barnyard,0.09
+Barnyard,0.04
+Baroque,0.13
+Baroque,0.07
+Baseball Advance,0.13
+Bass Pro Shops: The Strike,0.21
+Bass Strike,0.28
+Baten Kaitos: Eternal Wings and the Lost Ocean,0.27
+Baten Kaitos Origins,0.1
+Batman: Arkham Asylum,4.23
+Batman: Arkham Asylum,3.48
+Batman: Arkham Asylum,0.32
+Batman: Arkham City,5.48
+Batman: Arkham City,4.73
+Batman: Arkham City,0.53
+Batman: Arkham Knight,3.95
+Batman: Arkham Knight,1.49
+Batman: Arkham Knight,0.13
+Batman: Arkham Origins,2.29
+Batman: Arkham Origins,1.88
+Batman: Arkham Origins,0.31
+Batman: Arkham Origins,0.31
+Batman: Arkham Origins Blackgate,0.42
+Batman: Arkham Origins Blackgate,0.27
+Batman: Arkham VR,0.3
+Batman: Dark Tomorrow,0.11
+Batman: Dark Tomorrow,0.08
+Batman: Return to Arkham,0.26
+Batman: Return to Arkham,0.11
+Batman: Rise of Sin Tzu,0.35
+Batman: Rise of Sin Tzu,0.11
+Batman: Rise of Sin Tzu,0.07
+Batman: The Brave and the Bold the Videogame,0.29
+Batman: Vengeance,0.55
+Batman: Vengeance,0.26
+Batman Begins,0.56
+Batman Begins,0.21
+Batman Begins,0.17
+Batman Begins,0.15
+Battalion Wars,0.4
+Battalion Wars 2,0.34
+Battle Arena Toshinden,1.27
+Battle Assault 3 featuring Gundam Seed,0.03
+Battleborn,0.26
+Battleborn,0.15
+Battleborn,0.08
+Battle Engine Aquila,0.03
+Battle Fantasia,0.09
+Battlefield: Bad Company,1.46
+Battlefield: Bad Company,1.34
+Battlefield: Bad Company 2,3.47
+Battlefield: Bad Company 2,2.95
+Battlefield: Bad Company 2,0.72
+Battlefield: Hardline,2.1
+Battlefield: Hardline,1.21
+Battlefield: Hardline,0.14
+Battlefield 1,4.08
+Battlefield 1,2.25
+Battlefield 1,0.38
+Battlefield 1942,0.03
+Battlefield 2,0.08
+Battlefield 2: Modern Combat,0.56
+Battlefield 2: Modern Combat,0.44
+Battlefield 2: Modern Combat,0.41
+Battlefield 2142,0.03
+Battlefield 3,7.32
+Battlefield 3,7.17
+Battlefield 3,2.78
+Battlefield 4,3.59
+Battlefield 4,3.49
+Battlefield 4,3.48
+Battlefield 4,2.02
+Battlefield 4,1.35
+Battlefield Vietnam,0.03
+BattleForge,0.01
+Battle Princess of Arcadias,0.02
+Battles of Prince of Persia,0.12
+Battlestar Galactica,0.16
+Battlestations: Midway,0.26
+Battlestations: Midway,0.01
+Battlestations: Pacific,0.32
+Battlestations: Pacific,0.03
+Battle Worlds: Kronos,0.01
+Battlezone,0.04
+Bayonetta,1.21
+Bayonetta,0.93
+Bayonetta 2,0.76
+B-Boy,0.05
+Beach Spikers: Virtua Beach Volleyball,0.1
+Beat Down: Fists of Vengeance,0.17
+Beaterator,0.09
+BeatMania,0.07
+Beautiful Katamari,0.32
+Bee Movie Game,0.33
+Bee Movie Game,0.17
+Bee Movie Game,0.1
+Bejeweled 3,0.08
+Bejeweled Twist,0.05
+Ben 10: Alien Force,0.8
+Ben 10: Protector of Earth,1.23
+Ben 10: Protector of Earth,0.71
+Ben 10 Alien Force: Vilgax Attacks,0.44
+Ben 10 Alien Force: Vilgax Attacks,0.22
+Ben 10 Ultimate Alien: Cosmic Destruction,0.18
+Beowulf: The Game,0.4
+Beowulf: The Game,0.16
+Beowulf: The Game,0.09
+Beyblade Evolution,0.04
+Beyblade G-Revolution,0.2
+BeyBlade VForce: Super Tournament Battle,0.21
+Beyond: Two Souls,1.63
+Big Bang Mini,0.06
+Big Beach Sports,1.66
+Big Brain Academy,6.62
+Big Brain Academy: Wii Degree,3.79
+Big Mutha Truckers,0.84
+Big Mutha Truckers,0.19
+Big Mutha Truckers,0.08
+Big Mutha Truckers 2,0.2
+Big Mutha Truckers 2,0.07
+Billy Hatcher and the Giant Egg,0.25
+Binary Domain,0.33
+Binary Domain,0.19
+Bionic Commando,0.36
+Bionic Commando,0.28
+Bionicle,0.43
+Bionicle,0.21
+Bionicle,0.06
+Bionicle Heroes,0.11
+Bionicle Heroes,0.07
+Bionicle Heroes,0.06
+Bionicle Heroes,0.04
+BioShock,2.83
+BioShock,0.41
+BioShock,1.42
+BioShock 2,2.2
+BioShock 2,1.54
+BioShock Infinite,1.93
+BioShock Infinite,1.69
+BioShock Infinite,0.66
+BioShock The Collection,0.37
+BioShock The Collection,0.16
+Birds of Steel,0.23
+Birds of Steel,0.15
+BIT.TRIP COMPLETE,0.09
+BIT.TRIP SAGA,0.14
+Black,1.25
+Black,0.42
+Black * Rock Shooter: The Game,0.15
+Black Sigil: Blade of the Exiled,0.05
+Blacksite: Area 51,0.57
+Blacksite: Area 51,0.08
+Blackthorne,0.01
+Blackwater,0.12
+Blade Dancer: Lineage of Light,0.06
+Blade II,0.31
+Blade II,0.13
+Blades of Time,0.1
+Blades of Time,0.1
+Bladestorm: Nightmare,0.17
+Bladestorm: Nightmare,0.05
+Bladestorm: The Hundred Years' War,0.28
+Bladestorm: The Hundred Years' War,0.09
+"Blast Works: Build,0
+BlazBlue: Calamity Trigger,0.57
+BlazBlue: Calamity Trigger,0.36
+BlazBlue: Calamity Trigger Portable,0.11
+BlazBlue: Chrono Phantasma,0.3
+BlazBlue: Chrono Phantasma Extend,0.14
+BlazBlue: Continuum Shift,0.41
+BlazBlue: Continuum Shift,0.31
+Blazblue: Continuum Shift Extend,0.11
+Blazblue: Continuum Shift Extend,0.09
+BlazBlue: Continuum Shift II,0.13
+BlazBlue: Continuum Shift II,0.11
+BlazBlue Central Fiction,0.08
+Blazing Angels: Squadrons of WWII,0.66
+Blazing Angels: Squadrons of WWII,0.42
+Blazing Angels: Squadrons of WWII,0.08
+Blazing Angels: Squadrons of WWII,0.02
+Blazing Angels: Squadrons of WWII,0.83
+Blazing Angels 2: Secret Missions of WWII,0.15
+Blazing Angels 2: Secret Missions of WWII,0.14
+Bleach: Dark Souls,0.15
+Bleach: Shattered Blade,0.32
+Bleach: Soul Resurreccion,0.49
+Bleach: The 3rd Phantom,0.2
+Bleach: The Blade of Fate,0.45
+Blinx: The Time Sweeper,0.56
+Blitz: The League,0.53
+Blitz: The League,0.89
+Blitz: The League,0.16
+Blitz: The League II,0.15
+Blitz: The League II,0.1
+Bloodborne,2.48
+Blood Bowl,0.16
+Blood Bowl,0.04
+Blood Bowl: Legendary Edition,0.02
+Blood Drive,0.11
+Blood Drive,0.07
+Blood Omen 2,0.39
+Blood Omen 2,0.19
+BloodRayne,0.42
+BloodRayne,0.21
+BloodRayne,0.11
+BloodRayne 2,0.27
+BloodRayne 2,0.15
+Blood Wake,0.57
+Bloody Roar: Primal Fury,0.18
+Bloody Roar 3,0.35
+Bloody Roar 4,0.09
+Bloody Roar Extreme,0.04
+BlowOut,0.23
+Blue Dragon,0.92
+Blue Dragon: Awakened Shadow,0.1
+Blue Dragon Plus,0.21
+Blur,0.72
+Blur,0.59
+Blur,0.06
+BMX XXX,0.15
+BMX XXX,0.11
+BMX XXX,0.06
+Body and Brain Connection,0.2
+Bodycount,0.11
+Bodycount,0.11
+Boktai: The Sun is in Your Hand,0.15
+Boktai 2: Solar Boy Django,0.04
+Bolt,0.56
+Bolt,0.25
+Bolt,0.19
+Bombastic,0.05
+Bomberman,0.15
+Bomberman,0.15
+Bomberman: Act Zero,0.04
+Bomberman Generation,0.25
+Bomberman Jetters,0.08
+Bomberman Land,0.17
+Bomberman Land,0.06
+Bomberman Party Edition,0.12
+Boogie,0.49
+Boom Blox,1.21
+Boom Blox Bash Party,0.46
+Borderlands,3.44
+Borderlands,2.09
+Borderlands,0.18
+Borderlands: The Handsome Collection,0.88
+Borderlands: The Handsome Collection,0.43
+Borderlands: The Pre-Sequel,0.72
+Borderlands: The Pre-Sequel,0.61
+Borderlands: The Pre-Sequel,0.29
+Borderlands 2,3.05
+Borderlands 2,2.23
+Borderlands 2,0.93
+Borderlands 2,0.64
+Botanicula,0.03
+Bound By Flame,0.19
+Bounty Hounds,0.03
+Braid,0.03
+Brain Age: Concentration Training,0.09
+Brain Age: Train Your Brain in Minutes a Day,20.15
+Brain Age 2: More Training in Minutes a Day,15.29
+Brain Boost: Beta Wave,0.15
+Brain Challenge,0.45
+Brandish: The Dark Revenant,0.02
+Bratz: Rock Angelz,0.38
+Brave: A Warrior's Tale,0.06
+Brave Fencer Musashi,1.14
+Bravely Second: End Layer,0.49
+Breach,0.01
+Breakdown,0.12
+Breath of Fire,0.22
+Breath of Fire: Dragon Quarter,0.19
+Breath of Fire II,0.19
+Breath of Fire IV,0.56
+Brink,1.03
+Brink,0.73
+Brink,0.18
+Britney's Dance Beat,0.24
+Britney's Dance Beat,0.22
+Broken Sword: Shadow of the Templars - The Director's Cut,0.24
+Broken Sword: The Shadow of the Templars,0.06
+Broken Sword: The Sleeping Dragon,0.02
+Broken Sword 5: The Serpent's Curse,0.07
+Broken Sword 5: The Serpent's Curse,0.02
+Brothers: A Tale of Two Sons,0.14
+Brothers: A Tale of Two Sons,0.04
+Brothers In Arms: D-Day,0.46
+Brothers in Arms: Double Time,0.13
+Brothers In Arms: Earned in Blood,0.46
+Brothers In Arms: Earned in Blood,0.31
+Brothers in Arms: Hell's Highway,0.93
+Brothers in Arms: Hell's Highway,0.87
+Brothers in Arms: Hell's Highway,0.02
+Brothers In Arms: Road to Hill 30,0.66
+Brothers In Arms: Road to Hill 30,0.46
+Brothers In Arms DS,0.04
+Bruce Lee: Quest of the Dragon,0.31
+Brunswick Pro Bowling,0.38
+Brutal Legend,0.97
+Brutal Legend,0.94
+Brute Force,0.83
+Bubble Bobble Double Shot,0.04
+Bubble Bobble Revolution,0.05
+Buffy the Vampire Slayer,0.23
+Buffy the Vampire Slayer: Chaos Bleeds,0.18
+Buffy the Vampire Slayer: Chaos Bleeds,0.12
+Buffy the Vampire Slayer: Chaos Bleeds,0.03
+Buffy the Vampire Slayer: Wrath of the Darkhul King,0.03
+Build-A-Bear Workshop,0.93
+Bujingai: The Forsaken City,0.1
+Bulletstorm,1.02
+Bulletstorm,0.53
+Bulletstorm,0.16
+Bullet Witch,0.1
+Bully,0.94
+Bully: Scholarship Edition,1.06
+Bully: Scholarship Edition,0.5
+Bully: Scholarship Edition,0.03
+Burnout,0.74
+Burnout,0.3
+Burnout,0.13
+Burnout 2: Point of Impact,0.85
+Burnout 2: Point of Impact,0.24
+Burnout 2: Point of Impact,0.15
+Burnout 3: Takedown,2.68
+Burnout 3: Takedown,1.31
+Burnout Dominator,0.45
+Burnout Legends,0.84
+Burnout Legends,0.18
+Burnout Paradise,1.94
+Burnout Paradise,1.35
+Burnout Paradise: The Ultimate Box,0.09
+Burnout Revenge,0.9
+Burnout Revenge,0.53
+Burnout Revenge,0.5
+Bushido Blade,1.16
+Bus Simulator 16,0.03
+Bust A Groove 2,0.26
+Bust-A-Move DS,0.11
+Bust-A-Move Universe,0.31
+Buzz Lightyear of Star Command,0.63
+C.O.P.: The Recruit,0.08
+C.O.R.E.,0.04
+Cabela's African Safari,0.14
+Cabela's Alaskan Adventure,0.13
+Cabela's Big Game Hunter,1.42
+Cabela's Big Game Hunter 2005 Adventures,0.56
+Cabela's Big Game Hunter 2005 Adventures,0.18
+Cabela's Dangerous Hunts,1.17
+Cabela's Dangerous Hunts 2009,0.13
+Cabela's Dangerous Hunts 2011,0.33
+Cabela's Deer Hunt: 2004 Season,0.21
+Cabela's Deer Hunt 2005 Season,0.11
+Cabela's North American Adventures,0.11
+Cabela's Trophy Bucks,0.05
+Caesar IV,0.04
+Cake Mania,0.11
+Calling,0.11
+Call of Cthulhu: Dark Corners of the Earth,0.06
+Call of Duty: Advanced Warfare,7.66
+Call of Duty: Advanced Warfare,5.27
+Call of Duty: Advanced Warfare,0.41
+Call of Duty: Black Ops,14.61
+Call of Duty: Black Ops,12.63
+Call of Duty: Black Ops,1.37
+Call of Duty: Black Ops,0.58
+Call of Duty: Black Ops II,13.79
+Call of Duty: Black Ops II,13.67
+Call of Duty: Black Ops II,1.53
+Call of Duty: Black Ops II,0.41
+Call of Duty: Finest Hour,2.89
+Call of Duty: Finest Hour,1.21
+Call of Duty: Finest Hour,0.4
+Call of Duty: Ghosts,10.25
+Call of Duty: Ghosts,9.36
+Call of Duty: Ghosts,3.83
+Call of Duty: Ghosts,2.92
+Call of Duty: Ghosts,0.34
+Call of Duty: Infinite Warfare,4.46
+Call of Duty: Infinite Warfare,2.42
+Call of Duty: Infinite Warfare,0.14
+Call of Duty: Modern Warfare 2,13.47
+Call of Duty: Modern Warfare 2,10.6
+Call of Duty: Modern Warfare 2,0.88
+Call of Duty: Modern Warfare 3,14.73
+Call of Duty: Modern Warfare 3,13.32
+Call of Duty: Modern Warfare 3,1.72
+Call of Duty: Modern Warfare 3,0.82
+Call of Duty: Roads to Victory,2.13
+Call of Duty: World at War,7.38
+Call of Duty: World at War,5.39
+Call of Duty: World at War,1.94
+Call of Duty: World at War,0.89
+Call of Duty: World at War,0.18
+Call of Duty 2,2.03
+Call of Duty 2,0.06
+Call Of Duty 2: Big Red One,2.67
+Call Of Duty 2: Big Red One,1.12
+Call Of Duty 2: Big Red One,0.33
+Call of Duty 3,2.7
+Call of Duty 3,1.5
+Call of Duty 3,1.07
+Call of Duty 4: Modern Warfare,9.31
+Call of Duty 4: Modern Warfare,6.68
+Call of Duty 4: Modern Warfare,1.15
+Call of Duty 4: Modern Warfare,1.05
+Call of Duty Black Ops: Declassified,1.47
+Call of Juarez,0.01
+Call of Juarez,0.18
+Call of Juarez: Bound in Blood,0.88
+Call of Juarez: Bound in Blood,0.6
+Call of Juarez: Bound in Blood,0.03
+Call of Juarez: The Cartel,0.29
+Call of Juarez: The Cartel,0.27
+Call of Juarez: The Cartel,0.11
+Capcom Classics Collection,0.51
+Capcom Classics Collection Remixed,0.3
+Capcom Digital Collection,0.02
+Capcom Fighting Evolution,0.2
+Capcom vs. SNK,0.22
+Capcom vs. SNK 2: Mark of the Millennium 2001,0.75
+Capcom vs. SNK 2 EO,0.11
+Capcom vs. SNK 2 EO,0.1
+Captain America: Super Soldier,0.19
+Captain America: Super Soldier,0.17
+Captain America: Super Soldier,0.08
+Captain Morgane and the Golden Turtle,0.03
+Captain Toad: Treasure Tracker,1.19
+Carmageddon: Max Damage,0.02
+Carmageddon: Max Damage,0.01
+Carnival Games,4.05
+Carnival Games,2.03
+Carnival Games: Mini Golf,1.56
+Carnival Island,0.23
+Cars,1.21
+Cars,1.2
+Cars,1.13
+Cars,0.97
+Cars,0.93
+Cars,0.25
+Cars: Mater-National Championship,0.68
+Cars: Mater-National Championship,0.41
+Cars: Mater-National Championship,0.14
+Cars: Race-O-Rama,0.15
+Cartoon Network: Punch Time Explosion,0.1
+Casper: Spirit Dimensions,0.14
+Castle of Shikigami III,0.04
+Castle Shikigami 2,0.02
+Castlevania: Aria of Sorrow,0.28
+Castlevania: Circle of the Moon,0.89
+Castlevania: Curse of Darkness,0.42
+Castlevania: Curse of Darkness,0.12
+Castlevania: Dawn of Sorrow,0.43
+Castlevania: Harmony of Dissonance,0.26
+Castlevania: Lament of Innocence,0.94
+Castlevania: Lords of Shadow,1.1
+Castlevania: Lords of Shadow,0.66
+Castlevania: Lords of Shadow 2,0.2
+Castlevania: Lords of Shadow 2,0.09
+Castlevania: Lords of Shadow 2,0.04
+Castlevania: Order of Ecclesia,0.36
+Castlevania: Portrait of Ruin,0.4
+Castlevania: Symphony of the Night,1.27
+Castlevania: The Dracula X Chronicles,0.41
+Castlevania Chronicles,0.13
+Castlevania Double Pack,0.1
+Castlevania Judgment,0.16
+Catherine,0.7
+Catherine,0.31
+Catwoman,0.17
+Catwoman,0.07
+Catwoman,0.06
+Cave Story 3D,0.14
+Cel Damage,0.12
+Cel Damage,0.06
+Celebrity Sports Showdown,0.45
+Ceville,0.02
+Champions: Return to Arms,0.65
+Champions of Norrath,1.28
+Chaos Legion,0.3
+Chaos Wars,0.04
+Chaotic: Shadow Warriors,0.16
+Charlie's Angels,0.02
+Charlie and the Chocolate Factory,0.35
+Charlie and the Chocolate Factory,0.3
+Charlie and the Chocolate Factory,0.18
+Charlie and the Chocolate Factory,0.11
+Chase: Hollywood Stunt Driver,0.12
+Chessmaster,0.39
+Chessmaster,0.13
+Chessmaster: The Art of Learning,0.12
+Chibi-Robo! Park Patrol,0.19
+Chicago Enforcer,0.02
+Chicken Run,0.13
+Chicken Shoot,0.35
+Chicken Shoot,0.14
+Child of Eden,0.44
+Child of Eden,0.22
+Child of Light,0.07
+Child of Light,0.05
+Children of Mana,0.48
+Chili Con Carnage,0.02
+Chromehounds,0.28
+Chrono Cross,1.86
+Chrono Trigger,1.34
+Circus Maximus: Chariot Wars,0.07
+Cities: Skylines,0.14
+Cities: Skylines Snowfall,0.01
+Cities in Motion,0.05
+Cities XL 2011,0.02
+Cities XL 2012,0.07
+City Crisis,0.13
+City Life: World Edition,0.04
+Clash of the Titans,0.31
+Clash of the Titans,0.16
+Classic NES Series: Castlevania,0.33
+Classic NES Series: Donkey Kong,0.73
+Classic NES Series: Dr. Mario,0.56
+Classic NES Series: Metroid,0.43
+Classic NES Series: Super Mario Bros.,1.43
+Classic NES Series: The Legend of Zelda,0.89
+Classic NES Series: Zelda II: The Adventure of Link,0.7
+Class of Heroes,0.14
+Clive Barker's Jericho,0.32
+Clive Barker's Jericho,0.2
+Clive Barker's Jericho,0.01
+Clock Tower 3,0.33
+Clock Tower II: The Struggle Within,0.17
+Close Combat: First to Fight,0.18
+Cloudy With a Chance of Meatballs,0.11
+Cloudy With a Chance of Meatballs,0.1
+Cloudy With a Chance of Meatballs,0.09
+Clubhouse Games,3.45
+Coded Arms,0.75
+Coded Arms: Contagion,0.06
+Code Lyoko,0.05
+Code Lyoko: Fall of X.A.N.A.,0.08
+Code Lyoko: Quest for Infinity,0.09
+Codename: Kids Next Door: Operation V.I.D.E.O.G.A.M.E.,0.1
+Codename: Panzers Cold War,0.03
+Codename: Panzers Phase Two,0.01
+Code Name: S.T.E.A.M.,0.21
+Code of Princess,0.2
+Cold Fear,0.11
+Cold Fear,0.06
+Cold War,0.02
+Cold Winter,0.11
+Colin McRae Rally 04,0.1
+Colin McRae Rally 04,0.01
+Colin McRae Rally 2.0,0.91
+Colin McRae Rally 2005,0.05
+Colin McRae Rally 2005,0.02
+Colin McRae Rally 3,1.4
+Colin McRae Rally 3,0.04
+College Hoops 2K6,0.1
+College Hoops 2K6,0.12
+College Hoops 2K7,0.21
+College Hoops 2K7,0.18
+College Hoops 2K8,0.18
+College Hoops 2K8,0.14
+Colony Wars,0.42
+Colosseum: Road to Freedom,0.07
+Combat: Task Force 121,0.07
+Combat Flight Simulator 3: Battle for Europe,0.02
+Combat Mission: Shock Force,0.03
+Combat of Giants: Dinosaurs 3D,0.39
+Commander: Conquest of the Americas,0.03
+Commandos: Strike Force,0.06
+Commandos 2: Men of Courage,0.18
+Commandos 2: Men of Courage,0.07
+Commandos 3: Destination Berlin,0.02
+Company of Heroes,0.05
+Company of Heroes: Opposing Fronts,0.04
+Company of Heroes: Tales of Valor,0.04
+Company of Heroes 2,0.34
+Conan,0.34
+Conan,0.19
+Conception II: Children of the Seven Stars,0.17
+Conception II: Children of the Seven Stars,0.12
+Condemned: Criminal Origins,0.41
+Condemned 2: Bloodshot,0.63
+Condemned 2: Bloodshot,0.39
+Conduit 2,0.12
+Conflict: Denied Ops,0.19
+Conflict: Denied Ops,0.19
+Conflict: Denied Ops,0.01
+Conflict: Desert Storm,1.57
+Conflict: Desert Storm,0.87
+Conflict: Desert Storm,0.08
+Conflict: Global Terror,0.19
+Conflict: Global Terror,0.1
+Conflict: Vietnam,0.53
+Conflict: Vietnam,0.22
+Conflict Zone,0.21
+Constantine,0.11
+Constantine,0.06
+Contact,0.1
+Contra: Shattered Soldier,0.58
+Contra 4,0.3
+Contrast,0.01
+Cooking Mama,5.63
+Cooking Mama: Cook Off,2.89
+Cooking Mama: World Kitchen,0.87
+Cooking Mama 2: Dinner With Friends,3.58
+Cooking Mama 4: Kitchen Magic!,0.61
+Coraline,0.11
+Coraline,0.05
+Corpse Party: Blood Drive,0.18
+Corpse Party: Book of Shadows,0.04
+Corvette,0.24
+Corvette,1.33
+Cosmic Family,0.08
+Cossacks: European Wars,0.03
+Counter-Strike,1.11
+Counter-Strike: Source,0.08
+Crackdown,1.75
+Crackdown 2,1.12
+Cranium Kabookii,0.14
+Crash: Mind Over Mutant,0.5
+Crash: Mind Over Mutant,0.47
+Crash: Mind Over Mutant,0.43
+Crash: Mind Over Mutant,0.42
+Crash: Twinsanity,0.64
+Crash: Twinsanity,0.15
+Crash 'N' Burn,0.21
+Crash 'N' Burn,0.09
+Crash Bandicoot: The Huge Adventure,1.73
+Crash Bandicoot: The Wrath of Cortex,5.42
+Crash Bandicoot: The Wrath of Cortex,1.23
+Crash Bandicoot: The Wrath of Cortex,0.59
+Crash Bandicoot 2: N-Tranced,1.36
+Crash Bandicoot 3: Warped,7.13
+Crash Bandicoot Purple: Ripto's Rampage,0.64
+Crash Bash,3.39
+Crash Nitro Kart,1.95
+Crash Nitro Kart,0.46
+Crash Nitro Kart,0.31
+Crash Nitro Kart,0.26
+Crash of the Titans,0.48
+Crash of the Titans,0.45
+Crash of the Titans,0.41
+Crash of the Titans,0.32
+Crash Tag Team Racing,0.54
+Crash Tag Team Racing,0.24
+Crash Tag Team Racing,0.16
+Crash Tag Team Racing,0.13
+Crash Team Racing,4.79
+Crazy Taxi,2.52
+Crazy Taxi,0.49
+Crazy Taxi: Catch a Ride,0.3
+Crazy Taxi: Fare Wars,0.47
+Crazy Taxi 2,0.07
+Crazy Taxi 3: High Roller,0.2
+Create,0.16
+Create,0.14
+Create,0.06
+Crime Life: Gang Wars,0.05
+Criminal Girls: Invite Only,0.06
+Crimson Gem Saga,0.06
+Crimson Sea,0.09
+Crimson Sea 2,0.07
+Crimson Skies: High Road to Revenge,0.87
+Crimson Tears,0.03
+Crisis Core: Final Fantasy VII,3.18
+Cross Edge,0.23
+CrossworDS,0.55
+"Crouching Tiger,0.02
+Cruis'n,0.12
+Crush,0.08
+Crush3D,0.12
+Crysis,0.71
+Crysis: Warhead,0.02
+Crysis 2,1.34
+Crysis 2,1.29
+Crysis 2,0.74
+Crysis 3,0.9
+Crysis 3,0.87
+Crysis 3,0.63
+CSI: Crime Scene Investigation,0.12
+CSI: Fatal Conspiracy,0.18
+CSI: Fatal Conspiracy,0.17
+CSI: Fatal Conspiracy,0.04
+Cubic Ninja,0.1
+Cubivore: Survival of the Fittest,0.17
+Culdcept,0.03
+Culdcept SAGA,0.16
+Curious George,0.12
+Cursed Mountain,0.21
+Custom Robo,0.37
+Custom Robo Arena,0.16
+Cy Girls,0.04
+Dai Senryaku VII: Modern Military Tactics,0.04
+Damage Inc.: Pacific Squadron WWII,0.07
+Damnation,0.09
+Damnation,0.07
+Dance Central,3.17
+Dance Central: Spotlight,0.19
+Dance Central 2,2.04
+Dance Central 3,0.81
+Dance Dance Revolution: Hottest Party,2.07
+Dance Dance Revolution: Hottest Party 2,1.58
+Dance Dance Revolution: Hottest Party 3,0.44
+Dance Dance Revolution: Mario Mix,0.47
+Dance Dance Revolution Disney Mix,0.04
+Dance Dance Revolution Extreme,2.13
+Dance Dance Revolution Extreme 2,1.14
+Dance Dance Revolution SuperNOVA,1.04
+Dance Dance Revolution Ultramix,0.54
+Dance Dance Revolution Ultramix 2,0.42
+Dance Dance Revolution Ultramix 3,0.38
+Dance Dance Revolution Universe,0.32
+Dance Dance Revolution Universe 2,0.5
+Dance Dance Revolution Universe 3,0.3
+Dance Dance Revolution X,1.75
+Dance Factory,0.03
+DanceMasters,0.19
+Dance on Broadway,1.02
+Dancing With The Stars,0.24
+Danganronpa: Trigger Happy Havoc,0.33
+Danganronpa 2: Goodbye Despair,0.17
+Danganronpa Another Episode: Ultra Despair Girls,0.21
+Dante's Inferno,1.08
+Dante's Inferno,0.92
+Dante's Inferno,0.19
+Dark Angel: Vampire Apocalypse,0.09
+Dark Cloud,1.54
+Dark Cloud 2,0.96
+Darkened Skye,0.01
+Darkest of Days,0.1
+Dark Messiah of Might and Magic Elements,0.2
+Dark Sector,0.48
+Dark Sector,0.47
+Darksiders,1.06
+Darksiders,0.15
+Darksiders,0.02
+Darksiders: Warmastered Edition,0.02
+Darksiders: Warmastered Edition,0.01
+Darksiders II,0.84
+Darksiders II,0.79
+Darksiders II,0.15
+Darksiders II,0.15
+Dark Souls,2.02
+Dark Souls,0.99
+Dark Souls II,1.27
+Dark Souls II,0.74
+Dark Souls II,0.17
+Dark Souls III,1.65
+Dark Souls III,0.39
+Dark Souls III,0.07
+Darkspore,0.12
+Darkstalkers Chronicle: The Chaos Tower,0.15
+Darkstalkers Resurrection,0.03
+DarkStar One,0.03
+DarkStar One: Broken Alliance,0.2
+Darkstone,0.66
+Dark Summit,0.05
+Dark Void,0.35
+Dark Void,0.31
+Dark Void,0.02
+Darkwatch,0.32
+Darkwatch,0.21
+Data East Arcade Classics,0.09
+Dave Mirra BMX Challenge,0.07
+Dave Mirra Freestyle BMX,1.05
+Dave Mirra Freestyle BMX: Maximum Remix,0.27
+Dave Mirra Freestyle BMX 2,1.38
+Dave Mirra Freestyle BMX 2,0.28
+Dave Mirra Freestyle BMX 2,0.2
+Dawn of Discovery,0.38
+Dawn of Discovery,0.19
+Dawn of Discovery,0.11
+Dawn of Mana,0.43
+Daxter,4.21
+DC Universe Online,0.51
+DC Universe Online,0.23
+DDRMAX2: Dance Dance Revolution,1.81
+Dead Head Fred,0.04
+Dead Island,2.37
+Dead Island,2.27
+Dead Island,0.22
+Dead Island: Riptide,0.78
+Dead Island: Riptide,0.6
+Dead Island Definitive Collection,0.14
+Dead Island Definitive Collection,0.05
+Deadliest Catch: Alaskan Storm,0.05
+Deadliest Warrior: Ancient Combat,0.04
+Deadly Creatures,0.22
+Deadly Premonition,0.26
+Dead Man's Hand,0.11
+Dead or Alive,0.28
+Dead or Alive: Dimensions,0.45
+Dead or Alive 3,1.77
+Dead or Alive 4,0.47
+Dead or Alive 5,0.64
+Dead or Alive 5,0.32
+Dead or Alive Paradise,0.18
+Dead or Alive Ultimate,0.5
+Dead or Alive Xtreme 2,0.25
+Dead or Alive Xtreme 3: Fortune,0.05
+Dead or Alive Xtreme Beach Volleyball,0.59
+Deadpool,0.45
+Deadpool,0.43
+Deadpool,0.29
+Dead Rising,2.08
+Dead Rising,0.04
+Dead Rising: Chop Till You Drop,0.29
+Dead Rising 2,1.49
+Dead Rising 2,1.36
+Dead Rising 2,0.14
+Dead Rising 2,0.03
+Dead Rising 2: Off the Record,0.32
+Dead Rising 2: Off the Record,0.27
+Dead Rising 2: Off the Record,0.06
+Dead Rising 3,1.57
+Dead Space,2
+Dead Space,1.4
+Dead Space,0.59
+Dead Space 2,1.51
+Dead Space 2,1.42
+Dead Space 2,0.32
+Dead Space 3,0.98
+Dead Space 3,0.96
+Dead Space Extraction,0.47
+Dead to Rights,1.36
+Dead to Rights,0.72
+Dead to Rights,0.14
+Dead to Rights: Reckoning,0.13
+Dead to Rights: Retribution,0.28
+Dead to Rights: Retribution,0.21
+Dead to Rights II,0.2
+Dead to Rights II,0.11
+Deal or No Deal,1.7
+Deal or No Deal,1.29
+Death By Degrees,0.1
+Death Jr.,0.19
+Death Jr.: Root of Evil,0.11
+Death Jr. and the Science Fair of Doom,0.08
+Death Jr. II: Root of Evil,0.05
+DeathSmiles,0.28
+de Blob,0.96
+de Blob 2,0.21
+de Blob 2,0.18
+de Blob 2,0.15
+de Blob 2,0.11
+Deca Sports,2.5
+DECA Sports Freedom,0.33
+Deception IV: Blood Ties,0.13
+Deception IV: Blood Ties,0.11
+Deep Labyrinth,0.07
+Defender,0.4
+Defiance,0.57
+Defiance,0.35
+Defiance,0.21
+Def Jam: Fight for NY,1.76
+Def Jam Fight For NY: The Takeover,0.09
+Def Jam Icon,0.42
+Def Jam Icon,0.34
+Def Jam Rapstar,0.32
+Def Jam Rapstar,0.29
+Def Jam Vendetta,1.94
+Def Jam Vendetta,0.25
+Delta Force: Black Hawk Down,0.46
+Delta Force: Black Hawk Down,0.34
+Dementium: The Ward,0.17
+Dementium II,0.11
+Demigod,0.02
+DemiKids: Light Version,0.02
+Demon's Souls,1.82
+Demon Gaze,0.17
+Dengeki Bunko Fighting Climax,0.16
+Dengeki Bunko Fighting Climax,0.13
+Deponia,0.15
+Destiny,5.64
+Destiny,3.37
+Destiny: The Taken King,1.93
+Destiny: The Taken King,1.19
+Destruction Derby Arenas,0.13
+Destruction Derby Raw,0.14
+Deus Ex,0.01
+Deus Ex: Human Revolution,1.37
+Deus Ex: Human Revolution,1.37
+Deus Ex: Human Revolution,0.58
+Deus Ex: Invisible War,0.33
+Deus Ex: Mankind Divided,0.38
+Deus Ex: Mankind Divided,0.17
+Deus Ex: Mankind Divided,0.03
+Deus Ex: The Conspiracy,0.21
+Devil's Third,0.06
+Devil Kings,0.25
+Devil May Cry,2.99
+Devil May Cry 2,1.97
+Devil May Cry 3: Dante's Awakening,2.09
+Devil May Cry 4,1.57
+Devil May Cry 4,1.34
+Devil May Cry 4,0.04
+Devil May Cry HD Collection,0.82
+Devil May Cry HD Collection,0.43
+Dewy's Adventure,0.16
+Diablo,1.59
+Diablo II,0.13
+Diablo II: Lord of Destruction,1.06
+Diablo III,5.14
+Diablo III,1.91
+Diablo III,1.41
+Diddy Kong Racing DS,1.22
+Die Hard: Vendetta,0.12
+Digimon All-Star Rumble,0.09
+Digimon Digital Card Battle,0.11
+Digimon Rumble Arena,0.02
+Digimon Rumble Arena 2,0.09
+Digimon Rumble Arena 2,0.04
+Digimon Rumble Arena 2,0.02
+Digimon Story: Cyber Sleuth,0.11
+Digimon World: Data Squad,0.24
+Digimon World 2,0.58
+Digimon World 4,0.15
+Digimon World 4,0.09
+Digimon World 4,0.03
+Digimon World Championship,0.07
+Digimon World DS,0.1
+Dino Crisis 2,1.21
+Dino Crisis 3,0.14
+Dino Dini's Kick Off Revival,0.02
+Dinosaur King,0.22
+Dino Stalker,0.22
+Dirge of Cerberus: Final Fantasy VII,1.48
+DiRT,1.05
+DiRT,0.87
+DiRT,0.02
+DiRT 2,0.99
+DiRT 2,0.8
+DiRT 2,0.37
+DiRT 2,0.32
+DiRT 2,0.05
+DiRT 3,1.06
+DiRT 3,0.72
+DiRT 3,0.15
+DiRT Rally,0.37
+DiRT Rally,0.12
+DiRT Rally,0.03
+DiRT Showdown,0.23
+DiRT Showdown,0.18
+Disaster Report,0.21
+Disciples III: Renaissance,0.02
+Disgaea: Afternoon of Darkness,0.23
+Disgaea: Hour of Darkness,0.33
+Disgaea 2: Cursed Memories,0.33
+Disgaea 2: Dark Hero Days,0.25
+Disgaea 3: Absence of Justice,0.52
+Disgaea 4: A Promise Unforgotten,0.57
+Disgaea 5: Alliance of Vengeance,0.29
+Disgaea D2: A Brighter Darkness,0.21
+Disgaea DS,0.18
+Disgaea Infinite,0.09
+Dishonored,1.71
+Dishonored,1.53
+Dishonored 2,0.64
+Dishonored 2,0.22
+Dishonored 2,0.12
+Disney's A Christmas Carol,0.23
+Disney's Aladdin in Nasira's Revenge,0.09
+Disney's Atlantis: The Lost Empire,0.17
+Disney's Chicken Little,0.65
+Disney's Donald Duck: Goin' Quackers,0.15
+Disney's Donald Duck: Goin' Quackers,0.08
+Disney's Donald Duck: Goin' Quackers,0.04
+Disney's Extreme Skate Adventure,0.32
+Disney's Extreme Skate Adventure,0.12
+Disney's Extreme Skate Adventure,0.11
+Disney's Kim Possible: Kimmunicator,0.13
+Disney's Kim Possible: Revenge of Monkey Fist,0.51
+Disney's Kim Possible 3: Team Possible,0.46
+Disney's Magical Mirror Starring Mickey Mouse,0.19
+Disney's Meet the Robinsons,0.19
+Disney's Party,0.05
+Disney's PK: Out of the Shadows,0.12
+Disney's Planes,0.2
+Disney's Stitch: Experiment 626,0.31
+Disney's Tarzan Untamed,0.41
+Disney's Tarzan Untamed,0.18
+Disney's The Emperor's New Groove,0.31
+Disney's The Lion King: Simba's Mighty Adventure,0.15
+Disney Art Academy,0.11
+Disney Golf,0.17
+Disney Guilty Party,0.45
+Disney Infinity,1.44
+Disney Infinity,0.97
+Disney Infinity,0.6
+Disney Magical World,0.92
+Disney Sing It,0.43
+Disney Sing It,0.37
+Disney Sports Skateboarding,0.06
+Disney Universe,1.02
+Disney Universe,0.61
+Disney Universe,0.57
+Dissidia: Final Fantasy,2.23
+Dissidia 012: Duodecim Final Fantasy,0.88
+Divinity: Original Sin,0.02
+Divinity II: Ego Draconis,0.24
+Divinity II: Ego Draconis,0.07
+Divinity II: Flames of Vengeance,0.03
+Divinity II: The Dragon Knight Saga,0.13
+DJ Hero,1.06
+DJ Hero,0.9
+DJ Hero,0.76
+DJ Hero,0.32
+DJ Hero 2,0.82
+DJ Hero 2,0.75
+DJ Hero 2,0.62
+DJ Max Fever,0.11
+DK: King of Swing,0.24
+DmC: Devil May Cry,0.79
+DmC: Devil May Cry,0.44
+Doctor Lautrec and the Forgotten Knights,0.16
+DoDonPachi Resurrection,0.05
+Dog's Life,0.42
+Dokapon Journey,0.05
+Dokapon Kingdom,0.11
+Dokapon Kingdom,0.13
+Doki-Doki Universe,0.01
+Dokuro,0.01
+Don Bradman Cricket 14,0.01
+Don Bradman Cricket 14,0.12
+Donkey Konga,1.15
+Donkey Konga 2,0.39
+Donkey Kong Barrel Blast,0.62
+Donkey Kong Country,2.04
+Donkey Kong Country: Tropical Freeze,1.52
+Donkey Kong Country 2,1.23
+Donkey Kong Country 3,0.77
+Donkey Kong Country Returns,6.44
+Donkey Kong Jungle Beat,1.34
+Don King Boxing,0.08
+Don King Presents: Prizefighter,0.25
+Doom,0.03
+Doom,0.14
+Doom 3,0.1
+Doom 3,1.34
+Doom 3: Resurrection of Evil,0.71
+Doom 3 BFG Edition,0.57
+Doom 3 BFG Edition,0.47
+Doom 3 BFG Edition,0.03
+Dora The Explorer: Dora Saves the Snow Princess,0.55
+Double Dragon Advance,0.05
+Downhill Domination,0.47
+Dr. Seuss' The Cat in the Hat,0.56
+Draglade,0.1
+Dragon's Crown,0.53
+Dragon's Crown,0.35
+Dragon's Dogma,1.74
+Dragon's Dogma,0.79
+Dragon Age: Inquisition,2.01
+Dragon Age: Inquisition,0.93
+Dragon Age: Inquisition,0.73
+Dragon Age: Origins,2.56
+Dragon Age: Origins,1.67
+Dragon Age: Origins,0.51
+Dragon Age II,1.11
+Dragon Age II,0.83
+Dragon Age II,0.63
+Dragon Ball: Advanced Adventure,0.04
+Dragon Ball: Evolution,0.1
+Dragon Ball: Fusions,0.21
+Dragon Ball: Origins,0.12
+Dragon Ball: Raging Blast,0.77
+Dragon Ball: Raging Blast,0.51
+Dragon Ball: Raging Blast 2,0.81
+Dragon Ball: Raging Blast 2,0.64
+Dragon Ball: Revenge of King Piccolo,0.2
+Dragon Ball: XenoVerse,1.11
+Dragon Ball: XenoVerse,0.32
+Dragon Ball: Xenoverse 2,0.71
+Dragon Ball: Xenoverse 2,0.2
+Dragon Ball GT: Transformation,0.28
+Dragon Ball Z: Attack of the Saiyans,0.36
+Dragon Ball Z: Battle of Z,0.31
+Dragon Ball Z: Battle of Z,0.11
+Dragon Ball Z: Battle of Z,0.07
+Dragon Ball Z: Budokai,3.09
+Dragon Ball Z: Budokai,0.69
+Dragon Ball Z: Budokai 2,2.41
+Dragon Ball Z: Budokai 2,0.27
+Dragon Ball Z: Budokai 3,1.94
+Dragon Ball Z: Budokai Tenkaichi,1.66
+Dragon Ball Z: Budokai Tenkaichi 2,0.79
+Dragon Ball Z: Budokai Tenkaichi 2,0.28
+Dragon Ball Z: Budokai Tenkaichi 3,3
+Dragon Ball Z: Budokai Tenkaichi 3,1.02
+Dragon Ball Z: Burst Limit,0.85
+Dragon Ball Z: Burst Limit,0.49
+Dragon Ball Z: Buu's Fury,0.61
+Dragon Ball Z: Collectible Card Game,0.46
+Dragon Ball Z: Extreme Butoden,0.33
+Dragon Ball Z: Harukanaru Densetsu,0.2
+Dragon Ball Z: Infinite World,0.36
+Dragon Ball Z: Sagas,0.46
+Dragon Ball Z: Sagas,0.24
+Dragon Ball Z: Sagas,0.21
+Dragon Ball Z: Shin Budokai,0.54
+Dragon Ball Z: Supersonic Warriors,0.51
+Dragon Ball Z: Supersonic Warriors 2,0.49
+Dragon Ball Z: Taiketsu,1.08
+Dragon Ball Z: Tenkaichi Tag Team,0.26
+Dragon Ball Z: The Legacy of Goku,1.69
+Dragon Ball Z: The Legacy of Goku II,1.09
+Dragon Ball Z: Ultimate Tenkaichi,0.61
+Dragon Ball Z: Ultimate Tenkaichi,0.54
+Dragon Ball Z for Kinect,0.01
+Dragon Blade: Wrath of Fire,0.18
+Dragon Booster,0.02
+Dragoneer's Aria,0.07
+Dragon Quest Heroes: Rocket Slime,0.44
+Dragon Quest IV: Chapters of the Chosen,1.62
+Dragon Quest IX: Sentinels of the Starry Skies,5.78
+Dragon Quest Monsters: Joker,1.76
+Dragon Quest Monsters: Joker 2,1.41
+Dragon Quest Swords: The Masked Queen and the Tower of Mirrors,0.7
+Dragon Quest V: Hand of the Heavenly Bride,1.57
+Dragon Quest VI: Realms of Revelation,1.73
+Dragon Quest VIII: Journey of the Cursed King,5.21
+Dragon Rage,0.06
+Dragon Valor,0.07
+Drakan: The Ancients' Gates,0.26
+Drakengard,0.65
+Drakengard 2,0.13
+Drakengard 3,0.31
+Drawn to Life,0.78
+Drawn To Life: SpongeBob SquarePants Edition,1.48
+Drawn to Life: The Next Chapter,0.75
+Drawn to Life: The Next Chapter,0.64
+Dreamcast Collection,0.24
+Dreamfall: The Longest Journey,0.04
+Dream Pinball 3D,0.14
+Driv3r,1.23
+Driv3r,0.76
+DriveClub,2.07
+DriveClub VR,0.09
+Driven,0.15
+Driver,6.27
+Driver: Parallel Lines,0.28
+Driver: Parallel Lines,0.07
+Driver: Parallel Lines,0.03
+Driver: Renegade,0.09
+Driver: San Francisco,0.95
+Driver: San Francisco,0.7
+Driver: San Francisco,0.18
+Driver: San Francisco,0.16
+Driver '76,0.24
+Driver 2,4.73
+Driver 2 Advance,0.34
+Drome Racers,0.03
+Drone Tactics,0.02
+Dropship: United Peace Force,0.1
+DuckTales: Remastered,0.06
+DuckTales: Remastered,0.05
+DuckTales: Remastered,0.02
+Duel Masters,0.27
+Duel Masters: Sempai Legends,0.29
+Duke Nukem: Land of the Babes,0.08
+Duke Nukem 3D: 20th Anniversary World Tour,0.03
+Duke Nukem Forever,0.83
+Duke Nukem Forever,0.76
+Duke Nukem Forever,0.41
+Dungeon Defenders,0.02
+Dungeon Explorer: Warriors of Ancient Arts,0.01
+Dungeon Hunter Alliance,0.2
+Dungeon Maker: Hunting Ground,0.03
+Dungeons,0.09
+Dungeons 2,0.01
+Dungeon Siege: Throne of Agony,0.16
+Dungeon Siege II,0.03
+Dungeon Siege III,0.39
+Dungeon Siege III,0.37
+Dungeon Siege III,0.17
+Dungeons - The Dark Lord,0.02
+Dying Light,2.09
+Dying Light,1.29
+Dying Light,0.2
+Dynasty Tactics,0.29
+Dynasty Tactics 2,0.11
+Dynasty Warriors,0.51
+Dynasty Warriors: Gundam 2,0.49
+Dynasty Warriors: Gundam 2,0.34
+Dynasty Warriors: Gundam 2,0.19
+Dynasty Warriors: Gundam 3,0.54
+Dynasty Warriors: Gundam 3,0.18
+Dynasty Warriors: Gundam Reborn,0.23
+Dynasty Warriors: Strikeforce,0.45
+Dynasty Warriors: Strikeforce,0.29
+Dynasty Warriors: Strikeforce,0.23
+Dynasty Warriors 2,0.83
+Dynasty Warriors 3,1.87
+Dynasty Warriors 3,0.08
+Dynasty Warriors 3: Xtreme Legends,1
+Dynasty Warriors 4,2.11
+Dynasty Warriors 4,0.16
+Dynasty Warriors 4: Xtreme Legends,0.86
+Dynasty Warriors 4 Empires,0.32
+Dynasty Warriors 5,1.39
+Dynasty Warriors 5,0.05
+Dynasty Warriors 5: Xtreme Legends,0.57
+Dynasty Warriors 5 Empires,0.34
+Dynasty Warriors 5 Empires,0.13
+Dynasty Warriors 6,0.71
+Dynasty Warriors 6,0.3
+Dynasty Warriors 6,0.25
+Dynasty Warriors 6 Empires,0.34
+Dynasty Warriors 6 Empires,0.24
+Dynasty Warriors 7,0.91
+Dynasty Warriors 7,0.24
+Dynasty Warriors 7: Empires,0.14
+Dynasty Warriors 7: Xtreme Legends,0.26
+Dynasty Warriors 8,0.6
+Dynasty Warriors 8,0.15
+Dynasty Warriors 8: Empires,0.19
+Dynasty Warriors 8: Empires,0.07
+Dynasty Warriors 8: Empires,0.02
+Dynasty Warriors 8: Xtreme Legends,0.16
+Dynasty Warriors Gundam,0.47
+Dynasty Warriors Gundam,0.19
+Dynasty Warriors Next,0.24
+Dynasty Warriors Vol. 2,0.05
+E.T. The Extra-Terrestrial,0.01
+E·O·E: Eve of Extinction,0.1
+Eagle Flight,0.07
+EA Playground,1.29
+EA Playground,0.33
+Earth Defense Force: Insect Armageddon,0.2
+Earth Defense Force: Insect Armageddon,0.19
+Earth Defense Force 2: Invaders from Planet Space,0.07
+Earth Defense Force 2017,0.08
+Earth Defense Force 2017 Portable,0.06
+Earth Defense Force 2025,0.35
+Earth Defense Force 2025,0.15
+Earth Defense Force 4.1: The Shadow of New Despair,0.06
+Earthworm Jim,0.29
+Earthworm Jim 2,0.03
+EA Sports Active,3.9
+EA Sports Active 2,1.26
+EA Sports Active 2,0.91
+EA Sports Active 2,0.39
+EA Sports MMA,0.37
+EA Sports MMA,0.35
+EA Sports UFC,1.05
+EA Sports UFC,0.47
+EA Sports UFC 2,0.93
+EA Sports UFC 2,0.41
+East India Company,0.02
+Eat Lead: The Return of Matt Hazard,0.13
+Eat Lead: The Return of Matt Hazard,0.12
+Ecco the Dolphin: Defender of the Future,0.14
+echochrome,0.09
+Echo Night Beyond,0.04
+ECW Anarchy Rulz,0.11
+"Ed,0.06
+"Ed,0.01
+"Ed,0
+Egg Mania: Eggstreme Madness,0.01
+Elebits,0.32
+Elebits: The Adventures of Kai and Zero,0.08
+Electroplankton,0.03
+Elite Beat Agents,0.36
+El Shaddai: Ascension of the Metatron,0.28
+El Shaddai: Ascension of the Metatron,0.16
+Elven Legacy,0.02
+Emergency 2012,0.07
+Emergency Heroes,0.47
+Emergency Mayhem,0.02
+Empire: Total War,1.08
+Empire Earth,0.05
+Empire Earth II,0.03
+Empire Earth III,0.04
+Enchanted Arms,0.19
+Enchanted Arms,0.2
+Enclave,0.14
+Endgame,0.08
+Endless Ocean,1.06
+Endless Ocean: Blue World,0.86
+Enemy Front,0.05
+Enemy Front,0.04
+Enemy Territory: Quake Wars,0.02
+Enemy Territory: Quake Wars,0.45
+Enemy Territory: Quake Wars,0.35
+Enslaved: Odyssey to the West,0.55
+Enslaved: Odyssey to the West,0.54
+Enter the Matrix,3.18
+Enter the Matrix,1.2
+Enter the Matrix,0.45
+Enthusia Professional Racing,0.15
+Ephemeral Fantasia,0.08
+Epic Mickey,3
+Epic Mickey 2: The Power of Two,0.51
+Epic Mickey 2: The Power of Two,0.47
+Epic Mickey 2: The Power of Two,0.23
+Eragon,0.16
+Eragon,0.14
+Escape Dead Island,0.07
+Escape Dead Island,0.07
+Escape from Bug Island,0.06
+Escape From Monkey Island,0.1
+ESPN: Sports Connection,0.36
+ESPN College Hoops,0.16
+ESPN College Hoops 2K5,0.84
+ESPN College Hoops 2K5,0.38
+ESPN NBA 2K5,1.59
+ESPN NBA 2K5,0.95
+ESPN NBA Basketball,0.54
+ESPN NBA Basketball,0.27
+ESPN NFL 2K5,2.62
+ESPN NFL 2K5,1.63
+ESPN NFL Football,0.56
+ESPN NFL Football,0.36
+ESPN NHL 2K5,0.88
+ESPN NHL 2K5,0.42
+ESPN NHL Hockey,0.23
+ESPN NHL Hockey,0.11
+ESPN Winter X Games: Snowboarding 2002,0.21
+ESPN X Games Skateboarding,0.36
+Eternal Darkness: Sanity's Requiem,0.44
+Eternal Poison,0.14
+Eternal Ring,0.3
+Eternal Sonata,0.32
+Eternal Sonata,0.44
+Etrian Mystery Dungeon,0.24
+Etrian Odyssey,0.33
+Etrian Odyssey II: Heroes of Lagaard,0.26
+Etrian Odyssey III: The Drowned City,0.31
+Etrian Odyssey Untold: The Millennium Girl,0.26
+Eureka Seven Vol. 2: The New Vision,0.02
+Euro Truck Simulator 2,0.13
+EVE: Valkyrie,0.1
+EVE Online,0.2
+EverBlue 2,0.03
+EverGrace,0.35
+EverQuest Online Adventures,0.43
+EverQuest Online Adventures: Frontiers,0.19
+Everybody Dance,0.12
+Every Extend Extra,0.12
+Evil Dead: Hail to the King,0.27
+Evil Dead: Regeneration,0.21
+Evil Genius,0.02
+Evolution Skateboarding,0.26
+Evolution Worlds,0.08
+Evolve,0.96
+Evolve,0.64
+Evolve,0.19
+ExciteBots: Trick Racing,0.26
+Excite Truck,0.53
+ExerBeat,0.29
+Exist Archive: The Other Side of the Sky,0.06
+Exist Archive: The Other Side of the Sky,0.04
+Exit,0.08
+Exit DS,0.1
+Extermination,0.55
+EyePet,0.99
+EyeToy: AntiGrav,0.43
+EyeToy: Groove,0.18
+EyeToy: Kinetic,0.17
+EyeToy Play,4.2
+EyeToy Play 2,0.38
+F.E.A.R.,0.34
+F.E.A.R.,0.54
+F.E.A.R. 2: Project Origin,0.52
+F.E.A.R. 2: Project Origin,0.47
+F.E.A.R. 2: Project Origin,0.07
+F.E.A.R. 3,0.45
+F.E.A.R. 3,0.45
+F.E.A.R. 3,0.15
+F.E.A.R. Files,0.09
+F.E.A.R. Perseus Mandate,0.01
+F1 2001,0.15
+F1 2001,0.06
+F1 2002,0.12
+F1 2002,0.03
+F1 2009,0.87
+F1 2009,0.52
+F1 2010,1.34
+F1 2010,0.88
+F1 2010,0.05
+F1 2011,1.2
+F1 2011,0.72
+F1 2011,0.19
+F1 2011,0.16
+F1 2011,0.13
+F1 2012,1.03
+F1 2012,0.49
+F1 2012,0.15
+F1 2013,0.54
+F1 2013,0.3
+F1 2014,0.41
+F1 2014,0.23
+F1 2014,0.1
+F1 2015,0.66
+F1 2015,0.25
+F1 2015,0.05
+F1 Career Challenge,0.1
+F1 Race Stars,0.32
+F1 Race Stars,0.27
+F1 Race Stars,0.02
+Fable,2.66
+Fable: The Journey,0.28
+Fable: The Lost Chapters,0.07
+Fable II,4.27
+Fable III,5.1
+Fable III,0.32
+FaceBreaker,0.19
+FaceBreaker,0.17
+FaceBreaker K.O. Party,0.22
+Fairy Fencer F,0.19
+Fairy Fencer F: Advent Dark Force,0.07
+Fairytale Fights,0.17
+Fairytale Fights,0.17
+Falcon 4.0: Allied Force,0.02
+Fallout: Brotherhood of Steel,0.07
+Fallout: Brotherhood of Steel,0.05
+Fallout: New Vegas,4.05
+Fallout: New Vegas,3.11
+Fallout: New Vegas,1.17
+Fallout 3,4.93
+Fallout 3,3.94
+Fallout 3,0.98
+Fallout 4,7.16
+Fallout 4,4.22
+Fallout 4,1.29
+Family Feud: 2012 Edition,0.1
+Family Guy,0.19
+Family Guy: Back to the Multiverse,0.26
+Family Guy: Back to the Multiverse,0.25
+Family Party: 30 Great Games,0.09
+Fantasia: Music Evolved,0.15
+Fantastic 4,0.5
+Fantastic 4,0.27
+Fantastic 4,0.24
+Fantastic Four: Rise of the Silver Surfer,0.39
+Fantastic Four: Rise of the Silver Surfer,0.15
+Fantastic Four: Rise of the Silver Surfer,0.11
+Fantastic Four: Rise of the Silver Surfer,0.05
+Fantastic Four: Rise of the Silver Surfer,0.04
+Fantastic Pets,0.41
+Fantasy Life,1.13
+Fantavision,0.47
+Far Cry,0.05
+Far Cry: Primal,2.26
+Far Cry: Primal,0.88
+Far Cry: Primal,0.16
+Far Cry 2,1.59
+Far Cry 2,1.38
+Far Cry 2,0.48
+Far Cry 3,3.35
+Far Cry 3,3
+Far Cry 3,0.96
+Far Cry 4,4.04
+Far Cry 4,1.63
+Far Cry 4,0.63
+Far Cry Instincts,0.57
+Far Cry Instincts Evolution,0.08
+Far Cry Instincts Predator,0.24
+Far Cry Vengeance,0.08
+Farming Simulator 17,0.65
+Farming Simulator 17,0.41
+Farming Simulator 2013,0.96
+Farming Simulator 2013,0.38
+Farming Simulator 2013,0.14
+Fast Racing Neo,0.01
+Fatal Frame,0.14
+Fatal Frame,0.06
+Fatal Frame: Maiden of Black Water,0.11
+Fatal Frame II: Crimson Butterfly,0.16
+Fatal Frame II: Crimson Butterfly Director's Cut,0.05
+Fatal Frame III: The Tormented,0.08
+Fatal Fury: Battle Archives Volume 1,0.04
+Fatal Inertia,0.13
+Fate/Extra,0.31
+Fat Princess: Fistful of Cake,0.12
+Fear Effect 2: Retro Helix,0.18
+Fear Factor: Unleashed,0.14
+Feel the Magic XY/XX,0.29
+Ferrari Challenge Trofeo Pirelli,0.04
+Ferrari F355 Challenge,0.05
+Field Commander,0.16
+FIFA 06: Road to FIFA World Cup,0.15
+FIFA 14,6.47
+FIFA 14,4.22
+FIFA 14,3.01
+FIFA 14,1.16
+FIFA 14,0.4
+FIFA 15,6.08
+FIFA 15,2.18
+FIFA 15,0.28
+FIFA 16,8.57
+FIFA 16,3.25
+FIFA 16,0.2
+FIFA 17,7.59
+FIFA 17,2.65
+FIFA 17,0.12
+FIFA 2001 Major League Soccer,0.32
+FIFA Manager 12,0.05
+FIFA Soccer,0.12
+FIFA Soccer,0.58
+FIFA Soccer 06,4.21
+FIFA Soccer 06,0.68
+FIFA Soccer 06,0.11
+FIFA Soccer 08,3.14
+FIFA Soccer 08,1.75
+FIFA Soccer 08,1.35
+FIFA Soccer 08,1.35
+FIFA Soccer 08,1.02
+FIFA Soccer 08,0.02
+FIFA Soccer 09,2.58
+FIFA Soccer 09,2.28
+FIFA Soccer 09,1.94
+FIFA Soccer 09,1.35
+FIFA Soccer 09,0.49
+FIFA Soccer 09,0.02
+FIFA Soccer 09 All-Play,0.89
+FIFA Soccer 10,3.62
+FIFA Soccer 10,2.62
+FIFA Soccer 10,1.15
+FIFA Soccer 10,0.98
+FIFA Soccer 10,0.05
+FIFA Soccer 11,5.07
+FIFA Soccer 11,3.52
+FIFA Soccer 11,1.2
+FIFA Soccer 11,1.07
+FIFA Soccer 11,0.18
+FIFA Soccer 13,8.16
+FIFA Soccer 13,5.16
+FIFA Soccer 13,0.47
+FIFA Soccer 13,0.44
+FIFA Soccer 13,0.4
+FIFA Soccer 13,0.29
+FIFA Soccer 2002,0.63
+FIFA Soccer 2002,0.18
+FIFA Soccer 2002,0.15
+FIFA Soccer 2003,3.4
+FIFA Soccer 2003,0.63
+FIFA Soccer 2003,0.08
+FIFA Soccer 2004,0.79
+FIFA Soccer 2004,0.07
+FIFA Soccer 2004,0.05
+FIFA Soccer 2005,3.7
+FIFA Soccer 2005,0.97
+FIFA Soccer 2005,0.14
+FIFA Soccer 2005,0.08
+FIFA Street,0.31
+FIFA Street,0.1
+FIFA Street,1.23
+FIFA Street,0.89
+FIFA Street 2,0.37
+FIFA Street 2,0.13
+FIFA Street 2,0.11
+FIFA Street 2,0.08
+FIFA Street 2,0.04
+FIFA Street 3,0.32
+FIFA Street 3,0.32
+FIFA World Cup Germany 2006,0.57
+FIFA World Cup Germany 2006,0.48
+FIFA World Cup Germany 2006,0.24
+FIFA World Cup Germany 2006,0.13
+FIFA World Cup Germany 2006,0.11
+FIFA World Cup Germany 2006,0.04
+FIFA World Cup Germany 2006,0.03
+Fight Club,0.18
+Fight Club,0.11
+Fighter Maker 2,0.07
+Fighters Uncaged,0.6
+Fighter Within,0.19
+Fighting Fantasy: The Warlock of Firetop Mountain,0.09
+Fight Night 2004,1.48
+Fight Night 2004,0.68
+Fight Night Champion,1.11
+Fight Night Champion,0.78
+Fight Night Round 2,0.87
+Fight Night Round 2,0.6
+Fight Night Round 2,0.17
+Fight Night Round 3,1.67
+Fight Night Round 3,1.56
+Fight Night Round 3,1.47
+Fight Night Round 3,0.52
+Fight Night Round 3,0.33
+Fight Night Round 4,1.52
+Fight Night Round 4,1.4
+Final Fantasy: Crystal Chronicles,1.49
+Final Fantasy: The 4 Heroes of Light,0.58
+Final Fantasy Anniversary Edition,0.58
+Final Fantasy Anthology,0.8
+Final Fantasy Chronicles,0.52
+Final Fantasy Crystal Chronicles: Echoes of Time,0.47
+Final Fantasy Crystal Chronicles: Echoes of Time,0.25
+Final Fantasy Crystal Chronicles: Ring of Fates,0.66
+Final Fantasy Crystal Chronicles: The Crystal Bearers,0.39
+Final Fantasy Explorers,0.54
+Final Fantasy Fables: Chocobo's Dungeon,0.21
+Final Fantasy Fables: Chocobo Tales,0.24
+Final Fantasy II Anniversary Edition,0.5
+Final Fantasy III,2.08
+Final Fantasy IV,1.21
+Final Fantasy IV: The Complete Collection,0.56
+Final Fantasy IV Advance,0.61
+Final Fantasy IX,5.3
+Final Fantasy Tactics,2.45
+Final Fantasy Tactics: The War of the Lions,1.16
+Final Fantasy Tactics A2: Grimoire of the Rift,0.75
+Final Fantasy Tactics Advance,2.13
+Final Fantasy V Advance,0.26
+Final Fantasy VI Advance,0.28
+Final Fantasy VII,9.72
+Final Fantasy VIII,7.86
+Final Fantasy X,8.05
+Final Fantasy X / X-2 HD Remaster,1.27
+Final Fantasy X / X-2 HD Remaster,0.8
+Final Fantasy X-2,5.29
+Final Fantasy XI,0.19
+Final Fantasy XI: Chains of Promathia,0.25
+Final Fantasy XI: Treasures of Aht Urhgan,0.23
+Final Fantasy XI: Wings of the Goddess,0.3
+Final Fantasy XII,5.95
+Final Fantasy XII: Revenant Wings,1.37
+Final Fantasy XIII,5.33
+Final Fantasy XIII,2.16
+Final Fantasy XIII-2,2.63
+Final Fantasy XIII-2,0.73
+Final Fantasy XIV: Heavensward,0.13
+Final Fantasy XIV: Heavensward,0.02
+Final Fight: Streetwise,0.05
+Final Fight: Streetwise,0.02
+Final Fight One,0.21
+Finding Nemo,0.89
+Fire Emblem,0.97
+Fire Emblem: Awakening,2.01
+Fire Emblem: Path of Radiance,0.54
+Fire Emblem: Radiant Dawn,0.49
+Fire Emblem: Shadow Dragon,0.61
+Fire Emblem: The Sacred Stones,0.89
+Fire Pro Wrestling Returns,0.09
+Fisherman's Challenge,0.04
+Fishing Master,0.31
+Fishing Resort,0.39
+Fish Tycoon,0.26
+Fist of the North Star: Ken's Rage,0.66
+Fist of the North Star: Ken's Rage,0.16
+Fist of the North Star: Ken's Rage 2,0.3
+Fist of the North Star: Ken's Rage 2,0.06
+Fist of the North Star: Ken's Rage 2,0.02
+Flash Focus: Vision Training in Minutes a Day,3.83
+FlatOut,0.38
+FlatOut,0.17
+FlatOut: Head On,0.29
+FlatOut: Ultimate Carnage,0.11
+FlatOut: Ultimate Carnage,0.01
+FlatOut 2,0.16
+FlatOut 2,0.04
+FlingSmash,0.47
+Flipnic: Ultimate Pinball,0.06
+"Flower,0
+Folklore,0.32
+Food Network: Cook or Be Cooked,0.44
+Football Manager 2010,0.07
+Football Manager 2011,1.26
+Football Manager 2012,1.51
+Football Manager 2013,1.15
+Football Manager 2014,0.64
+Football Manager 2015,0.46
+Football Manager 2016,0.35
+Football Manager 2017,0.09
+Football Manager Handheld 2010,0.35
+Football Manager Handheld 2011,0.41
+Football Manager Live,0.01
+Ford Mustang: The Legend Lives,0.29
+Ford Racing,0.86
+Ford Racing 2,1
+Ford Racing 3,0.26
+Ford Racing Off Road,0.47
+Forever Kingdom,0.09
+Forgotten Realms: Demon Stone,0.2
+Forgotten Realms: Demon Stone,0.09
+Formula One 2001,0.26
+Fortune Street,0.48
+Forza Horizon,1.96
+Forza Horizon 2,1.4
+Forza Horizon 3,1.08
+Forza Motorsport,1.05
+Forza Motorsport 2,4.05
+Forza Motorsport 3,5.49
+Forza Motorsport 4,4.57
+Forza Motorsport 5,2.2
+Forza Motorsport 6,1.8
+Fossil Fighters,0.89
+Fossil Fighters: Champions,0.67
+Fossil Fighters: Frontier,0.36
+Fracture,0.33
+Fracture,0.16
+Fragile Dreams: Farewell Ruins of the Moon,0.36
+Freedom Fighters,0.52
+Freedom Fighters,0.23
+Freedom Fighters,0.13
+Freedom Wars,0.65
+Freedom Wings,0.02
+Freekstyle,1.06
+Freelancer,0.05
+Freestyle Metal X,0.09
+Frequency,0.19
+Frogger: Ancient Shadow,0.1
+Frogger: Helmet Chaos,0.11
+Frogger: The Great Quest,1.23
+Frogger's Adventures: The Rescue,0.32
+Frogger 2: Swampy's Revenge,1.43
+Frogger 3D,0.21
+Frogger Beyond,0.13
+From Russia With Love,0.41
+From Russia With Love,0.22
+From Russia With Love,0.2
+From Russia With Love,0.08
+From The Abyss,0.06
+Frontlines: Fuel of War,0.56
+Frontlines: Fuel of War,0.02
+Front Mission,0.04
+Front Mission 4,0.54
+Front Mission Evolved,0.29
+Front Mission Evolved,0.2
+Front Mission Evolved,0.05
+Fuel,0.31
+Fuel,0.24
+Fuel,0.02
+Fugitive Hunter: War on Terror,0.15
+Full Auto,0.22
+Full Auto 2: Battlelines,0.18
+Fullmetal Alchemist: Dual Sympathy,0.09
+Fullmetal Alchemist: Trading Card Game,0.01
+Fullmetal Alchemist 2: Curse of the Crimson Elixir,0.27
+Fullmetal Alchemist and the Broken Angel,0.56
+Full Spectrum Warrior,0.73
+Full Spectrum Warrior,0.3
+Full Spectrum Warrior: Ten Hammers,0.07
+FunkMaster Flex's Digital Hitz Factory,0.04
+Fur Fighters: Viggo's Revenge,0.14
+Furu Furu Park,0.05
+Futurama,0.07
+Futurama,0.05
+Future Tactics: The Uprising,0.07
+Fuzion Frenzy,1.21
+Fuzion Frenzy 2,0.17
+F-Zero: GP Legend,0.16
+F-Zero: Maximum Velocity,1.04
+F-Zero GX,0.65
+G.I. Joe: The Rise of Cobra,0.24
+G.I. Joe: The Rise of Cobra,0.21
+G.I. Joe: The Rise of Cobra,0.14
+G.I. Joe: The Rise of Cobra,0.14
+G1 Jockey 3,0.1
+Gabrielle's Ghostly Groove 3D,0.11
+Gadget Racers,0.08
+Galactic Wrestling: Featuring Ultimate Muscle,0.22
+Galerians: Ash,0.07
+Galleon: Islands of Mystery,0.03
+Gallop Racer 2001,0.17
+Gallop Racer 2003: A New Breed,0.21
+Gallop Racer 2004,0.06
+Gallop Racer 2006,0.1
+Game of Thrones,0.25
+Game of Thrones,0.24
+Game of Thrones,0.08
+Game Party,2.48
+Game Party: Champions,0.13
+Game Party 2,1.88
+Game Party in Motion,0.58
+Gangs of London,0.95
+Gardening Mama,1.35
+Gauntlet: Dark Legacy,1.15
+Gauntlet: Dark Legacy,0.18
+Gauntlet: Dark Legacy,0.17
+Gauntlet: Seven Sorrows,0.4
+Gauntlet: Seven Sorrows,0.18
+Gears of War,6.09
+Gears of War,0.02
+Gears of War: Judgment,1.57
+Gears of War: Ultimate Edition,3.28
+Gears of War 2,6.75
+Gears of War 3,6.21
+Gears of War 4,1.35
+Geist,0.15
+Gekido Advance: Kintaro's Revenge,0.03
+Generation of Chaos,0.06
+Genji: Dawn of the Samurai,0.23
+Genji: Days of the Blade,0.75
+Genma Onimusha,0.24
+Geometry Wars: Galaxies,0.14
+Geometry Wars: Galaxies,0.12
+George of the Jungle and the Search for the Secret,0.02
+Get Fit with Mel B,0.38
+Get On Da Mic,0.15
+G-Force,0.44
+G-Force,0.22
+G-Force,0.17
+Ghostbusters: The Video Game,0.86
+Ghostbusters: The Video Game,0.84
+Ghostbusters: The Video Game,0.63
+Ghostbusters: The Video Game,0.43
+Ghostbusters: The Video Game,0.4
+Ghostbusters: The Video Game,0.18
+Ghosthunter,0.09
+Ghost in the Shell: Stand Alone Complex,0.07
+Ghost Rider,0.24
+Ghost Squad,0.77
+Ghost Trick: Phantom Detective,0.38
+Giants: Citizen Kabuto,0.06
+Gitaroo Man,0.05
+Gladiator: Sword of Vengeance,0.12
+Gladiator: Sword of Vengeance,0.05
+Gladiator Begins,0.12
+Gladius,0.2
+Gladius,0.14
+Gladius,0.07
+Glory Days 2,0.09
+Glory of Heracles,0.29
+Goat Simulator,0.01
+Goblin Commander: Unleash the Horde,0.17
+Goblin Commander: Unleash the Horde,0.02
+Godai: Elemental Force,0.07
+God Eater 2: Rage Burst,0.11
+God Eater Resurrection,0.08
+God Hand,0.07
+God of War,4.45
+God of War: Ascension,2.25
+God of War: Chains of Olympus,3.18
+God of War: Ghost of Sparta,1
+God of War: Origins Collection,0.55
+God of War Collection,2.6
+God of War Collection,0.2
+God of War II,4.07
+God of War III,4.8
+Gods Eater Burst,0.66
+Godzilla: Destroy All Monsters Melee,0.71
+Godzilla: Save the Earth,0.47
+Godzilla: Save the Earth,0.14
+Godzilla Unleashed,0.16
+Godzilla Unleashed: Double Smash,0.12
+Golden Axe: Beast Rider,0.33
+Golden Axe: Beast Rider,0.32
+GoldenEye: Rogue Agent,0.64
+GoldenEye: Rogue Agent,0.49
+GoldenEye: Rogue Agent,0.36
+GoldenEye: Rogue Agent,0.11
+Goldeneye 007: Reloaded,0.78
+Goldeneye 007: Reloaded,0.5
+Golden Sun,1.76
+Golden Sun: Dark Dawn,0.78
+Golden Sun: The Lost Age,1.22
+Goodbye Deponia,0.07
+Goosebumps HorrorLand,0.16
+Gotcha Force,0.03
+Gothic 3,0.06
+Go Vacation,1.53
+Grabbed by the Ghoulies,0.14
+Gradius Collection,0.06
+Gradius V,0.09
+Graffiti Kingdom,0.03
+Grand Ages: Medieval,0.07
+Grand Ages: Medieval,0.05
+Grandia,0.25
+Grandia II,0.2
+Grandia II,0.29
+Grandia III,0.49
+Grandia Xtreme,0.38
+Grand Kingdom,0.07
+Grand Kingdom,0.06
+Grand Prix Challenge,0.08
+Grand Slam Tennis 2,0.23
+Grand Slam Tennis 2,0.18
+Grand Theft Auto,0.24
+Grand Theft Auto: Chinatown Wars,1.32
+Grand Theft Auto: Chinatown Wars,1.06
+Grand Theft Auto: Liberty City Stories,7.69
+Grand Theft Auto: Liberty City Stories,3.54
+Grand Theft Auto: San Andreas,20.81
+Grand Theft Auto: San Andreas,1.95
+Grand Theft Auto: San Andreas,0.97
+Grand Theft Auto: Vice City,16.15
+Grand Theft Auto: Vice City,0.04
+Grand Theft Auto: Vice City Stories,5.03
+Grand Theft Auto: Vice City Stories,0.97
+Grand Theft Auto 2,3.42
+Grand Theft Auto III,13.1
+Grand Theft Auto III,0.01
+Grand Theft Auto IV,11.01
+Grand Theft Auto IV,10.5
+Grand Theft Auto IV,0.88
+Grand Theft Auto V,21.04
+Grand Theft Auto V,16.27
+Grand Theft Auto V,12.61
+Grand Theft Auto V,5.48
+Grand Theft Auto V,1.17
+Gran Turismo,10.95
+Gran Turismo 2,9.49
+Gran Turismo 3: A-Spec,14.98
+Gran Turismo 4,11.66
+Gran Turismo 5,10.7
+Gran Turismo 5 Prologue,4.19
+Gran Turismo 6,3.23
+Gravity Falls: Legend of the Gnome Gemulets,0.04
+Gravity Games Bike: Street Vert Dirt,0.1
+Gravity Rush,0.56
+Gravity Rush Remastered,0.13
+Gray Matter,0.08
+Green Day: Rock Band,0.41
+Green Day: Rock Band,0.41
+Green Day: Rock Band,0.36
+Green Lantern: Rise of the Manhunters,0.17
+Green Lantern: Rise of the Manhunters,0.13
+Green Lantern: Rise of the Manhunters,0.13
+Greg Hastings' Tournament Paintball,0.54
+Greg Hastings' Tournament Paintball Max'd,0.04
+Greg Hastings' Tournament Paintball Max'd,0.01
+Gretzky NHL,0.1
+Gretzky NHL 06,0.14
+Gretzky NHL 2005,0.17
+Grey's Anatomy: The Video Game,0.02
+GRID,1.1
+GRID,0.87
+GRID 2,0.37
+GRID 2,0.27
+GRID 2,0.06
+GRID Autosport,0.18
+GRID Autosport,0.09
+GRID Autosport,0.02
+GrimGrimoire,0.05
+GripShift,0.09
+Grooverider: Slot Car Thunder,0.01
+Groovin' Blocks,0.01
+Group S Challenge,0.02
+Growlanser: Heritage of War,0.22
+Growlanser Generations,0.11
+GT Advance 2: Rally Racing,0.11
+GT Legends,0.02
+GT Pro Series,0.52
+GTR Evolution,0.03
+Guild Wars,0.03
+Guild Wars: Factions,0.01
+Guild Wars: Nightfall,0.03
+Guild Wars 2,2.31
+Guilty Gear Dust Strikers,0.05
+Guilty Gear Isuka,0.1
+Guilty Gear Judgment,0.16
+Guilty Gear X,0.12
+Guilty Gear X: Advance Edition,0.06
+Guilty Gear X2,0.35
+Guilty Gear X2 #Reload,0.15
+Guilty Gear XX Accent Core,0.04
+Guilty Gear XX Accent Core,0.04
+Guilty Gear XX Accent Core Plus,0.03
+Guinness World Records: The Videogame,1.03
+Guitar Hero,2.38
+Guitar Hero: Aerosmith,1.27
+Guitar Hero: Aerosmith,1.23
+Guitar Hero: Aerosmith,0.99
+Guitar Hero: Aerosmith,0.79
+Guitar Hero: Metallica,0.93
+Guitar Hero: Metallica,0.8
+Guitar Hero: Metallica,0.62
+Guitar Hero: On Tour,3.46
+Guitar Hero: On Tour Decades,1.57
+Guitar Hero: Smash Hits,0.58
+Guitar Hero: Smash Hits,0.42
+Guitar Hero: Smash Hits,0.35
+Guitar Hero: Smash Hits,0.22
+Guitar Hero: Van Halen,0.29
+Guitar Hero: Van Halen,0.28
+Guitar Hero: Van Halen,0.27
+Guitar Hero: Warriors of Rock,0.96
+Guitar Hero: Warriors of Rock,0.86
+Guitar Hero: Warriors of Rock,0.81
+Guitar Hero: World Tour,3.62
+Guitar Hero: World Tour,2.66
+Guitar Hero: World Tour,1.92
+Guitar Hero 5,1.55
+Guitar Hero 5,1.13
+Guitar Hero 5,1.12
+Guitar Hero 5,1.09
+Guitar Hero Encore: Rocks The 80s,1.11
+Guitar Hero II,5.12
+Guitar Hero II,2.2
+Guitar Hero III: Legends of Rock,4.98
+Guitar Hero III: Legends of Rock,4.6
+Guitar Hero III: Legends of Rock,4.53
+Guitar Hero III: Legends of Rock,2.24
+Guitar Hero III: Legends of Rock,0.02
+Guitar Hero Live,0.86
+Guitar Hero Live,0.55
+Guitar Hero Live,0.19
+Guitar Hero On Tour: Modern Hits,0.37
+Gun,1.17
+Gun,0.52
+Gun,0.18
+Gundam Battle Assault,0.23
+Gungrave,0.19
+Gungrave: Overdose,0.14
+Gun Metal,0.11
+Gun Showdown,0.06
+Gunstar Super Heroes,0.07
+Gunvalkyrie,0.17
+Hail to the Chimp,0.06
+Hail to the Chimp,0.05
+Hakuoki: Demon of the Fleeting Blossom,0.09
+Half-Life,4.12
+Half-Life,0.6
+Half-Life 2,2.37
+Half-Life 2,0.61
+Half-Minute Hero,0.18
+Halo: Combat Evolved,6.43
+Halo: Combat Evolved,0.04
+Halo: Combat Evolved Anniversary,2.4
+Halo: Reach,9.86
+Halo: The Master Chief Collection,3.23
+Halo 2,8.49
+Halo 2,0.09
+Halo 2 Multiplayer Map Pack,0.69
+Halo 3,12.12
+Halo 3: ODST,6.34
+Halo 4,9.71
+Halo 5: Guardians,4.48
+Halo Wars,2.62
+Hammerin' Hero,0.07
+Hamtaro: Ham-Ham Games,0.22
+Hamtaro: Ham-Ham Heartbreak,0.36
+Hannah Montana: The Movie,0.21
+Happy Feet,0.14
+Harry Potter: Quidditch World Cup,0.9
+Harry Potter: Quidditch World Cup,0.4
+Harry Potter: Quidditch World Cup,0.39
+Harry Potter: Quidditch World Cup,0.19
+Harry Potter and the Chamber of Secrets,2.61
+Harry Potter and the Chamber of Secrets,1.99
+Harry Potter and the Chamber of Secrets,0.69
+Harry Potter and the Chamber of Secrets,0.36
+Harry Potter and the Chamber of Secrets,0.01
+Harry Potter and the Deathly Hallows - Part 1,0.54
+Harry Potter and the Deathly Hallows - Part 1,0.45
+Harry Potter and the Deathly Hallows - Part 1,0.41
+Harry Potter and the Deathly Hallows - Part 1,0.39
+Harry Potter and the Deathly Hallows - Part 1,0.1
+Harry Potter and the Deathly Hallows - Part 2,0.33
+Harry Potter and the Deathly Hallows - Part 2,0.33
+Harry Potter and the Deathly Hallows - Part 2,0.32
+Harry Potter and the Deathly Hallows - Part 2,0.1
+Harry Potter and the Goblet of Fire,0.65
+Harry Potter and the Goblet of Fire,0.61
+Harry Potter and the Goblet of Fire,0.42
+Harry Potter and the Goblet of Fire,0.23
+Harry Potter and the Goblet of Fire,0.23
+Harry Potter and the Goblet of Fire,0.19
+Harry Potter and the Half-Blood Prince,0.75
+Harry Potter and the Half-Blood Prince,0.61
+Harry Potter and the Half-Blood Prince,0.33
+Harry Potter and the Half-Blood Prince,0.31
+Harry Potter and the Half-Blood Prince,0.03
+Harry Potter and the Order of the Phoenix,0.84
+Harry Potter and the Order of the Phoenix,0.46
+Harry Potter and the Order of the Phoenix,0.37
+Harry Potter and the Order of the Phoenix,0.29
+Harry Potter and the Order of the Phoenix,0.27
+Harry Potter and the Order of the Phoenix,0.24
+Harry Potter and the Order of the Phoenix,0.04
+Harry Potter and the Prisoner of Azkaban,1.02
+Harry Potter and the Prisoner of Azkaban,0.52
+Harry Potter and the Prisoner of Azkaban,0.38
+Harry Potter and the Prisoner of Azkaban,0.19
+Harry Potter and the Prisoner of Azkaban,0.04
+Harry Potter and the Sorcerer's Stone,3.73
+Harry Potter and the Sorcerer's Stone,1.69
+Harry Potter and the Sorcerer's Stone,0.06
+Harry Potter and the Sorcerer's Stone,0.28
+Harry Potter and the Sorcerer's Stone,0.08
+Harry Potter and the Sorcerer's Stone,0.07
+Harvest Moon: Animal Parade,0.73
+Harvest Moon: Another Wonderful Life,0.24
+Harvest Moon: A Wonderful Life,0.79
+Harvest Moon: Back to Nature,0.32
+Harvest Moon: Frantic Farming,0.1
+Harvest Moon: Friends of Mineral Town,0.59
+Harvest Moon: Hero of Leaf Valley,0.14
+Harvest Moon: Magical Melody,0.24
+Harvest Moon: Magical Melody,0.29
+Harvest Moon: More Friends of Mineral Town,0.2
+Harvest Moon: The Tale of Two Towns,0.55
+Harvest Moon: Tree of Tranquility,0.82
+Harvest Moon 3D: A New Beginning,0.91
+Harvest Moon DS: Island of Happiness,0.72
+Harvey Birdman: Attorney at Law,0.1
+Harvey Birdman: Attorney at Law,0.08
+Hasbro Family Game Night,1.43
+Hasbro Family Game Night 2,1.35
+Hatsune Miku: Project Diva f,0.23
+Hatsune Miku: Project Diva f,0.28
+Hatsune Miku: Project Diva F 2nd,0.32
+Hatsune Miku: Project Diva F 2nd,0.25
+Hatsune Miku: Project Diva X,0.12
+Hatsune Miku: Project Diva X,0.05
+Hatsune Miku: Project Mirai DX,0.32
+Haunting Ground,0.07
+Haze,0.99
+HBO Boxing,0.21
+Headhunter,0.38
+Headhunter: Redemption,0.04
+Headhunter: Redemption,0.02
+Hearts of Iron III,0.07
+Hearts of Iron IV,0.05
+Heatseeker,0.1
+Heavenly Sword,1.65
+Heavy Fire: Afghanistan,0.18
+Heavy Rain,3.03
+Hellboy: The Science of Evil,0.17
+Hellboy: The Science of Evil,0.11
+Hellboy: The Science of Evil,0.04
+Hellgate: London,0.02
+Hello Kitty: Roller Rescue,0.08
+Help Wanted: 50 Wacky Jobs,0.1
+Henry Hatsworth in the Puzzling Adventure,0.09
+Herbie: Fully Loaded,0.34
+Herdy Gerdy,0.22
+Here They Lie,0.02
+Heroes of Might and Magic V,0.04
+Heroes of Ruin,0.21
+Heroes of the Pacific,0.29
+Heroes of the Pacific,0.13
+Heroes of the Pacific,0.02
+Heroes over Europe,0.16
+Heroes over Europe,0.14
+Hexyz Force,0.14
+Hidden Invasion,0.08
+High Heat Major League Baseball 2003,0.37
+High Heat Major League Baseball 2004,0.36
+High Heat Major League Baseball 2004,0.08
+High Velocity Bowling,0.15
+Hitman: Absolution,2.14
+Hitman: Absolution,1.73
+Hitman: Absolution,0.24
+Hitman: Blood Money,0.5
+Hitman: Blood Money,0.39
+Hitman: Blood Money,0.14
+Hitman: Blood Money,0.03
+Hitman: Contracts,0.8
+Hitman: Contracts,0.34
+Hitman: HD Trilogy,0.21
+Hitman: HD Trilogy,0.17
+Hitman 2: Silent Assassin,2.96
+Hitman 2: Silent Assassin,0.13
+Hogs of War,0.02
+Homefront,1.45
+Homefront,0.9
+Homefront,0.24
+Homefront: The Revolution,0.35
+Homefront: The Revolution,0.14
+Homefront: The Revolution,0.04
+Hometown Story,0.43
+Homeworld,0.02
+Homeworld 2,0.03
+Homie Rollerz,0.07
+Hoshigami: Ruining Blue Earth,0.05
+Hoshigami: Ruining Blue Earth Remix,0.01
+Hospital Tycoon,0.01
+Hotel Dusk: Room 215,0.54
+Hotel Giant 2,0.03
+Hot Pixel,0.03
+Hot Shots Golf: Open Tee,1.96
+Hot Shots Golf: Open Tee 2,0.68
+Hot Shots Golf: Out of Bounds,1.14
+Hot Shots Golf: World Invitational,0.55
+Hot Shots Golf 3,2.89
+Hot Shots Tennis,0.9
+Hot Shots Tennis: Get a Grip,0.21
+Hot Wheels: Stunt Track Challenge,0.59
+Hot Wheels: Stunt Track Challenge,0.1
+Hot Wheels Velocity X,0.47
+Hot Wheels Velocity X,0.11
+Hot Wheels World Race,0.42
+Hot Wheels World Race,0.16
+Hour of Victory,0.13
+How to Train Your Dragon,0.42
+How to Train Your Dragon,0.18
+How to Train Your Dragon,0.14
+How to Train Your Dragon 2,0.08
+HSX HyperSonic.Xtreme,0.51
+htoL#NiQ: The Firefly Diary,0.01
+Hulk,1.06
+Hulk,0.33
+Hulk,0.19
+Hulk Hogan's Main Event,0.13
+Hummer Badlands,0.02
+Hunted: The Demon's Forge,0.25
+Hunted: The Demon's Forge,0.22
+Hunted: The Demon's Forge,0.05
+Hunter: The Reckoning,0.38
+Hunter: The Reckoning,0.1
+Hunter: The Reckoning Redeemer,0.17
+Hunter: The Reckoning  Wayward,0.43
+Hyperdevotion Noire: Goddess Black Heart,0.13
+Hyperdimension Neptunia,0.43
+Hyperdimension Neptunia U: Action Unleashed,0.11
+Hyperdimension Neptunia Victory,0.16
+Hyrule Warriors,1.23
+Ice Age: Dawn of the Dinosaurs,0.27
+Ice Age: Dawn of the Dinosaurs,0.19
+Ice Age: Dawn of the Dinosaurs,0.12
+Ice Age 2: The Meltdown,0.39
+Ice Age 2: The Meltdown,0.08
+Icewind Dale II,0.01
+ICO,0.47
+IHRA Drag Racing 2004,0.2
+Ikaruga,0.09
+IL-2 Sturmovik,0.01
+IL-2 Sturmovik: 1946,0.04
+IL-2 Sturmovik: Birds of Prey,0.68
+IL-2 Sturmovik: Birds of Prey,0.51
+IL-2 Sturmovik: Birds of Prey,0.06
+IL-2 Sturmovik: Cliffs of Dover,0.05
+IL-2 Sturmovik: Forgotten Battles,0.02
+Imperial Glory,0.04
+Imperium Romanum,0.02
+Impossible Creatures,0.01
+Impossible Mission,0.12
+Inazuma Eleven Strikers,0.26
+Incredible Crisis,0.08
+Indiana Jones and the Emperor's Tomb,0.18
+Indiana Jones and the Staff of Kings,0.72
+Indiana Jones and the Staff of Kings,0.28
+Indiana Jones and the Staff of Kings,0.25
+Indiana Jones and the Staff of Kings,0.25
+Indianapolis 500 Legends,0.13
+Indigo Prophecy,0.15
+Indigo Prophecy,0.1
+Indigo Prophecy,0.02
+IndyCar Series,0.05
+inFAMOUS,2.93
+Infamous: First Light,0.03
+inFAMOUS: Second Son,2.79
+inFAMOUS 2,1.82
+Infected,0.15
+Infernal: Hell's Vengeance,0.08
+Infinite Space,0.2
+Infinite Undiscovery,0.7
+I-Ninja,0.4
+I-Ninja,0.09
+I-Ninja,0.07
+Injustice: Gods Among Us,1.38
+Injustice: Gods Among Us,1.18
+Injustice: Gods Among Us,0.19
+Inkheart,0.02
+Innocent Life: A Futuristic Harvest Moon,0.16
+Insecticide,0.06
+In The Groove,0.07
+InuYasha: A Feudal Fairy Tale,0.11
+InuYasha: Feudal Combat,0.27
+InuYasha: Secret of the Divine Jewel,0.09
+InuYasha: The Secret of the Cursed Mask,0.43
+Inversion,0.07
+Inversion,0.06
+Invizimals,0.79
+Invizimals: The Alliance,0.08
+Invizimals: The Lost Kingdom,0.02
+Iron Man,0.68
+Iron Man,0.63
+Iron Man,0.59
+Iron Man,0.57
+Iron Man,0.54
+Iron Man,0.51
+Iron Man 2,0.39
+Iron Man 2,0.32
+Iron Man 2,0.27
+Iron Phoenix,0.02
+ISS Pro Evolution,0.76
+Ivy the Kiwi?,0.06
+Ivy the Kiwi?,0.05
+Izuna 2: The Unemployed Ninja Returns,0.06
+Jackass the Game,0.28
+Jackass the Game,0.22
+Jack Keane,0.03
+Jade Cocoon 2,0.1
+Jade Empire,0.7
+Jak 3,1.85
+Jak and Daxter: The Lost Frontier,0.61
+Jak and Daxter: The Lost Frontier,0.46
+Jak and Daxter: The Precursor Legacy,3.64
+Jak II,2.78
+Jak X: Combat Racing,0.55
+James Bond 007: Agent Under Fire,3.53
+James Bond 007: Agent Under Fire,0.9
+James Bond 007: Agent Under Fire,0.72
+James Bond 007: Blood Stone,0.7
+James Bond 007: Blood Stone,0.47
+James Bond 007: Blood Stone,0.02
+James Bond 007: Everything or Nothing,0.17
+James Bond 007: Everything or Nothing,2.31
+James Bond 007: Everything or Nothing,0.64
+James Bond 007: Everything or Nothing,0.42
+James Bond 007: Nightfire,3.33
+James Bond 007: Nightfire,0.82
+James Bond 007: Nightfire,0.78
+James Bond 007: Nightfire,0.13
+James Cameron's Dark Angel,0.07
+James Noir's Hollywood Crimes,0.15
+JASF: Jane's Advanced Strike Fighters,0.11
+JASF: Jane's Advanced Strike Fighters,0.09
+JASF: Jane's Advanced Strike Fighters,0.04
+Jaws Unleashed,0.6
+Jaws Unleashed,0.15
+Jeanne d'Arc,0.33
+Jenga World Tour,0.05
+Jeremy McGrath Supercross World,0.23
+Jeremy McGrath Supercross World,0.12
+Jet Grind Radio,0.03
+Jikandia: The Timeless Land,0.03
+Jillian Michaels' Fitness Ultimatum 2009,1.27
+Jimmie Johnson's Anything With an Engine,0.09
+Jimmie Johnson's Anything With an Engine,0.08
+Jimmy Neutron: Boy Genius,0.09
+John Daly's ProStroke Golf,0.11
+JoJo's Bizarre Adventure: All Star Battle,0.58
+JoJo's Bizarre Adventure: Eyes of Heaven,0.03
+Jonah Lomu Rugby Challenge,0.31
+Jonny Moseley Mad Trix,0.14
+Journey,0.21
+JSRF: Jet Set Radio Future,0.21
+J Stars Victory Vs.,0.21
+Judge Dredd: Dredd Vs Death,0.03
+Judge Dredd: Dredd Vs Death,0.02
+Juiced,0.53
+Juiced,0.18
+Juiced: Eliminator,0.42
+Juiced 2: Hot Import Nights,0.63
+Juiced 2: Hot Import Nights,0.39
+Juiced 2: Hot Import Nights,0.37
+Juiced 2: Hot Import Nights,0.25
+Juiced 2: Hot Import Nights,0.01
+Jumper: Griffin's Story,0.09
+Jumper: Griffin's Story,0.06
+JU-ON: The Grudge,0.1
+Jurassic: The Hunted,0.13
+Jurassic Park: Operation Genesis,0.27
+Jurassic Park: Operation Genesis,0.07
+Jurassic Park: Operation Genesis,0.02
+Jurassic Park III: Park Builder,0.06
+Just Cause,0.14
+Just Cause,0.02
+Just Cause,0.02
+Just Cause 2,1.75
+Just Cause 2,1.6
+Just Cause 2,0.12
+Just Cause 3,1.86
+Just Cause 3,0.9
+Just Cause 3,0.14
+Just Dance,7.2
+Just Dance 2,9.44
+Just Dance 2014,0.99
+Just Dance 2014,0.6
+Just Dance 2014,0.45
+Just Dance 2014,0.41
+Just Dance 2014,0.38
+Just Dance 2015,0.73
+Just Dance 2015,0.53
+Just Dance 2015,0.39
+Just Dance 2016,0.57
+Just Dance 2016,0.36
+Just Dance 2016,0.32
+Just Dance 2017,0.04
+Just Dance 3,10.12
+Just Dance 3,2.02
+Just Dance 3,0.62
+Just Dance 4,6.76
+Just Dance 4,1.18
+Just Dance 4,0.43
+Just Dance 4,0.37
+Justice League Heroes,0.22
+Justice League Heroes,0.09
+Justice League Heroes: The Flash,0.03
+K-1 World Grand Prix,0.18
+Kabuki Warriors,0.06
+Kakuto Chojin,0.05
+Kameo: Elements of Power,0.34
+Kao the Kangaroo Round 2,0.02
+Karaoke Revolution,0.35
+Karaoke Revolution,0.09
+Karaoke Revolution Presents American Idol Encore,0.11
+Karaoke Revolution Volume 2,0.23
+Karaoke Revolution Volume 3,0.32
+Karnaaj Rally,0.01
+Katamari Damacy,0.73
+Katamari Forever,0.4
+Kelly Slater's Pro Surfer,0.33
+Kelly Slater's Pro Surfer,0.1
+Kengo: Legend of The 9,0.07
+Kengo: Master of Bushido,0.39
+Kenka Bancho: Badass Rumble,0.28
+Kessen,0.95
+Kessen II,0.46
+Kessen III,0.07
+Kid Icarus: Uprising,1.27
+Kill.Switch,0.7
+Kill.Switch,0.24
+Killer7,0.15
+Killer7,0.09
+Killer is Dead,0.23
+Killer is Dead,0.12
+Killing Floor 2,0.05
+Killzone,0.94
+Killzone: Liberation,0.89
+Killzone: Mercenary,0.8
+Killzone: Shadow Fall,2.69
+Killzone 2,3.01
+Killzone 3,2.77
+Kinect: Disneyland Adventures,2.35
+Kinect Adventures!,21.81
+Kinectimals,1.62
+Kinect Joy Ride,1.43
+Kinect Rush: A Disney Pixar Adventure,0.58
+Kinect Sports,6.19
+Kinect Sports: Season Two,2.34
+Kinect Sports Rivals,0.6
+Kinect Star Wars,1.74
+Kinetica,0.32
+King's Bounty: Armored Princess,0.01
+King's Field: The Ancient City,0.1
+King Arthur,0.13
+Kingdom Hearts,6.4
+Kingdom Hearts: Birth by Sleep,2.06
+Kingdom Hearts: Chain of Memories,1.85
+Kingdom Hearts 358/2 Days,1.98
+Kingdom Hearts 3D: Dream Drop Distance,1.58
+Kingdom Hearts II,4.33
+Kingdom Hearts Re: Chain of Memories,0.87
+Kingdom Hearts Re:coded,0.93
+Kingdom of Paradise,0.15
+Kingdoms of Amalur: Reckoning,0.87
+Kingdoms of Amalur: Reckoning,0.85
+Kingdoms of Amalur: Reckoning,0.3
+Kingdom Under Fire: Circle of Doom,0.37
+Kingdom Under Fire: Heroes,0.15
+Kingdom Under Fire: The Crusaders,0.32
+King of Fighters: Maximum Impact,0.26
+Kirby: Canvas Curse,0.72
+Kirby: Mass Attack,0.99
+Kirby: Nightmare in Dream Land,2.27
+Kirby: Planet Robobot,0.93
+Kirby: Triple Deluxe,1.83
+Kirby's Dream Collection: Special Edition,0.67
+Kirby's Return to Dreamland,1.65
+Kirby Air Ride,1.62
+Kirby and the Rainbow Curse,0.52
+Kirby Squeak Squad,1.94
+Kirby Super Star Ultra,2.92
+KISS Pinball,0.31
+Klonoa,0.16
+Klonoa 2: Dream Champ Tournament,0.03
+Klonoa 2: Lunatea's Veil,0.33
+Knack,1.73
+Knight's Apprentice: Memorick's Adventures,0.02
+Knights Contract,0.08
+Knights Contract,0.08
+Knights in the Nightmare,0.08
+Knights in the Nightmare,0.09
+Knights of Honor,0.03
+Knockout Kings 2001,0.41
+Knockout Kings 2002,0.91
+Knockout Kings 2002,0.27
+Knockout Kings 2003,0.15
+KORG DS-10 Synthesizer,0.22
+Kororinpa: Marble Mania,0.13
+Kung-Fu: High Impact,0.13
+Kung Fu Chaos,0.28
+Kung Fu Panda,3.04
+Kung Fu Panda,0.91
+Kung Fu Panda,0.65
+Kung Fu Panda,0.51
+Kung Fu Panda,0.02
+Kung Fu Rider,0.2
+Kuon,0.02
+Kya: Dark Lineage,0.16
+L.A. Noire,3.17
+L.A. Noire,2.7
+L.A. Noire: The Complete Edition,0.25
+L.A. Rush,0.47
+L.A. Rush,0.14
+Lair,0.51
+Land of the Dead: Road to Fiddler's Green,0.06
+La Pucelle: Tactics,0.19
+Lara Croft and the Temple of Osiris,0.09
+Lara Croft and the Temple of Osiris,0.02
+Lara Croft Tomb Raider: The Angel of Darkness,1.25
+Last Rebellion,0.09
+Left 4 Dead,3.51
+Left 4 Dead,0.02
+Left 4 Dead 2,3.97
+Left 4 Dead 2,0.36
+Legacy of Kain: Defiance,0.53
+Legacy of Kain: Defiance,0.19
+Legacy of Kain: Defiance,0.01
+Legaia 2: Duel Saga,0.26
+Legasista,0.04
+Legend: Hand of God,0.02
+Legendary,0.26
+Legendary,0.13
+Legendary,0.02
+Legend of Kay,0.05
+Legend of Kay Anniversary,0.03
+Legend of Kay Anniversary,0.01
+Legend of the Dragon,0.06
+Legend of the Guardians: The Owls of Ga'Hoole,0.07
+Legends of WrestleMania,0.54
+Legends of WrestleMania,0.39
+Legends of Wrestling,0.14
+Legends of Wrestling,0.13
+Legends of Wrestling II,0.33
+Legends of Wrestling II,0.07
+Legion: The Legend of Excalibur,0.22
+LEGO Batman: The Videogame,3.38
+LEGO Batman: The Videogame,3.05
+LEGO Batman: The Videogame,1.29
+LEGO Batman: The Videogame,1.27
+LEGO Batman: The Videogame,0.06
+LEGO Batman 2: DC Super Heroes,1.66
+LEGO Batman 2: DC Super Heroes,1.19
+LEGO Batman 2: DC Super Heroes,0.75
+LEGO Batman 2: DC Super Heroes,0.33
+LEGO Batman 2: DC Super Heroes,0.12
+Lego Batman 3: Beyond Gotham,0.93
+Lego Batman 3: Beyond Gotham,0.43
+LEGO Battles,1.25
+LEGO Battles: Ninjago,1.45
+LEGO City Undercover,1.1
+LEGO Dimensions,0.73
+LEGO Dimensions,0.53
+LEGO Dimensions,0.41
+LEGO Friends,0.04
+LEGO Harry Potter: Years 1-4,2.43
+LEGO Harry Potter: Years 1-4,2.28
+LEGO Harry Potter: Years 1-4,1.55
+LEGO Harry Potter: Years 1-4,1.31
+LEGO Harry Potter: Years 1-4,0.03
+LEGO Harry Potter: Years 5-7,0.18
+LEGO Harry Potter Collection,0.15
+LEGO Indiana Jones: The Original Adventures,3.76
+LEGO Indiana Jones: The Original Adventures,2.2
+LEGO Indiana Jones: The Original Adventures,1.37
+LEGO Indiana Jones: The Original Adventures,1.17
+LEGO Indiana Jones: The Original Adventures,1.03
+LEGO Indiana Jones: The Original Adventures,0.04
+LEGO Indiana Jones 2: The Adventure Continues,1.4
+LEGO Indiana Jones 2: The Adventure Continues,1.02
+LEGO Indiana Jones 2: The Adventure Continues,0.89
+LEGO Indiana Jones 2: The Adventure Continues,0.05
+LEGO Jurassic World,0.9
+LEGO Jurassic World,0.65
+LEGO Jurassic World,0.52
+LEGO Jurassic World,0.04
+LEGO Legends of Chima: Laval's Journey,0.31
+LEGO Legends of Chima: Laval's Journey,0.13
+LEGO Marvel's Avengers,0.73
+LEGO Marvel's Avengers,0.35
+LEGO Marvel's Avengers,0.24
+LEGO Marvel's Avengers,0.19
+LEGO Marvel Super Heroes,2.22
+LEGO Marvel Super Heroes,1.84
+LEGO Marvel Super Heroes,1.62
+LEGO Marvel Super Heroes,0.9
+LEGO Marvel Super Heroes,0.74
+LEGO Marvel Super Heroes,0.17
+LEGO Pirates of the Caribbean: The Video Game,1.55
+LEGO Pirates of the Caribbean: The Video Game,1.03
+LEGO Pirates of the Caribbean: The Video Game,0.95
+LEGO Pirates of the Caribbean: The Video Game,0.62
+LEGO Pirates of the Caribbean: The Video Game,0.03
+LEGO Rock Band,0.69
+LEGO Rock Band,0.56
+LEGO Rock Band,0.45
+LEGO Rock Band,0.42
+LEGO Star Wars: The Complete Saga,5.64
+LEGO Star Wars: The Complete Saga,4.76
+LEGO Star Wars: The Complete Saga,2.57
+LEGO Star Wars: The Complete Saga,2.29
+Lego Star Wars: The Force Awakens,0.7
+Lego Star Wars: The Force Awakens,0.3
+Lego Star Wars: The Force Awakens,0.15
+LEGO Star Wars II: The Original Trilogy,2.69
+LEGO Star Wars II: The Original Trilogy,1.4
+LEGO Star Wars II: The Original Trilogy,1.07
+LEGO Star Wars II: The Original Trilogy,0.97
+LEGO Star Wars II: The Original Trilogy,0.63
+LEGO Star Wars II: The Original Trilogy,0.44
+LEGO Star Wars II: The Original Trilogy,0.09
+LEGO Star Wars II: The Original Trilogy,0.02
+LEGO Star Wars III: The Clone Wars,1.76
+LEGO Star Wars III: The Clone Wars,1.48
+LEGO Star Wars III: The Clone Wars,1.16
+LEGO Star Wars III: The Clone Wars,1.13
+LEGO Star Wars III: The Clone Wars,0.25
+LEGO The Hobbit,0.6
+LEGO The Hobbit,0.45
+LEGO The Hobbit,0.27
+LEGO The Lord of the Rings,1.23
+LEGO The Lord of the Rings,1.05
+LEGO The Lord of the Rings,0.39
+LEGO The Lord of the Rings,0.28
+LEGO The Lord of the Rings,0.22
+Leisure Suit Larry: Box Office Bust,0.16
+Leisure Suit Larry: Box Office Bust,0.1
+Leisure Suit Larry: Magna Cum Laude,0.34
+Leisure Suit Larry: Magna Cum Laude,0.17
+Le Mans 24 Hours,0.2
+Lemmings,0.86
+Lemony Snicket's A Series of Unfortunate Events,0.64
+Lemony Snicket's A Series of Unfortunate Events,0.42
+Lemony Snicket's A Series of Unfortunate Events,0.12
+Let's TAP,0.17
+Life is Strange,0.4
+Life is Strange,0.13
+Life is Strange,0.04
+Lifeline,0.07
+LifeSigns: Surgical Unit,0.01
+Lightning Returns: Final Fantasy XIII,1.07
+Lightning Returns: Final Fantasy XIII,0.27
+Line Rider 2: Unbound,0.08
+Line Rider 2: Unbound,0.02
+Link's Crossbow Training,4.98
+Links 2004,0.29
+Lips,0.77
+Lips: Number One Hits,0.55
+LittleBigPlanet,5.82
+LittleBigPlanet,2.54
+LittleBigPlanet 2,3.39
+LittleBigPlanet 3,1.91
+LittleBigPlanet Karting,0.87
+LittleBigPlanet PS Vita,1.25
+Little Deviants,0.3
+Little King's Story,0.29
+Little League World Series Baseball 2008,0.09
+Little Red Riding Hood's Zombie BBQ,0.04
+Lizzie McGuire 2: Lizzie Diaries,0.83
+Lock's Quest,0.09
+Lock On: Modern Air Combat,0.03
+LocoRoco,0.38
+LocoRoco 2,0.35
+Lollipop Chainsaw,0.66
+Lollipop Chainsaw,0.48
+Looney Tunes: Acme Arsenal,0.38
+Looney Tunes: Acme Arsenal,0.23
+Looney Tunes: Acme Arsenal,0.08
+Looney Tunes: Back in Action,0.5
+Looney Tunes: Back in Action,0.17
+Looney Tunes: Sheep Raider,0.12
+Lord of Arcana,0.32
+Lord of Magna: Maiden Heaven,0.06
+Lord of the Rings: Battle for Middle-Earth,0.07
+Lords of the Fallen,0.52
+Lords of the Fallen,0.22
+Lords of the Fallen,0.03
+Lost: Via Domus,0.58
+Lost: Via Domus,0.5
+Lost: Via Domus,0.02
+Lost Dimension,0.08
+Lost Dimension,0.07
+Lost Horizon,0.11
+Lost in Blue,0.11
+Lost in Blue: Shipwrecked,0.08
+Lost in Shadow,0.12
+Lost Kingdoms,0.17
+Lost Kingdoms II,0.06
+Lost Magic,0.12
+Lost Odyssey,0.9
+Lost Planet: Extreme Condition,1.34
+Lost Planet: Extreme Condition,0.64
+Lost Planet 2,0.95
+Lost Planet 2,0.03
+Lost Planet 3,0.21
+Lost Planet 3,0.12
+Lost Planet 3,0.04
+Lowrider,0.26
+Lucha Libre AAA: Heroes del Ring,0.11
+Lucha Libre AAA: Heroes del Ring,0.05
+Lufia: Curse of the Sinistrals,0.15
+Lufia: The Ruins of Lore,0.05
+Luigi's Mansion,3.6
+Luigi's Mansion: Dark Moon,4.59
+Lumines: Electronic Symphony,0.23
+Luminous Arc,0.24
+Luminous Arc 2,0.22
+Lunar: Dragon Song,0.12
+Lunar: Silver Star Harmony,0.24
+Lunar: Silver Star Story Complete,0.55
+Lunar 2: Eternal Blue Complete,0.35
+Lunar Knights,0.23
+Lunar Legend,0.19
+Lux-Pain,0.04
+Mace Griffin: Bounty Hunter,0.19
+Mace Griffin: Bounty Hunter,0.11
+Machinarium,0.11
+Madagascar,1.31
+Madagascar: Escape 2 Africa,0.38
+Madagascar: Escape 2 Africa,0.23
+Madagascar: Escape 2 Africa,0.01
+Mad Dash Racing,0.15
+Madden NFL 06,4.91
+Madden NFL 06,1.86
+Madden NFL 06,0.75
+Madden NFL 06,0.57
+Madden NFL 06,0.12
+Madden NFL 07,4.49
+Madden NFL 07,1.8
+Madden NFL 07,1.02
+Madden NFL 07,0.62
+Madden NFL 07,0.52
+Madden NFL 07,0.49
+Madden NFL 07,0.21
+Madden NFL 07,0.03
+Madden NFL 08,2.57
+Madden NFL 08,2.37
+Madden NFL 08,0.97
+Madden NFL 08,0.87
+Madden NFL 08,0.71
+Madden NFL 08,0.29
+Madden NFL 08,0.08
+Madden NFL 09,2.53
+Madden NFL 09,1.88
+Madden NFL 09,1.49
+Madden NFL 09,0.71
+Madden NFL 09 All-Play,0.83
+Madden NFL 10,2.83
+Madden NFL 10,2.37
+Madden NFL 10,0.72
+Madden NFL 11,2.69
+Madden NFL 11,2.38
+Madden NFL 12,2.69
+Madden NFL 12,2.25
+Madden NFL 13,2.86
+Madden NFL 13,2.56
+Madden NFL 13,0.3
+Madden NFL 13,0.23
+Madden NFL 13,0.01
+Madden NFL 15,2.19
+Madden NFL 15,1.57
+Madden NFL 16,3.24
+Madden NFL 16,2.42
+Madden NFL 17,1.75
+Madden NFL 17,1.23
+Madden NFL 2001,1.67
+Madden NFL 2001,1.5
+Madden NFL 2002,3.08
+Madden NFL 2002,1.39
+Madden NFL 2003,4.14
+Madden NFL 2003,0.71
+Madden NFL 2003,0.43
+Madden NFL 2004,1.09
+Madden NFL 2004,0.51
+Madden NFL 2004,0.31
+Madden NFL 2005,4.53
+Madden NFL 2005,1.72
+Madden NFL 2005,0.39
+Madden NFL 2005,0.26
+Madden NFL 25,2.23
+Madden NFL 25,1.87
+Madden NFL 25,0.9
+Madden NFL 25,0.81
+Madden NFL Football,0.39
+Mad Dog McCree: Gunslinger Pack,0.08
+MadWorld,0.77
+Mafia,0.04
+Mafia,0.7
+Mafia,0.23
+Mafia II,1.55
+Mafia II,1.49
+Mafia II,0.4
+Mafia III,1.81
+Mafia III,0.62
+Mafia III,0.19
+Mage Knight: Destiny's Soldier,0.02
+Magician's Quest: Mysterious Times,0.53
+Magicka,0.03
+Magic Pengel: The Quest for Color,0.07
+Magna Carta: Tears of Blood,0.22
+Magna Carta 2,0.3
+Magnetica,0.14
+Mahjong Cub3D,0.09
+Majesty 2: The Fantasy Kingdom Sim,0.02
+Majin and the Forsaken Kingdom,0.29
+Majin and the Forsaken Kingdom,0.19
+Major League Baseball 2K10,0.51
+Major League Baseball 2K10,0.19
+Major League Baseball 2K11,0.45
+Major League Baseball 2K11,0.2
+Major League Baseball 2K11,0.08
+Major League Baseball 2K12,0.5
+Major League Baseball 2K12,0.19
+Major League Baseball 2K5,1.48
+Major League Baseball 2K5,0.56
+Major League Baseball 2K6,0.44
+Major League Baseball 2K6,0.37
+Major League Baseball 2K6,0.33
+Major League Baseball 2K7,0.72
+Major League Baseball 2K7,0.25
+Major League Baseball 2K8,0.61
+Major League Baseball 2K8,0.31
+Major League Baseball 2K8 Fantasy All-Stars,0.12
+Major League Baseball 2K9,0.61
+Major League Baseball 2K9,0.26
+Major League Baseball 2K9,0.17
+Makai Kingdom: Chronicles of the Sacred Tome,0.12
+Mana Khemia: Alchemists of Al-Revis,0.06
+Mana Khemia: Student Alliance,0.1
+Mana Khemia 2: Fall of Alchemy,0.2
+Manhunt,1.28
+Manhunt,0.19
+Manhunt 2,0.56
+Manhunt 2,0.53
+Manhunt 2,0.31
+Marble Saga: Kororinpa,0.16
+Marc Ecko's Getting Up: Contents Under Pressure,0.05
+March of the Penguins,0.05
+Mario Golf: Advance Tour,0.45
+Mario Golf: Toadstool Tour,1.53
+Mario Golf: World Tour,0.48
+Mario Hoops 3 on 3,1.6
+Mario Kart: Super Circuit,5.47
+Mario Kart 7,12.66
+Mario Kart 8,7.09
+Mario Kart DS,23.21
+Mario Kart Wii,35.52
+Mario Party: Island Tour,1.92
+Mario Party: Star Rush,0.3
+Mario Party 10,1.58
+Mario Party 4,2.47
+Mario Party 5,2.08
+Mario Party 6,1.65
+Mario Party 7,1.57
+Mario Party 8,8.27
+Mario Party 9,3.13
+Mario Party Advance,0.98
+Mario Party DS,8.91
+Mario Pinball Land,0.69
+Mario Power Tennis,1.22
+Mario Sports Mix,2.08
+Mario Strikers Charged,2.58
+Mario Super Sluggers,1.89
+Mario Superstar Baseball,1.46
+Mario Tennis: Power Tour,0.52
+Mario Tennis Open,0.95
+Mario Tennis Ultra Smash,0.44
+Mario vs. Donkey Kong,1.17
+Mario vs. Donkey Kong: Mini-Land Mayhem!,2.67
+Mario vs. Donkey Kong: Tipping Stars,0.06
+Mario vs. Donkey Kong: Tipping Stars,0.01
+Mario vs. Donkey Kong 2: March of the Minis,1.19
+Mark McMorris Infinite Air,0.02
+Martian Gothic: Unification,0.11
+Marvel: Ultimate Alliance,2.5
+Marvel: Ultimate Alliance,0.82
+Marvel: Ultimate Alliance,0.4
+Marvel: Ultimate Alliance,0.38
+Marvel: Ultimate Alliance,0.37
+Marvel: Ultimate Alliance,0.01
+Marvel: Ultimate Alliance 2,0.9
+Marvel: Ultimate Alliance 2,0.73
+Marvel: Ultimate Alliance 2,0.32
+Marvel: Ultimate Alliance 2,0.2
+Marvel Avengers: Battle for Earth,0.12
+Marvel Avengers: Battle for Earth,0.02
+Marvel Nemesis: Rise of the Imperfects,0.77
+Marvel Nemesis: Rise of the Imperfects,0.38
+Marvel Nemesis: Rise of the Imperfects,0.32
+Marvel Nemesis: Rise of the Imperfects,0.28
+Marvel Nemesis: Rise of the Imperfects,0.08
+Marvel Super Hero Squad,0.41
+Marvel Super Hero Squad,0.36
+Marvel Super Hero Squad: The Infinity Gauntlet,0.15
+Marvel Trading Card Game,0.12
+Marvel vs. Capcom 3: Fate of Two Worlds,1.34
+Mass Effect,2.91
+Mass Effect,0.67
+Mass Effect 2,3.1
+Mass Effect 2,0.39
+Mass Effect 2,1.45
+Mass Effect 3,3.04
+Mass Effect 3,1.42
+Mass Effect 3,0.97
+Mat Hoffman's Pro BMX,0.54
+Mat Hoffman's Pro BMX 2,0.46
+Maximo: Ghosts to Glory,0.77
+Maximo vs Army of Zin,0.21
+Maximum Capacity: Hotel Giant,0.02
+Max Payne,3.31
+Max Payne,1.22
+Max Payne,0.02
+Max Payne,0.03
+Max Payne 2: The Fall of Max Payne,1.34
+Max Payne 2: The Fall of Max Payne,0.64
+Max Payne 2: The Fall of Max Payne,0.03
+Max Payne 3,1.85
+Max Payne 3,1.62
+Max Payne 3,0.43
+Mayhem 3D,0.07
+MC Groovz Dance Craze,0.2
+MDK2 Armageddon,0.17
+MechAssault,1.13
+MechAssault: Phantom War,0.03
+MechAssault 2: Lone Wolf,0.36
+Medabots: Infinity,0.05
+Medal of Honor,2.67
+Medal of Honor,2.81
+Medal of Honor,2.61
+Medal of Honor,0.49
+Medal of Honor: Airborne,1.21
+Medal of Honor: Airborne,1.1
+Medal of Honor: Airborne,0.05
+Medal of Honor: Frontline,6.83
+Medal of Honor: Frontline,1.49
+Medal of Honor: Frontline,0.59
+Medal of Honor: Infiltrator,0.15
+Medal of Honor: Rising Sun,5.13
+Medal of Honor: Rising Sun,1.17
+Medal of Honor: Rising Sun,0.42
+Medal of Honor: Underground,0.97
+Medal of Honor: Underground,0.08
+Medal of Honor: Vanguard,0.09
+Medal of Honor: Vanguard,0.03
+Medal of Honor: Warfighter,1.41
+Medal of Honor: Warfighter,1.15
+Medal of Honor: Warfighter,0.33
+Medal of Honor European Assault,0.53
+Medal of Honor European Assault,0.25
+Medal of Honor Heroes,2.65
+Medal of Honor Heroes 2,1.15
+Medal of Honor Heroes 2,0.41
+Medieval II: Total War,0.1
+Medieval Moves: Deadmund's Quest,0.28
+MediEvil: Resurrection,0.81
+Mega Man Anniversary Collection,0.59
+Mega Man Anniversary Collection,0.42
+Mega Man Anniversary Collection,0.13
+Mega Man Battle Chip Challenge,0.11
+Mega Man Battle Network,0.42
+Mega Man Battle Network 2,0.31
+Mega Man Legacy Collection,0.21
+Mega Man Legacy Collection,0.08
+Mega Man Legends 2,0.42
+Mega Man Maverick Hunter X,0.31
+Mega Man Network Transmission,0.17
+Mega Man Powered Up,0.14
+Mega Man X: Command Mission,0.18
+Mega Man X: Command Mission,0.12
+Mega Man X5,0.75
+Mega Man X6,0.42
+Mega Man X7,0.58
+Mega Man X8,0.29
+Mega Man X Collection,0.13
+Mega Man Zero,0.55
+Mega Man Zero 2,0.43
+Mega Man Zero 3,0.22
+Mega Man Zero 4,0.11
+Mega Man Zero Collection,0.31
+Mega Man ZX,0.28
+Mega Man ZX Advent,0.33
+Megamind: Ultimate Showdown,0.15
+Megamind: Ultimate Showdown,0.12
+Men in Black II: Alien Escape,0.5
+Men of Valor,0.25
+Men of War,0.03
+Men of War: Assault Squad,0.05
+Men of War: Vietnam,0.04
+Mercenaries 2: World in Flames,1.06
+Mercenaries 2: World in Flames,0.87
+Mercenaries 2: World in Flames,0.38
+Mercury Meltdown,0.06
+Mercury Meltdown Revolution,0.17
+Metal Arms: Glitch in the System,0.35
+Metal Arms: Glitch in the System,0.17
+Metal Arms: Glitch in the System,0.1
+Metal Dungeon,0.03
+Metal Gear Rising: Revengeance,1.42
+Metal Gear Rising: Revengeance,0.48
+Metal Gear Solid,6.03
+Metal Gear Solid: Digital Graphic Novel,0.04
+Metal Gear Solid: Peace Walker,2.06
+Metal Gear Solid: Portable Ops,1.18
+Metal Gear Solid: Portable Ops Plus,0.69
+Metal Gear Solid: Snake Eater 3D,0.38
+Metal Gear Solid: The Legacy Collection,0.4
+Metal Gear Solid: The Twin Snakes,0.47
+Metal Gear Solid 2: Sons of Liberty,6.05
+Metal Gear Solid 2: Substance,0.52
+Metal Gear Solid 3: Snake Eater,4.23
+Metal Gear Solid 3: Subsistence,0.55
+Metal Gear Solid 4: Guns of the Patriots,5.99
+Metal Gear Solid V: Ground Zeroes,1.27
+Metal Gear Solid V: Ground Zeroes,0.59
+Metal Gear Solid V: Ground Zeroes,0.29
+Metal Gear Solid V: Ground Zeroes,0.01
+Metal Gear Solid V: The Phantom Pain,3.41
+Metal Gear Solid V: The Phantom Pain,0.75
+Metal Gear Solid V: The Phantom Pain,0.08
+Metal Saga,0.03
+Metal Slug 3,0.1
+Metal Slug 7,0.14
+Metal Slug Advance,0.08
+Metal Slug Anthology,0.14
+Metal Slug Anthology,0.05
+Metal Slug Anthology,0.01
+Metal Slug X,0.09
+Metal Slug XX,0.04
+Meteos,0.23
+Meteos: Disney Magic,0.04
+Metro: Last Light,0.42
+Metro: Last Light,0.35
+Metro: Last Light,0.19
+Metro 2033,0.54
+Metro 2033,0.24
+Metroid: Other M,1.34
+Metroid: Zero Mission,0.84
+Metroid Fusion,1.68
+Metroid Prime,2.82
+Metroid Prime: Federation Force,0.05
+Metroid Prime: Trilogy,0.61
+Metroid Prime 2: Echoes,1.33
+Metroid Prime 3: Corruption,1.79
+Metroid Prime Hunters,0.76
+Metroid Prime Pinball,0.25
+MetropolisMania,0.09
+Miami Law,0.1
+Miami Nights: Singles in the City,0.08
+Miami Vice: The Game,0.06
+Michael Jackson: The Experience,4.36
+Michael Jackson: The Experience,0.25
+Michael Jackson: The Experience,0.87
+Michael Jackson: The Experience,0.52
+Michael Jackson: The Experience,0.09
+Michael Phelps: Push the Limit,0.11
+Micro Machines V4,0.01
+Microsoft Flight Simulator 2004: A Century of Flight,0.07
+Microsoft Flight Simulator X,0.43
+Microsoft Train Simulator,0.05
+Middle-Earth: Shadow of Mordor,2.96
+Middle-Earth: Shadow of Mordor,1.35
+Middle-Earth: Shadow of Mordor,0.35
+Midnight Club: LA Remix,0.98
+Midnight Club: Los Angeles,2.45
+Midnight Club: Los Angeles,2.35
+Midnight Club: Street Racing,2.63
+Midnight Club: Street Racing,0.48
+Midnight Club 3: DUB Edition,3.65
+Midnight Club 3: DUB Edition,0.74
+Midnight Club 3: DUB Edition Remix,1.16
+Midnight Club 3: DUB Edition Remix,0.2
+Midnight Club II,1.78
+Midnight Club II,0.5
+Midtown Madness 3,0.3
+Midway Arcade Treasures,0.17
+Midway Arcade Treasures: Extended Play,0.24
+Midway Arcade Treasures 2,0.31
+Mighty No. 9,0.05
+Mighty No. 9,0.03
+Mighty No. 9,0.02
+Mimana Iyar Chronicle,0.09
+MindJack,0.18
+MindJack,0.09
+Mind Zero,0.1
+Mini Ninjas,0.37
+Mini Ninjas,0.34
+Mini Ninjas,0.34
+Mini Ninjas,0.29
+Mini Ninjas,0.02
+Minority Report: Everybody Runs,0.41
+Minority Report: Everybody Runs,0.1
+Mirror's Edge,1.16
+Mirror's Edge,1.13
+Mirror's Edge,0.06
+Mirror's Edge Catalyst,0.35
+Mirror's Edge Catalyst,0.16
+Mirror's Edge Catalyst,0.06
+Mission: Impossible - Operation Surma,0.28
+Mission: Impossible - Operation Surma,0.13
+Mister Mosquito,0.28
+MLB,0.24
+MLB 06: The Show,0.94
+MLB 06: The Show,0.35
+MLB 07: The Show,0.93
+MLB 07: The Show,0.31
+MLB 07: The Show,0.28
+MLB 08: The Show,0.7
+MLB 08: The Show,0.42
+MLB 08: The Show,0.33
+MLB 09: The Show,0.72
+MLB 09: The Show,0.33
+MLB 09: The Show,0.26
+MLB 10: The Show,0.72
+MLB 10: The Show,0.21
+MLB 11: The Show,0.58
+MLB 11: The Show,0.17
+MLB 12: The Show,0.92
+MLB 12: The Show,0.19
+MLB 13: The Show,0.74
+MLB 13: The Show,0.11
+MLB 14: The Show,0.72
+MLB 14: The Show,0.43
+MLB 14: The Show,0.11
+MLB 15: The Show,0.92
+MLB 2002,0.43
+MLB 2004,0.66
+MLB 2005,0.9
+MLB 2006,0.4
+MLB Front Office Manager,0.08
+MLB Front Office Manager,0.07
+MLB Power Pros,0.29
+MLB Power Pros,0.11
+MLB Power Pros 2008,0.15
+MLB Power Pros 2008,0.13
+MLB SlugFest 20-03,0.2
+MLB SlugFest 20-03,0.15
+MLB SlugFest 20-04,0.53
+MLB SlugFest 2006,0.26
+MLB SlugFest Loaded,0.3
+Mobile Suit Gundam: Crossfire,0.2
+Mobile Suit Gundam: Encounters in Space,0.72
+Mobile Suit Gundam: Extreme VS Force,0.17
+Mobile Suit Gundam: Federation vs. Zeon,1.14
+Mobile Suit Gundam: Gundam vs. Zeta Gundam,0.06
+Mobile Suit Gundam: Journey to Jaburo,0.7
+Mobile Suit Gundam: Zeonic Front,0.43
+Mobile Suit Gundam Seed: Never Ending Tomorrow,0.06
+ModNation Racers,1.12
+ModNation Racers,0.53
+Modnation Racers: Road Trip,0.29
+Monopoly,1.89
+Monopoly,0.59
+Monopoly,0.34
+Monopoly Streets,0.72
+Monopoly Streets,0.39
+Monopoly Streets,0.28
+Monster 4x4: Masters of Metal,0.28
+Monster 4X4: World Circuit,0.88
+Monster House,0.09
+Monster Hunter,0.5
+Monster Hunter 4 Ultimate,3.89
+Monster Hunter Freedom,1.34
+Monster Hunter Freedom 2,2.57
+Monster Hunter Freedom Unite,5.48
+Monster Hunter Tri,2.22
+Monster Jam,0.2
+Monster Jam: Maximum Destruction,0.65
+Monster Kingdom: Jewel Summoner,0.04
+Monster Lab,0.31
+Monster Madness: Battle for Suburbia,0.11
+Monster Racers,0.07
+Monster Rancher,1.01
+Monster Rancher 3,0.36
+Monster Rancher 4,0.34
+Monster Rancher Advance 2,0.01
+Monster Rancher EVO,0.1
+"Monsters,0.04
+"Monsters,0.01
+"Monsters,0.04
+Monsters vs. Aliens,0.3
+Monsters vs. Aliens,0.17
+Monsters vs. Aliens,0.03
+Monster Tale,0.06
+Moon,0.05
+MorphX,0.05
+Mortal Kombat,2.84
+Mortal Kombat,2.1
+Mortal Kombat,0.65
+Mortal Kombat: Armageddon,1.06
+Mortal Kombat: Armageddon,0.23
+Mortal Kombat: Deadly Alliance,2.49
+Mortal Kombat: Deadly Alliance,0.96
+Mortal Kombat: Deadly Alliance,0.41
+Mortal Kombat: Deadly Alliance,0.01
+Mortal Kombat: Deception,1.88
+Mortal Kombat: Deception,0.76
+Mortal Kombat: Deception,0.11
+Mortal Kombat: Shaolin Monks,0.69
+Mortal Kombat: Shaolin Monks,0.31
+Mortal Kombat: Special Forces,0.21
+Mortal Kombat: Tournament Edition,0.01
+Mortal Kombat: Unchained,0.74
+Mortal Kombat vs. DC Universe,2
+Mortal Kombat vs. DC Universe,1.93
+Mortal Kombat X,2.78
+Mortal Kombat X,1.38
+Mortal Kombat X,0.05
+MotionSports,0.69
+MotionSports: Adrenaline,0.27
+Motocross Mania,0.79
+Motocross Mania 3,0.02
+MotoGP,0.27
+MotoGP,0.09
+MotoGP,0.03
+MotoGP,0.18
+MotoGP '06,0.14
+MotoGP '07,0.25
+MotoGP '07,0.1
+MotoGP 08,0.39
+MotoGP 08,0.35
+MotoGP 09/10,0.22
+MotoGP 09/10,0.17
+MotoGP 10/11,0.17
+MotoGP 14 ,0.18
+MotoGP 2,0.1
+MotorStorm,3.87
+MotorStorm: Apocalypse,0.48
+MotorStorm: Arctic Edge,1.02
+MotorStorm: Arctic Edge,0.34
+MotorStorm: Pacific Rift,1.35
+MotorStorm RC,0.06
+Mr. Driller: Drill Spirits,0.14
+Ms Saga: A New Dawn,0.05
+MTV Music Generator 2,0.15
+MTV Music Generator 3: This Is the Remix,0.14
+MTV Music Generator 3: This Is the Remix,0.08
+MTX Mototrax,0.26
+Mugen Souls,0.15
+Mugen Souls Z,0.07
+Muppets Party Cruise,0.06
+Murakumo: Renegade Mech Pursuit,0.11
+Muramasa: The Demon Blade,0.6
+Murdered: Soul Suspect,0.32
+Murdered: Soul Suspect,0.16
+Murdered: Soul Suspect,0.05
+Musashi: Samurai Legend,0.15
+Mushroom Men: Rise of the Fungi,0.11
+Mushroom Men: The Spore Wars,0.18
+MVP 06 NCAA Baseball,0.75
+MVP 06 NCAA Baseball,0.34
+MVP Baseball,0.21
+MVP Baseball 2003,1.04
+MVP Baseball 2003,0.2
+MVP Baseball 2004,1.34
+MVP Baseball 2004,0.59
+MVP Baseball 2004,0.26
+MVP Baseball 2005,1.54
+MVP Baseball 2005,0.33
+MX 2002 Featuring Ricky Carmichael,0.56
+MXRider,0.34
+MX Unleashed,1.92
+MX Unleashed,0.44
+MX vs. ATV: Alive,0.55
+MX vs. ATV: Alive,0.46
+MX vs. ATV Reflex,0.9
+MX vs. ATV Reflex,0.72
+MX vs. ATV Supercross,0.06
+MX vs. ATV Supercross,0.03
+MX vs. ATV Supercross Encore,0.06
+MX vs. ATV Unleashed,1.03
+MX vs. ATV Unleashed,0.4
+MX vs. ATV Unleashed: On the Edge,0.69
+MX vs. ATV Untamed,0.68
+MX vs. ATV Untamed,0.46
+MX vs. ATV Untamed,0.38
+MX vs. ATV Untamed,0.33
+My Japanese Coach,0.27
+MySims,3.66
+MySims,1.65
+MySims,0.03
+MySims Agents,1.03
+MySims Kingdom,1.51
+MySims Racing,0.61
+MySims Racing,0.47
+MySims SkyHeroes,0.29
+MySims SkyHeroes,0.1
+Myst,0.01
+Myst,0.1
+Mystery Case Files: The Malgrave Incident,0.32
+Mystery Dungeon: Shiren the Wanderer,0.52
+Mystic Heroes,0.09
+Mystic Heroes,0.06
+Myst III: Exile,0.28
+My Street,0.24
+Mytran Wars,0.12
+My Weight Loss Coach,0.95
+My Word Coach,1.44
+N+,0.07
+N+,0.03
+Nacho Libre,0.03
+nail'd,0.12
+nail'd,0.1
+Namco Museum,4.24
+Namco Museum,1.82
+Namco Museum Battle Collection,1.08
+Namco Museum DS,1.29
+Namco Museum Remix,0.74
+Nancy Drew: The Mystery of the Clue Bender Society,0.26
+Nano Assault,0.08
+NanoBreaker,0.06
+Nanostray,0.06
+Nanostray 2,0.05
+Napoleon: Total War,0.66
+Napoleon Dynamite: The Game,0.04
+Napoleon Dynamite: The Game,0.03
+NARC,0.36
+NARC,0.18
+Naruto: Clash of Ninja,0.68
+Naruto: Clash of Ninja 2,1.04
+Naruto: Clash of Ninja Revolution,1.01
+Naruto: Clash of Ninja Revolution 2,0.38
+Naruto: Ninja Council,0.22
+Naruto: Ninja Council 3,0.42
+Naruto: Ninja Destiny,0.19
+Naruto: Path of the Ninja,0.4
+Naruto: Path of the Ninja 2,0.23
+Naruto: Powerful Shippuden,0.15
+Naruto: Rise of a Ninja,0.33
+Naruto: The Broken Bond,0.59
+Naruto: Ultimate Ninja,0.61
+Naruto: Ultimate Ninja 2,0.57
+Naruto: Ultimate Ninja 3,0.44
+Naruto: Ultimate Ninja Heroes,0.26
+Naruto: Ultimate Ninja Heroes 2 - The Phantom Fortress,0.16
+Naruto: Ultimate Ninja Storm,1.07
+Naruto: Uzumaki Chronicles 2,0.58
+Naruto Shippuden: Clash of Ninja Revolution 3,0.51
+Naruto Shippuden: Dragon Blade Chronicles,0.18
+Naruto Shippuden: Kizuna Drive,0.13
+Naruto Shippuden: Legends: Akatsuki Rising,0.15
+Naruto Shippuden: Ninja Destiny 2,0.37
+Naruto Shippuden: Ultimate Ninja Heroes 3,0.38
+Naruto Shippuden: Ultimate Ninja Impact,0.34
+Naruto Shippuden: Ultimate Ninja Storm 2,1.21
+Naruto Shippuden: Ultimate Ninja Storm 2,0.78
+Naruto Shippuden: Ultimate Ninja Storm 3,0.93
+Naruto Shippuden: Ultimate Ninja Storm 3,0.51
+Naruto Shippuden: Ultimate Ninja Storm 4,1.14
+Naruto Shippuden: Ultimate Ninja Storm 4,0.3
+Naruto Shippuden: Ultimate Ninja Storm Generations,0.73
+Naruto Shippuden: Ultimate Ninja Storm Generations,0.44
+Naruto Shippuden: Ultimate Ninja Storm Revolution,0.43
+Naruto Shippuden: Ultimate Ninja Storm Revolution,0.22
+NASCAR,0.1
+NASCAR: Dirt to Daytona,0.09
+NASCAR '14,0.17
+NASCAR '14,0.11
+NASCAR 06: Total Team Control,0.63
+NASCAR 06: Total Team Control,0.27
+NASCAR 07,0.11
+NASCAR 07,0.04
+NASCAR 08,0.29
+NASCAR 08,0.24
+NASCAR 08,0.23
+NASCAR 09,0.25
+NASCAR 09,0.25
+NASCAR 2001,0.81
+NASCAR 2001,0.7
+NASCAR 2005: Chase for the Cup,1.41
+NASCAR 2011: The Game,0.3
+NASCAR 2011: The Game,0.27
+NASCAR 2011: The Game,0.22
+NASCAR Heat Evolution,0.05
+NASCAR Kart Racing,0.42
+NASCAR The Game: Inside Line,0.1
+NASCAR The Game: Inside Line,0.08
+NASCAR Thunder 2002,1.16
+NASCAR Thunder 2002,0.42
+NASCAR Thunder 2003,0.31
+NASCAR Thunder 2004,1.08
+NASCAR Thunder 2004,0.23
+Natural Doctrine,0.1
+Natural Doctrine,0.07
+Naughty Bear,0.43
+Naughty Bear,0.4
+Naval Assault: The Killing Tide,0.17
+Naval Ops: Warship Gunner,0.11
+NBA,0.21
+NBA 06,0.53
+NBA 06,0.22
+NBA 07,0.27
+NBA 07,0.2
+NBA 07,0.02
+NBA 08,0.13
+NBA 08,0.03
+NBA 09: The Inside,0.17
+NBA 09: The Inside,0.15
+NBA 10: The Inside,0.08
+NBA 2K10,0.97
+NBA 2K10,0.84
+NBA 2K11,2.09
+NBA 2K11,1.8
+NBA 2K11,0.19
+NBA 2K12,2.62
+NBA 2K12,2.11
+NBA 2K12,0.16
+NBA 2K13,3
+NBA 2K13,2.47
+NBA 2K13,0.13
+NBA 2K13,0.03
+NBA 2K14,2.52
+NBA 2K14,2.11
+NBA 2K14,1.45
+NBA 2K14,0.91
+NBA 2K15,2.45
+NBA 2K15,1.72
+NBA 2K16,3.88
+NBA 2K16,2.34
+NBA 2K17,1.88
+NBA 2K17,1.02
+NBA 2K17,0.01
+NBA 2K2,1.22
+NBA 2K2,0.2
+NBA 2K2,0.12
+NBA 2K3,1.05
+NBA 2K3,0.32
+NBA 2K6,0.88
+NBA 2K6,0.36
+NBA 2K6,0.23
+NBA 2K7,0.78
+NBA 2K7,0.58
+NBA 2K7,0.37
+NBA 2K7,0.03
+NBA 2K8,0.85
+NBA 2K8,0.6
+NBA 2K8,0.55
+NBA 2K9,1.27
+NBA 2K9,0.61
+NBA Ballers,1.66
+NBA Ballers,0.51
+NBA Ballers: Chosen One,0.19
+NBA Ballers: Chosen One,0.14
+NBA Ballers: Phenom,0.47
+NBA Ballers: Rebound,0.1
+NBA Courtside 2002,0.25
+NBA Inside Drive 2003,0.31
+NBA Inside Drive 2004,0.17
+NBA Jam,0.14
+NBA Jam,0.4
+NBA Jam,0.39
+NBA Jam,0.39
+NBA Live 06,0.64
+NBA Live 06,0.42
+NBA Live 06,0.29
+NBA Live 07,1.3
+NBA Live 07,0.51
+NBA Live 07,0.46
+NBA Live 07,0.06
+NBA Live 08,0.72
+NBA Live 08,0.63
+NBA Live 08,0.52
+NBA Live 08,0.31
+NBA Live 08,0.16
+NBA Live 09,0.71
+NBA Live 09,0.52
+NBA Live 09 All-Play,0.22
+NBA Live 10,0.54
+NBA Live 10,0.45
+NBA Live 10,0.24
+NBA Live 14,0.24
+NBA Live 14,0.2
+NBA Live 15,0.23
+NBA Live 15,0.21
+NBA Live 16,0.18
+NBA Live 16,0.11
+NBA Live 2001,1.25
+NBA Live 2002,1.86
+NBA Live 2002,0.52
+NBA Live 2002,0.4
+NBA Live 2003,1.66
+NBA Live 2004,2.03
+NBA Live 2004,0.51
+NBA Live 2004,0.27
+NBA Live 2005,2.59
+NBA Live 2005,0.9
+NBA Live 2005,0.45
+NBA ShootOut 2003,0.23
+NBA ShootOut 2004,0.26
+NBA Starting Five,0.02
+NBA Street,2.79
+NBA Street,0.42
+NBA Street: Showdown,0.22
+NBA Street Homecourt,0.5
+NBA Street Homecourt,0.15
+NBA Street V3,1.06
+NBA Street V3,0.32
+NBA Street V3,0.29
+NBA Street Vol. 2,1.95
+NBA Street Vol. 2,0.68
+NCAA Basketball 09,0.22
+NCAA Basketball 10,0.33
+NCAA College Basketball 2K3,0.24
+NCAA College Basketball 2K3,0.14
+NCAA Final Four 2002,0.31
+NCAA Final Four 2003,0.19
+NCAA Football 06,1.84
+NCAA Football 06,0.97
+NCAA Football 07,1.7
+NCAA Football 07,0.73
+NCAA Football 07,0.56
+NCAA Football 07,0.37
+NCAA Football 08,0.79
+NCAA Football 08,0.7
+NCAA Football 08,0.38
+NCAA Football 08,0.08
+NCAA Football 09,0.71
+NCAA Football 09,0.58
+NCAA Football 09 All-Play,0.16
+NCAA Football 10,0.94
+NCAA Football 10,0.81
+NCAA Football 11,0.92
+NCAA Football 11,0.85
+NCAA Football 12,0.99
+NCAA Football 12,0.83
+NCAA Football 13,1.09
+NCAA Football 13,0.89
+NCAA Football 14,1.09
+NCAA Football 14,0.84
+NCAA Football 2002,1.57
+NCAA Football 2003,1.44
+NCAA Football 2003,0.52
+NCAA Football 2003,0.21
+NCAA Football 2004,1.67
+NCAA Football 2004,0.43
+NCAA Football 2004,0.15
+NCAA Football 2005,1.62
+NCAA Football 2005,0.68
+NCAA Football 2005,0.22
+NCAA March Madness 06,0.53
+NCAA March Madness 06,0.2
+NCAA March Madness 07,0.56
+NCAA March Madness 07,0.21
+NCAA March Madness 08,0.09
+NCAA March Madness 2003,0.66
+NCAA March Madness 2004,1.03
+NCAA March Madness 2005,0.53
+NCAA March Madness 2005,0.28
+NCIS,0.14
+NCIS,0.12
+Need For Speed: High Stakes,2.31
+Need for Speed: Hot Pursuit,2.78
+Need for Speed: Hot Pursuit,2.2
+Need for Speed: Hot Pursuit,0.46
+Need for Speed: Hot Pursuit,0.37
+Need for Speed: Hot Pursuit 2,2.11
+Need for Speed: Hot Pursuit 2,0.82
+Need for Speed: Hot Pursuit 2,0.8
+Need for Speed: Most Wanted,4.37
+Need for Speed: Most Wanted,1.25
+Need for Speed: Most Wanted,1.04
+Need for Speed: Most Wanted,0.56
+Need for Speed: Most Wanted,0.29
+Need for Speed: Most Wanted,0.27
+Need for Speed: Most Wanted,1.56
+Need for Speed: Most Wanted,0.08
+Need for Speed: Most Wanted 5-1-0,2.07
+Need for Speed: Nitro,0.83
+Need for Speed: Nitro,0.38
+Need for Speed: Porsche Unleashed,0.77
+Need for Speed: Porsche Unleashed,0.48
+Need for Speed: ProStreet,2.41
+Need for Speed: ProStreet,2.05
+Need for Speed: ProStreet,2.04
+Need for Speed: ProStreet,1.1
+Need for Speed: ProStreet,0.12
+Need for Speed: ProStreet,0.04
+Need for Speed: ProStreet,0.77
+Need for Speed: Shift,2.65
+Need for Speed: Shift,1.91
+Need for Speed: Shift,0.74
+Need for Speed: Shift,0.06
+Need for Speed: The Run,2.01
+Need for Speed: The Run,1.36
+Need for Speed: The Run,0.36
+Need for Speed: The Run,0.27
+Need for Speed: The Run,0.19
+Need For Speed: Undercover,2.05
+Need For Speed: Undercover,1.68
+Need For Speed: Undercover,0.76
+Need For Speed: Undercover,0.64
+Need For Speed: Undercover,0.23
+Need For Speed: Undercover,0.08
+Need for Speed Carbon,1.65
+Need for Speed Carbon,1.34
+Need for Speed Carbon,1.28
+Need for Speed Carbon,1.23
+Need for Speed Carbon,0.47
+Need for Speed Carbon,0.35
+Need for Speed Carbon,0.05
+Need for Speed Carbon: Own the City,2.42
+Need for Speed Carbon: Own the City,0.2
+Need for Speed Rivals,1.98
+Need for Speed Rivals,1.27
+Need for Speed Rivals,0.79
+Need for Speed Rivals,0.69
+Need for Speed Rivals,0.25
+Need for Speed Underground,7.2
+Need for Speed Underground,1.71
+Need for Speed Underground,1.21
+Need for Speed Underground,0.29
+Need for Speed Underground,0.05
+Need for Speed Underground 2,6.9
+Need for Speed Underground 2,2.28
+Need for Speed Underground 2,0.43
+Need for Speed Underground 2,0.07
+Need for Speed Underground 2,0.13
+Need for Speed Underground Rivals,1.32
+Neo Contra,0.21
+NeoGeo Battle Coliseum,0.33
+Neopets: The Darkest Faerie,0.3
+Neopets Petpet Adventures: The Wand of Wishing,0.12
+NERF N-Strike,1.09
+NERF N-Strike Elite,1
+Nervous Brickdown,0.02
+NES Remix,0.28
+NeverDead,0.12
+NeverDead,0.1
+Neverland Card Battles,0.05
+Neverwinter Nights,0.03
+Neverwinter Nights 2,0.02
+Neverwinter Nights 2: Mask of the Betrayer,0.01
+New Super Luigi U,2.24
+New Super Mario Bros.,29.8
+New Super Mario Bros. 2,9.9
+New Super Mario Bros. U,5.22
+New Super Mario Bros. Wii,28.32
+NFL 2K1,1.09
+NFL 2K2,0.89
+NFL 2K3,1.32
+NFL 2K3,0.22
+NFL Blitz 20-02,0.28
+NFL Blitz 20-03,0.44
+NFL Blitz 20-03,0.14
+NFL Blitz Pro,0.23
+NFL Blitz Pro,0.05
+NFL Fever 2002,0.99
+NFL Fever 2003,0.61
+NFL Fever 2004,0.32
+NFL GameDay 2002,0.4
+NFL GameDay 2002,0.38
+NFL GameDay 2004,0.41
+NFL Head Coach,0.45
+NFL Head Coach,0.12
+NFL Head Coach 09,0.14
+NFL Head Coach 09,0.11
+NFL Quarterback Club 2002,0.22
+NFL Street,1.42
+NFL Street,0.66
+NFL Street,0.35
+NFL Street 2,1.61
+NFL Street 2,0.48
+NFL Street 2 Unleashed,0.37
+NFL Tour,0.1
+NHL 06,0.58
+NHL 06,0.25
+NHL 06,0.08
+NHL 07,0.51
+NHL 07,0.27
+NHL 07,0.17
+NHL 07,0.03
+NHL 08,0.25
+NHL 08,0.25
+NHL 09,0.5
+NHL 09,0.33
+NHL 09,0.02
+NHL 10,0.66
+NHL 10,0.57
+NHL 11,0.73
+NHL 11,0.59
+NHL 12,0.7
+NHL 12,0.58
+NHL 13,0.66
+NHL 13,0.64
+NHL 14,0.54
+NHL 14,0.54
+NHL 15,0.6
+NHL 15,0.41
+NHL 16,0.63
+NHL 16,0.48
+NHL 17,0.33
+NHL 17,0.24
+NHL 2001,0.96
+NHL 2001,0.63
+NHL 2002,1.2
+NHL 2002,0.27
+NHL 2003,0.93
+NHL 2003,0.21
+NHL 2003,0.13
+NHL 2004,0.97
+NHL 2004,0.18
+NHL 2004,0.1
+NHL 2005,0.45
+NHL 2005,0.16
+NHL 2005,0.07
+NHL 2K10,0.35
+NHL 2K10,0.15
+NHL 2K10,0.15
+NHL 2K11,0.27
+NHL 2K3,0.21
+NHL 2K3,0.12
+NHL 2K3,0.02
+NHL 2K6,0.42
+NHL 2K6,0.21
+NHL 2K6,0.1
+NHL 2K7,0.12
+NHL 2K7,0.08
+NHL 2K8,0.13
+NHL 2K9,0.17
+NHL 2K9,0.06
+NHL FaceOff 2001,0.2
+NHL Hitz 20-02,0.56
+NHL Hitz 20-02,0.27
+NHL Hitz 20-02,0.21
+NHL Hitz 20-03,0.28
+NHL Hitz 20-03,0.11
+NHL Hitz 20-03,0.08
+NHL Hitz Pro,0.19
+NHL Hitz Pro,0.07
+NHL Rivals 2004,0.11
+Nickelodeon Party Blast,0.22
+Nicktoons: Attack of the Toybots,0.43
+NieR,0.61
+NieR,0.29
+Night at the Museum: Battle of the Smithsonian,0.11
+NightCaster,0.13
+NightCaster II: Equinox,0.05
+NiGHTS: Journey of Dreams,0.41
+Nightshade,0.12
+Nights of Azure,0.06
+Ninja Assault,0.11
+Ninja Blade,0.33
+Ninjabread Man,0.08
+Ninja Gaiden,1.23
+Ninja Gaiden: Dragon Sword,0.21
+Ninja Gaiden 3,0.43
+Ninja Gaiden 3,0.25
+Ninja Gaiden Black,0.09
+Ninja Gaiden II,1.01
+Ninja Gaiden Sigma,1.14
+Ninja Gaiden Sigma 2,0.85
+Ninja Reflex,0.12
+Ninjatown,0.13
+Ni no Kuni: Wrath of the White Witch,1.51
+Nintendo Land,4.42
+Nitrobike,0.13
+Nitroplus Blasterz: Heroines Infinite Duel,0.04
+Nobunaga's Ambition: Iron Triangle,0.09
+Nobunaga's Ambition: Rise to Power,0.08
+Nobunaga's Ambition: Sphere of Influence,0.04
+No Man's Sky,1.7
+No More Heroes,0.55
+No More Heroes: Heroes' Paradise,0.19
+No More Heroes 2: Desperate Struggle,0.39
+Nostalgia,0.19
+NPPL: Championship Paintball 2009,0.16
+NPPL: Championship Paintball 2009,0.12
+Obscure,0.07
+Obscure,0.04
+Obscure: The Aftermath,0.12
+Obscure: The Aftermath,0.09
+Odama,0.11
+Oddworld: Abe's Exoddus,0.99
+Oddworld: Abe's Oddysee,1.24
+Oddworld: Munch's Oddysee,0.73
+Oddworld: Munch's Oddysee,0.06
+Oddworld: Stranger's Wrath,0.26
+Odin Sphere,0.56
+Odin Sphere: Leifthrasir,0.2
+Odin Sphere: Leifthrasir,0.14
+Off-Road Drive,0.04
+Oil Rush,0.02
+Okage: Shadow King,0.36
+Okami,0.63
+Okami,0.6
+OkamiDen,0.43
+Omega Quintet,0.02
+Omerta: City of Gangsters,0.7
+Onechanbara: Bikini Samurai Squad,0.13
+Onechanbara: Bikini Zombie Slayers,0.12
+Onechanbara Z2: Chaos,0.24
+One Piece: Burning Blood,0.35
+One Piece: Burning Blood,0.1
+One Piece: Burning Blood,0.06
+One Piece: Pirate Warriors,1.18
+One Piece: Pirate Warriors 2,0.66
+One Piece: Pirate Warriors 3,0.46
+One Piece: Pirate Warriors 3,0.17
+One Piece: Unlimited Adventure,0.19
+One Piece: Unlimited World Red,0.39
+One Piece: Unlimited World Red,0.28
+One Piece: Unlimited World Red,0.13
+One Piece: Unlimited World Red,0.06
+One Piece Unlimited Cruise SP,0.3
+Oni,0.53
+Onimusha: Blade Warriors,0.12
+Onimusha: Dawn of Dreams,0.64
+Onimusha: Warlords,2.7
+Onimusha 2: Samurai's Destiny,2.25
+Onimusha 3: Demon Siege,1.45
+Onimusha Tactics,0.08
+Online Chess Kingdoms,0.02
+Open Season,0.11
+Open Season,0.07
+Operation: Vietnam,0.07
+Operation Abyss: New Tokyo Legacy,0.1
+Operation Darkness,0.07
+Operation Flashpoint: Dragon Rising,0.93
+Operation Flashpoint: Dragon Rising,0.91
+Operation Flashpoint: Dragon Rising,0.05
+Operation Flashpoint: Elite,0.04
+Operation Flashpoint: Red River,0.32
+Operation Flashpoint: Red River,0.28
+Operation Flashpoint: Red River,0.07
+Opoona,0.1
+Order of War,0.02
+Oreshika: Tainted Bloodlines,0.15
+Orphen: Scion of Sorcery,0.31
+Otogi: Myth of Demons,0.13
+Otogi 2: Immortal Warriors,0.05
+Outlaw Golf,0.29
+Outlaw Tennis,0.04
+Outlaw Volleyball,0.26
+OutRun 2006: Coast 2 Coast,0.05
+OutRun 2006: Coast 2 Coast,0.04
+Over G Fighters,0.21
+Overlord,0.4
+Overlord,0.02
+Overlord: Dark Legend,0.37
+Overlord: Minions,0.07
+Overlord: Raising Hell,0.12
+Overlord II,0.32
+Overlord II,0.32
+Overlord II,0.03
+Over the Hedge,0.54
+Over the Hedge,0.35
+Over the Hedge,0.27
+Overwatch,2.14
+Overwatch,1.06
+Overwatch,0.53
+P.T.O. IV: Pacific Theater of Operations,0.08
+PAC-MAN and the Ghostly Adventures,0.08
+PAC-MAN and the Ghostly Adventures,0.08
+PAC-MAN and the Ghostly Adventures,0.05
+Pac-Man and the Ghostly Adventures 2,0.11
+Pac-Man and the Ghostly Adventures 2,0.09
+Pac-Man Collection,2.94
+Pac-Man Fever,0.51
+Pac-Man Party,0.61
+Pac-Man Party 3D,0.15
+Pac-Man World 2,1.51
+Pac-Man World 2,0.37
+Pac-Man World 3,0.21
+Pac-Man World 3,0.09
+Pac-Man World 3,0.07
+Pac-Man World Rally,0.08
+Pac-Man World Rally,0.02
+Pac-Pix,0.27
+Painkiller,0.02
+Painkiller: Hell Wars,0.04
+Pandora's Tower,0.31
+PANGYA: Fantasy Golf,0.14
+Panzer Dragoon Orta,0.26
+Paper Mario: Color Splash,0.42
+Paper Mario: Sticker Star,2.3
+Paper Mario: The Thousand-Year Door,2.25
+PaRappa The Rapper,1.92
+PaRappa The Rapper,0.14
+PaRappa The Rapper 2,0.14
+Parasite Eve,2.1
+Parasite Eve II,0.58
+ParaWorld,0.02
+Pariah,0.1
+Paris-Dakar Rally,0.15
+Patapon,0.81
+Patapon 2,0.1
+Patapon 3,0.27
+Patrician IV,0.04
+Payday 2,0.57
+Payday 2,0.43
+Payday 2,0.05
+PDC World Championship Darts 2008,0.24
+Peggle: Dual Shot,0.12
+Peggle Nights,0.02
+Percy Jackson and the Olympians: The Lightning Thief,0.24
+Perfect Dark Zero,0.77
+Persona 2: Eternal Punishment,0.35
+Persona 4: Arena,0.73
+Persona 4: Arena,0.13
+Persona 4: Arena Ultimax,0.14
+Persona 4: Arena Ultimax,0.08
+Persona 4: Dancing All Night,0.32
+Persona 4: Golden,1.12
+Personal Trainer: Cooking,3.11
+Persona Q: Shadow of the Labyrinth,0.72
+Peter Jackson's King Kong: The Official Game of the Movie,2.04
+Peter Jackson's King Kong: The Official Game of the Movie,0.53
+Peter Jackson's King Kong: The Official Game of the Movie,0.26
+Peter Jackson's King Kong: The Official Game of the Movie,0.24
+Peter Jackson's King Kong: The Official Game of the Movie,0.19
+Peter Jackson's King Kong: The Official Game of the Movie,0.13
+Phantasy Star Collection,0.11
+Phantasy Star Online,0.2
+Phantasy Star Online Episode III: C.A.R.D. Revolution,0.08
+Phantasy Star Online Ver. 2,0.19
+Phantasy Star Portable,0.94
+Phantasy Star Portable 2,0.87
+Phantasy Star Universe,0.19
+Phantasy Star Universe,0.12
+Phantom Brave,0.14
+Phantom Brave: The Hermuda Triangle,0.09
+Phantom Brave: We Meet Again,0.13
+Phantom Crash,0.05
+Phantom Dust,0.11
+Phineas and Ferb,1.84
+Phineas and Ferb: Across the 2nd Dimension,0.57
+Phineas and Ferb: Across the 2nd Dimension,0.32
+Phoenix Wright: Ace Attorney,0.92
+Phoenix Wright: Ace Attorney Trilogy,0.02
+Picross 3D,0.49
+Picross DS,0.5
+Piglet's Big Game,0.05
+Pikmin,1.63
+Pikmin 2,1.2
+Pikmin 3,1.11
+Pillars of Eternity,0.02
+PilotWings Resort,0.95
+Pimp My Ride,0.11
+Pimp My Ride,0.11
+Pinball Hall of Fame: The Gottlieb Collection,0.23
+Pinball Hall of Fame: The Williams Collection,0.47
+Pinball Hall of Fame: The Williams Collection,0.22
+Pinball Hall of Fame: The Williams Collection,0.12
+Pinball Hall of Fame: The Williams Collection,0.1
+Ping Pals,0.11
+Pirates: Legend of the Black Buccaneer,0.02
+Pirates: The Legend of Black Kat,0.14
+Pirates of the Burning Sea,0.02
+Pirates of the Caribbean,0.29
+Pirates of the Caribbean: At World's End,0.73
+Pirates of the Caribbean: At World's End,0.45
+Pirates of the Caribbean: At World's End,0.42
+Pirates of the Caribbean: At World's End,0.42
+Pirates of the Caribbean: At World's End,0.34
+Pirates of the Caribbean: Dead Man's Chest,0.47
+Pirates of the Caribbean: Dead Man's Chest,0.28
+Pirates of the Caribbean: Dead Man's Chest,0.26
+Pirates of the Caribbean: The Curse of the Black Pearl,1.29
+Pirates of the Caribbean: The Legend of Jack Sparrow,0.25
+Pitfall: The Lost Expedition,0.2
+Pitfall: The Lost Expedition,0.08
+Pitfall: The Lost Expedition,0.07
+PixelJunk Monsters Deluxe,0.12
+Planescape: Torment,0.03
+Planet 51,0.2
+Planet Puzzle League,0.33
+Plants vs. Zombies,0.05
+Plants vs. Zombies,0.26
+Plants vs. Zombies,1.1
+Plants vs. Zombies,0.2
+Plants vs. Zombies: Garden Warfare,1.08
+Plants vs. Zombies: Garden Warfare,0.69
+Plants vs. Zombies: Garden Warfare,0.61
+Plants vs. Zombies: Garden Warfare,0.02
+Plants vs. Zombies: Garden Warfare 2,0.49
+Plants vs. Zombies: Garden Warfare 2,0.48
+Plants vs. Zombies: Garden Warfare 2,0.05
+Playboy: The Mansion,0.2
+Playboy: The Mansion,0.09
+PlayStation All-Stars Battle Royale,0.95
+PlayStation All-Stars Battle Royale,0.45
+PlayStation Move Heroes,0.17
+PlayStation VR Worlds,0.25
+Point Blank 3,0.02
+Pokemon Art Academy,0.49
+Pokemon Battle Revolution,1.58
+Pokemon Channel,0.38
+Pokémon Colosseum,2.54
+Pokemon Conquest,1.02
+Pokemon Dash,0.77
+Pokémon Emerald Version,6.41
+Pokémon Mystery Dungeon: Blue Rescue Team,2.02
+Pokemon Mystery Dungeon: Explorers of Sky,1.56
+Pokemon Mystery Dungeon: Gates to Infinity,1.27
+Pokémon Platinum Version,7.72
+Pokemon Ranger,2.15
+Pokemon Ranger: Guardian Signs,1.29
+Pokemon Ranger: Shadows of Almia,2.28
+Pokemon Rumble Blast,1.14
+Pokemon Rumble World,0.09
+Pokemon Super Mystery Dungeon,1.25
+Pokemon XD: Gale of Darkness,1.25
+PokePark 2: Wonders Beyond,0.75
+PokéPark Wii: Pikachu's Adventure,1.17
+Pokken Tournament,1.01
+Polarium,0.26
+Pony Friends,0.04
+Pool Hall Pro,0.05
+Pool Party,0.05
+Popeye: Rush for Spinach,0.03
+PoPoLoCrois,0.06
+Portal 2,2.08
+Portal 2,1.7
+Portal 2,0.76
+Portal Runner,0.13
+Port Royale 2,0.04
+Post Mortem,0.02
+Powerdrome,0.01
+Power Gig: Rise of the SixString,0.14
+Power Gig: Rise of the SixString,0.12
+Power Rangers: Dino Thunder,0.71
+Power Rangers: Ninja Storm,0.33
+Power Rangers: Wild Force,0.21
+Power Stone Collection,0.1
+PowerUp Heroes,0.3
+PQ2: Practical Intelligence Quotient,0.05
+Praetorians,0.04
+Predator: Concrete Jungle,0.2
+Predator: Concrete Jungle,0.1
+Prey,0.32
+Pride FC: Fighting Championships,0.3
+Primal,0.43
+Prince of Persia,1.07
+Prince of Persia,1.01
+Prince of Persia: Rival Swords,0.29
+Prince of Persia: Rival Swords,0.11
+Prince of Persia: The Fallen King,0.07
+Prince of Persia: The Forgotten Sands,0.69
+Prince of Persia: The Forgotten Sands,0.62
+Prince of Persia: The Forgotten Sands,0.37
+Prince of Persia: The Forgotten Sands,0.23
+Prince of Persia: The Forgotten Sands,0.15
+Prince of Persia: The Forgotten Sands,0.03
+Prince of Persia: The Sands of Time,2.22
+Prince of Persia: The Sands of Time,0.94
+Prince of Persia: The Sands of Time,0.32
+Prince of Persia: The Sands of Time,0.15
+Prince of Persia: The Two Thrones,0.68
+Prince of Persia: The Two Thrones,0.58
+Prince of Persia: The Two Thrones,0.15
+Prince of Persia: Warrior Within,1.64
+Prince of Persia: Warrior Within,0.8
+Prince of Persia: Warrior Within,0.2
+Princess Debut,0.1
+Prinny: Can I Really Be the Hero?,0.09
+Prison Architect,0.03
+Prison Architect,0.01
+Prison Break: The Conspiracy,0.25
+Prison Break: The Conspiracy,0.21
+Pro Cycling Manager 2016,0.03
+Pro Evolution Soccer 2008,3.63
+Pro Evolution Soccer 2008,1.59
+Pro Evolution Soccer 2008,1.07
+Pro Evolution Soccer 2008,1.19
+Pro Evolution Soccer 2008,0.98
+Pro Evolution Soccer 2010,2.28
+Pro Evolution Soccer 2010,0.81
+Pro Evolution Soccer 2010,0.8
+Pro Evolution Soccer 2010,0.51
+Pro Evolution Soccer 2010,0.01
+pro evolution soccer 2011,2.41
+pro evolution soccer 2011,0.79
+pro evolution soccer 2011,0.61
+pro evolution soccer 2011,0.22
+Pro Evolution Soccer 2011 3D,0.38
+Pro Evolution Soccer 2012,2.19
+Pro Evolution Soccer 2012,0.57
+Pro Evolution Soccer 2012,0.5
+Pro Evolution Soccer 2012,0.21
+Pro Evolution Soccer 2012,0.09
+Pro Evolution Soccer 2013,1.53
+Pro Evolution Soccer 2013,0.31
+Pro Evolution Soccer 2013,0.08
+Pro Evolution Soccer 2014,0.95
+Pro Evolution Soccer 2014,0.24
+Pro Evolution Soccer 2014,0.1
+Pro Evolution Soccer 2015,0.75
+Pro Evolution Soccer 2015,0.14
+Pro Evolution Soccer 2015,0.06
+Pro Evolution Soccer 2016,0.79
+Pro Evolution Soccer 2016,0.11
+Pro Evolution Soccer 2016,0.04
+Pro Evolution Soccer 2017,0.45
+Pro Evolution Soccer 2017,0.05
+Pro Evolution Soccer 2017,0.02
+Professor Heinz Wolff's Gravity,0.17
+Professor Layton and the Azran Legacy,0.75
+Professor Layton and the Curious Village,5.19
+Professor Layton and the Diabolical Box,3.94
+Professor Layton and the Last Specter,2.67
+Professor Layton and the Unwound Future,3.26
+Professor Layton vs Phoenix Wright: Ace Attorney,0.8
+Pro Fishing Challenge,0.02
+Project: Snowblind,0.21
+Project: Snowblind,0.11
+Project CARS,1.09
+Project CARS,0.26
+Project CARS,0.13
+Project Eden,0.09
+Project Gotham Racing,2.12
+Project Spark,0.17
+Project Sylpheed: Arc of Deception,0.15
+Project X Zone,0.39
+Pro Race Driver,0.27
+Pro Race Driver,0.04
+Prototype: Biohazard Bundle,0.02
+Prototype: Biohazard Bundle,0.01
+Pryzm Chapter One: The Dark Unicorn,0.12
+Psi-Ops: The Mindgate Conspiracy,0.29
+Psi-Ops: The Mindgate Conspiracy,0.17
+Psychonauts,0.12
+Psychonauts,0.09
+Psycho-Pass: Mandatory Happiness,0.04
+Psycho-Pass: Mandatory Happiness,0.02
+Puchi Puchi Virus,0.08
+Pulse Racer,0.02
+Pump It Up: Exceed,0.06
+Pump It Up: Exceed,0.02
+Puppeteer,0.26
+Pure,2.47
+Pure,0.89
+Pure Futbol,0.24
+Pure Futbol,0.18
+Pure Pinball,0.04
+Purr Pals,0.55
+Pursuit Force,0.16
+Pursuit Force: Extreme Justice,0.17
+Puss in Boots,0.09
+Putty Squad,0.16
+Puzzle de Harvest Moon,0.13
+Puzzle Kingdoms,0.13
+Puzzle Quest: Challenge of the Warlords,0.34
+Puzzle Quest: Challenge of the Warlords,0.29
+Puzzle Quest: Challenge of the Warlords,0.12
+Puzzle Quest: Challenge of the Warlords,0.02
+Puzzle Quest: Galactrix,0.15
+Puzzle Quest 2,0.11
+Quake 4,0.37
+Quake 4,0.02
+Quake III: Revolution,0.21
+Quantum Break,0.56
+Quantum Break,0.02
+Quantum Redshift,0.13
+Quantum Theory,0.19
+Quantum Theory,0.09
+R: Racing Evolution,0.28
+R.U.S.E.,0.5
+R.U.S.E.,0.27
+R.U.S.E.,0.27
+R4: Ridge Racer Type 4,2.06
+Rabbids Go Home,1.12
+Rabbids Land,0.03
+Race Driver 2006,0.03
+RACE On,0.03
+Race Pro,0.17
+Racing Gears Advance,0.06
+Racquet Sports,0.34
+Racquet Sports,0.24
+Radiant Historia,0.29
+Radiata Stories,0.65
+Rage,1.6
+Rage,1.31
+Rage,0.37
+Ragnarok DS,0.22
+Ragnarok Odyssey,0.4
+Raiden Fighters Aces,0.08
+Raiden IV,0.12
+Railroad Tycoon 3,0.04
+Rail Simulator,0.01
+RalliSport Challenge,0.57
+RalliSport Challenge 2,0.27
+Rampage: Total Destruction,0.4
+Rampage: Total Destruction,0.37
+Rampage: Total Destruction,0.21
+Rango: The Video Game,0.19
+Rango: The Video Game,0.13
+Rapala Fishing Frenzy 2009,0.17
+Rapala Fishing Frenzy 2009,0.05
+Rapala Pro Fishing,0.36
+Rapala Tournament Fishing!,0.03
+Rare Replay,0.79
+Ratatouille,0.85
+Ratatouille,0.66
+Ratatouille,0.51
+Ratatouille,0.5
+Ratatouille,0.14
+Ratchet: Deadlocked,1.24
+Rave Master,0.05
+Raven Squad: Operation Hidden Dagger,0.09
+Raven Squad: Operation Hidden Dagger,0.02
+Raving Rabbids: Travel in Time,0.75
+Ray Gigant,0.04
+Rayman 2: Revolution,0.3
+Rayman 3,0.14
+Rayman 3: Hoodlum Havoc,0.29
+Rayman 3: Hoodlum Havoc,0.07
+Rayman 3: Hoodlum Havoc,0.07
+Rayman 3: Hoodlum Havoc,0.03
+Rayman 3D,0.64
+Rayman Advance,0.5
+Rayman Arena,0.6
+Rayman Arena,0.14
+Rayman DS,0.26
+Rayman Legends,0.66
+Rayman Legends,0.58
+Rayman Legends,0.43
+Rayman Legends,1.01
+Rayman Legends,0.34
+Rayman Legends,0.14
+Rayman Origins,1
+Rayman Origins,0.78
+Rayman Origins,0.55
+Rayman Origins,0.54
+Rayman Origins,0.15
+Rayman Origins,0.08
+Rayman Raving Rabbids,1.42
+Rayman Raving Rabbids,0.01
+Rayman Raving Rabbids,0.21
+Rayman Raving Rabbids,0.14
+Rayman Raving Rabbids: TV Party,2.03
+Rayman Raving Rabbids 2,1.83
+Rayman Raving Rabbids 2,0.8
+RayStorm,0.07
+Raze's Hell,0.05
+RC Revenge Pro,0.17
+Real Heroes: Firefighter,0.64
+Reality Fighters,0.12
+Real Time Conflict: Shogun Empires,0.07
+Real World Golf,0.11
+Rebelstar: Tactical Command,0.05
+Record of Agarest War,0.07
+Record of Agarest War,0.2
+Record of Agarest War 2,0.14
+ReCore,0.15
+Red Bull BC One,0.09
+RedCard 20-03,0.07
+RedCard 20-03,0.03
+RedCard 20-03,0.02
+Red Dead Redemption,6.49
+Red Dead Redemption,6.32
+Red Dead Revolver,1.45
+Red Dead Revolver,0.55
+Red Faction,1.92
+Red Faction: Armageddon,0.45
+Red Faction: Armageddon,0.39
+Red Faction: Armageddon,0.09
+Red Faction: Guerrilla,0.87
+Red Faction: Guerrilla,0.74
+Red Faction: Guerrilla,0.03
+Red Faction II,1.5
+Red Faction II,0.12
+Red Faction II,0.03
+Red Ninja: End of Honor,0.04
+Red Ninja: End of Honor,0.02
+Red Orchestra 2: Heroes of Stalingrad,0.14
+Red Steel,0.67
+Red Steel 2,0.62
+Reign of Fire,0.27
+Reign of Fire,0.11
+Remember Me,0.32
+Remember Me,0.18
+Remember Me,0.06
+Rengoku: The Tower of Purgatory,0.11
+Rengoku II:  The Stairway To H.E.A.V.E.N.,0.02
+Republique,0.01
+Resident Evil,5.05
+Resident Evil: Dead Aim,0.35
+Resident Evil: Deadly Silence,0.26
+Resident Evil: Operation Raccoon City,1.17
+Resident Evil: Operation Raccoon City,0.77
+Resident Evil: Operation Raccoon City,0.04
+Resident Evil: Outbreak,1.45
+Resident Evil: Revelations,0.88
+Resident Evil: Revelations,0.74
+Resident Evil: Revelations,0.26
+Resident Evil: Revelations,0.19
+Resident Evil: Revelations,0.04
+Resident Evil: Revelations 2,0.55
+Resident Evil: Revelations 2,0.1
+Resident Evil: Revelations 2,0.1
+Resident Evil: Survivor,0.71
+Resident Evil: The Darkside Chronicles,1.05
+Resident Evil: The Mercenaries 3D,0.49
+Resident Evil: The Umbrella Chronicles,1.52
+Resident Evil 2,5.82
+Resident Evil 2,0.06
+Resident Evil 3: Nemesis,0.08
+Resident Evil 4,3.62
+Resident Evil 4,1.69
+Resident Evil 4,0.03
+Resident Evil 5,5.09
+Resident Evil 5,3.5
+Resident Evil 5,0.07
+Resident Evil 6,3.1
+Resident Evil 6,1.95
+Resident Evil 6,0.04
+Resident Evil 6,0.08
+Resident Evil 6,0.05
+Resident Evil Archives: Resident Evil,0.3
+Resident Evil Archives: Resident Evil Zero,0.24
+Resident Evil - Code: Veronica X,2.34
+Resident Evil - Code: Veronica X,0.06
+Resident Evil Outbreak File #2,0.57
+Resistance: Burning Skies,0.41
+Resistance: Fall of Man,4.34
+Resistance: Retribution,0.89
+Resistance 2,2.46
+Resistance 3,1.48
+Resonance of Fate,0.73
+Resonance of Fate,0.33
+Retro Atari Classics,0.13
+Retro Game Challenge,0.11
+Return to Castle Wolfenstein: Operation Resurrection,0.53
+Return to Castle Wolfenstein: Tides of War,0.67
+Return to PopoloCrois: A Story of Seasons Fairytale,0.16
+Rez,0.05
+Rhapsody: A Musical Adventure,0.05
+Rhythm Heaven,3.11
+Ribbit King,0.09
+Ride,0.22
+Ride,0.1
+Ride,0.03
+Ride 2,0.05
+Ride 2,0.01
+Ride to Hell,0.06
+Ride to Hell,0.04
+Ridge Racer,1.4
+Ridge Racer,0.17
+Ridge Racer 3D,0.49
+Ridge Racer 6,0.2
+Ridge Racer 7,1.36
+Ridge Racer DS,0.15
+Ridge Racer Unbounded,0.17
+Ridge Racer Unbounded,0.11
+Ridge Racer Unbounded,0.02
+Ridge Racer V,1.24
+Riding Spirits,0.26
+RIFT,0.67
+RIGS: Mechanized Combat League,0.11
+Ring of Red,0.11
+Rio,0.09
+Risen,0.19
+Risen,0.14
+Risen 2: Dark Waters,0.22
+Risen 2: Dark Waters,0.22
+Risen 2: Dark Waters,0.14
+Risen 3: Titan Lords,0.09
+Risen 3: Titan Lords,0.08
+Risen 3: Titan Lords,0.06
+Rise of Nations,0.04
+Rise of Nations: Rise of Legends,0.03
+Rise of Nightmares,0.47
+Rise of the Kasai,0.19
+Rise of the Tomb Raider,1.38
+Rise of the Tomb Raider,0.12
+Risk: Global Domination,0.38
+River City Ransom EX,0.07
+Riviera: The Promised Land,0.1
+Riviera: The Promised Land,0.09
+RLH: Run Like Hell,0.1
+RLH: Run Like Hell,0.04
+RoadKill,0.17
+RoadKill,0.08
+Road Rash: Jailbreak,0.1
+Road Trip,0.09
+Robin Hood: Defender of the Crown,0.19
+Robinson: The Journey,0.12
+Robocalypse,0.07
+RoboCop,0.02
+Robot Alchemic Drive,0.07
+Robotech: Battlecry,0.61
+Robotech: Battlecry,0.16
+Robotech: The Macross Saga,0.21
+Robots,0.36
+Rock 'N Roll Racing,0.05
+Rock Band 2,2.2
+Rock Band 2,1.49
+Rock Band 2,1.02
+Rock Band 3,0.88
+Rock Band 3,0.63
+Rock Band 3,0.57
+Rock Band 3,0.09
+Rock Band 4,0.47
+Rock Band 4,0.38
+Rock Band Unplugged,0.48
+Rocket League,0.37
+Rocket League,0.24
+Rocket League,0.06
+Rock of the Dead,0.05
+Rock Revolution,0.27
+Rocksmith,1.12
+Rocksmith,1.12
+Rockstar Games presents Table Tennis,0.75
+Rockstar Games presents Table Tennis,1.26
+Rocky,0.86
+Rocky,0.15
+Rocky: Legends,0.27
+Rocky: Legends,0.1
+Rocky Balboa,0.1
+Rodea the Sky Soldier,0.12
+Rodea the Sky Soldier,0.04
+Rogue Galaxy,0.84
+Rogue Ops,0.23
+Rogue Trooper,0.04
+Rogue Trooper,0.02
+Rogue Trooper: Quartz Zone Massacre,0.07
+Rogue Warrior,0.13
+Rogue Warrior,0.11
+Rollcage Stage II,0.09
+RollerCoaster Tycoon,0.13
+RollerCoaster Tycoon 2,1.25
+RollerCoaster Tycoon 3,0.27
+RollerCoaster Tycoon World,0.02
+Rolling Stone: Drum King,0.1
+Romance of the Three Kingdoms IX,0.07
+Romance of the Three Kingdoms VII,0.32
+Romance of the Three Kingdoms VIII,0.3
+Romance of the Three Kingdoms X,0.09
+Romance of the Three Kingdoms XI,0.07
+Romancing SaGa,0.58
+Rome: Total War,0.1
+Root Letter,0.05
+Root Letter,0.01
+Rory McIlroy PGA Tour,0.52
+Rory McIlroy PGA Tour,0.27
+RPG Maker,0.5
+RPG Maker 3,0.06
+RPG Maker II,0.13
+RTX Red Rock,0.08
+R-Type Command,0.07
+R-Type Final,0.19
+Ruff Trigger: The Vanocore Conspiracy,0.02
+Rugby 06,0.05
+Rugby 08,0.04
+Rugby 15,0.11
+Rugby 15,0.09
+Rugby 2004,0.22
+Rugby 2005,0.09
+Rugby 2005,0.05
+Rugby Challenge 3,0.04
+Rugby World Cup 2011,0.32
+Rugby World Cup 2011,0.28
+Rugby World Cup 2015,0.06
+Rule of Rose,0.02
+Rumble Racing,0.21
+Rumble Roses,0.39
+Rumble Roses XX,0.13
+Runaway: A Twist of Fate,0.04
+Rune: Viking Warlord,0.26
+Rune Factory: A Fantasy Harvest Moon,0.53
+Rune Factory: Frontier,0.37
+Rune Factory: Tides of Destiny,0.23
+Rune Factory 2: A Fantasy Harvest Moon,0.52
+Rune Factory 3: A Fantasy Harvest Moon,0.4
+Rune Factory 4,0.57
+Rygar: The Battle of Argus,0.09
+Rygar: The Legendary Adventure,0.46
+Ryse: Son of Rome,1.38
+S.L.A.I.: Steel Lancer Arena International,0.03
+S.T.A.L.K.E.R.: Call of Pripyat,0.06
+S.T.A.L.K.E.R.: Clear Sky,0.04
+S.T.A.L.K.E.R.: Shadow of Chernobyl,0.06
+Sabrina The Teenage Witch: Potion Commotion,0.11
+Sacred 2: Fallen Angel,0.06
+Sacred 2: Fallen Angel,0.61
+Sacred 2: Fallen Angel,0.54
+Sacred 3,0.1
+Sacred 3,0.05
+Sacred 3,0.02
+SafeCracker: The Ultimate Puzzle Adventure,0.08
+Saint Seiya: Brave Soldiers,0.07
+Saint Seiya: Sanctuary Battle,0.23
+Saint Seiya: Soldiers' Soul,0.18
+Saints Row,2.18
+Saints Row: Gat out of Hell,0.05
+Saints Row: Gat out of Hell,0.01
+Saints Row: The Third,2.76
+Saints Row: The Third,2.47
+Saints Row: The Third,0.38
+Saints Row 2,3.03
+Saints Row 2,1.68
+Saints Row 2,0.04
+Saints Row IV,1.66
+Saints Row IV,1.25
+Saints Row IV,0.19
+Saiyuki: Journey West,0.05
+"Sakura Wars: So Long,0.02
+"Sakura Wars: So Long,0.01
+Salt Lake 2002,0.14
+Samba De Amigo,0.88
+Samurai Champloo: Sidetracked,0.05
+Samurai Jack: The Shadow of Aku,0.06
+Samurai Shodown Anthology,0.06
+Samurai Shodown Sen,0.08
+Samurai Warriors,1.35
+Samurai Warriors,0.07
+Samurai Warriors: Katana,0.15
+Samurai Warriors: State of War,0.18
+Samurai Warriors: Xtreme Legends,0.45
+Samurai Warriors 2,0.61
+Samurai Warriors 2,0.08
+Samurai Warriors 2: Empires,0.19
+Samurai Warriors 2: Empires,0.04
+Samurai Warriors 2: Xtreme Legends,0.09
+Samurai Warriors 3,0.44
+Samurai Warriors 4,0.24
+Samurai Warriors 4,0.11
+Samurai Warriors 4: Empires,0.1
+Samurai Warriors 4-II,0.12
+Samurai Warriors Chronicles,0.39
+Samurai Warriors Chronicles 3,0.08
+Samurai Warriors Chronicles 3,0.06
+Samurai Western,0.08
+Sands of Destruction,0.23
+SAW,0.36
+SAW,0.28
+SAW,0.02
+SBK: Snowboard Kids,0.02
+SBK Superbike World Championship,0.25
+SBK Superbike World Championship,0.21
+SBK X: Superbike World Championship,0.21
+SBK X: Superbike World Championship,0.19
+Scaler,0.09
+Scaler,0.04
+Scarface: Money. Power. Respect.,0.16
+Scarface: The World is Yours,1.19
+Scarface: The World is Yours,0.49
+Scarface: The World is Yours,0.04
+Scarface: The World is Yours,0.14
+Scene It? Box Office Smash,0.65
+Scene It? Lights Camera Action,0.48
+ScrapLand,0.02
+Scribblenauts,2.16
+Scribblenauts: Unlimited,0.61
+Scribblenauts: Unlimited,0.37
+Scribblenauts Unmasked: A DC Comics Adventure,0.1
+Scribblenauts Unmasked: A DC Comics Adventure,0.1
+Scurge: Hive,0.06
+Seaman,0.52
+Sébastien Loeb Rally Evo,0.04
+Sébastien Loeb Rally Evo,0.01
+Second Sight,0.14
+Second Sight,0.07
+Second Sight,0.05
+Secret Agent Clank,0.13
+Secret Agent Clank,0.6
+Secret Files: Tunguska,0.04
+Secret Files: Tunguska,0.06
+Secret Files: Tunguska,0.05
+Secret Files 2: Puritas Cordis,0.04
+Secret Weapons Over Normandy,0.48
+Secret Weapons Over Normandy,0.25
+Section 8,0.27
+Section 8,0.03
+Seek and Destroy,1.06
+Sega Bass Fishing,0.5
+SEGA Classics Collection,0.43
+Sega GT,0.13
+Sega GT 2002,0.19
+Sega GT Online,0.08
+Sega Rally Revo,0.63
+Sega Rally Revo,0.45
+Sega Rally Revo,0.25
+Sega Rally Revo,0.01
+Sega Soccer Slam,0.07
+Sega Soccer Slam,0.05
+Sega Superstars,0.17
+Sega Superstars Tennis,2.89
+Sega Superstars Tennis,1.05
+Sega Superstars Tennis,0.4
+Sega Superstars Tennis,0.38
+Self-Defense Training Camp,0.12
+Sengoku,0.01
+Sengoku Basara: Samurai Heroes,0.64
+Sengoku Basara: Samurai Heroes,0.29
+Senran Kagura: Estival Versus,0.18
+Senran Kagura: Estival Versus,0.18
+Senran Kagura 2: Deep Crimson,0.22
+Serious Sam,0.15
+Serious Sam: Next Encounter,0.07
+Serious Sam: Next Encounter,0.02
+Serious Sam 3: BFE,0.08
+Serious Sam Advance,0.02
+Serious Sam II,0.06
+Serious Sam II,0.01
+Sesame Street: Once Upon A Monster,0.52
+Seven Samurai 20XX,0.08
+Shadow Hearts,0.28
+Shadow Hearts: Covenant,0.24
+Shadow Hearts: From The New World,0.14
+Shadow Man: 2econd Coming,0.16
+Shadow of Destiny,0.21
+Shadow of Destiny,0.09
+Shadow of Rome,0.27
+Shadow of the Colossus,1.14
+Shadow Ops: Red Mercury,0.15
+Shadowrun,0.47
+Shadows of the Damned,0.27
+Shadows of the Damned,0.19
+Shadow The Hedgehog,0.99
+Shadow The Hedgehog,0.6
+Shadow The Hedgehog,0.18
+Shaman King: Power of Spirit,0.13
+Shantae and the Pirate's Curse,0.04
+Shape Up,0.18
+Shark Tale,0.75
+Shark Tale,0.68
+Shattered Union,0.04
+Shaun Palmer's Pro Snowboarder,0.73
+Shaun White Skateboarding,0.19
+Shaun White Skateboarding,0.16
+Shaun White Snowboarding,0.65
+Shaun White Snowboarding,0.32
+Shaun White Snowboarding: Road Trip,1.66
+Shaun White Snowboarding: World Stage,0.29
+Shellshock: Nam '67,0.22
+ShellShock 2: Blood Trails,0.09
+ShellShock 2: Blood Trails,0.08
+Shenmue,1.18
+Shenmue II,0.15
+Shenmue II,0.32
+Sherlock Holmes: The Devil's Daughter,0.01
+Sherlock Holmes: The Devil's Daughter,0.01
+Sherlock Holmes: The Mystery of the Mummy,0.39
+Sherlock Holmes vs. Jack the Ripper,0.16
+Shifters,0.05
+Shining Force: Resurrection of the Dark Dragon,0.08
+Shining Force EXA,0.1
+Shining Force NEO,0.11
+Shining Soul,0.14
+Shining Soul II,0.08
+Shining Tears,0.09
+Shin Megami Tensei: Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon,0.13
+Shin Megami Tensei: Devil Survivor,0.26
+Shin Megami Tensei: Devil Survivor 2,0.31
+Shin Megami Tensei: Devil Survivor Overclocked,0.38
+Shin Megami Tensei: Digital Devil Saga,0.13
+Shin Megami Tensei: Digital Devil Saga 2,0.08
+Shin Megami Tensei: Nocturne,0.38
+Shin Megami Tensei: Persona,0.22
+Shin Megami Tensei: Persona 3,0.45
+Shin Megami Tensei: Persona 3 FES,0.63
+Shin Megami Tensei: Persona 3 Portable,0.63
+Shin Megami Tensei: Persona 4,0.82
+Shin Megami Tensei: Strange Journey,0.28
+Shin Megami Tensei IV,0.58
+Shinobi,0.96
+Shinobi,0.22
+Ship Simulator 2008,0.01
+Ship Simulator Extremes,0.05
+Shiren the Wanderer,0.19
+Shovel Knight,0.14
+Shovel Knight,0.1
+Shovel Knight,0.08
+Showdown: Legends of Wrestling,0.3
+Showtime Championship Boxing,0.06
+Shrek,0.36
+Shrek: Forever After,0.19
+Shrek: Forever After,0.11
+Shrek: Hassle at the Castle,0.66
+Shrek 2,1.86
+Shrek 2,1.02
+Shrek 2,0.55
+Shrek Extra Large,0.17
+Shrek Super Party,0.29
+Shrek Super Party,0.13
+Shrek Super Party,0.05
+Shrek SuperSlam,0.5
+Shrek SuperSlam,0.22
+Shrek SuperSlam,0.09
+Shrek Swamp Kart Speedway,0.3
+Shrek the Third,0.48
+Shrek the Third,0.28
+Sid Meier's Civilization: Beyond Earth,0.36
+Sid Meier's Civilization IV,0.16
+Sid Meier's Civilization Revolution,0.83
+Sid Meier's Civilization Revolution,0.78
+Sid Meier's Civilization Revolution,0.44
+Sid Meier's Civilization V,1.68
+Sid Meier's Civilization VI,0.25
+Sigma Star Saga,0.05
+Silent Hill,1.6
+Silent Hill: Book of Memories,0.2
+Silent Hill: Downpour,0.46
+Silent Hill: Downpour,0.32
+Silent Hill: Origins,0.52
+Silent Hill: Origins,0.07
+Silent Hill: Shattered Memories,0.47
+Silent Hill: Shattered Memories,0.59
+Silent Hill: Shattered Memories,0.3
+Silent Hill 2,1.28
+Silent Hill 2: Restless Dreams,0.28
+Silent Hill 3,0.71
+Silent Hill 4: The Room,0.51
+Silent Hill 4: The Room,0.18
+Silent Hill HD Collection,0.32
+Silent Hill HD Collection,0.19
+Silent Hunter: Wolves of the Pacific,0.05
+Silent Hunter 5: Battle of the Atlantic,0.25
+Silent Hunter III,0.08
+Silent Scope,0.03
+Silent Scope Complete,0.1
+Silhouette Mirage,0.05
+Silpheed: The Lost Planet,0.07
+SimAnimals,0.52
+SimAnimals,0.31
+SimCity,0.03
+SimCity (2013),1.42
+SimCity 2000,0.11
+SimCity 4,0.29
+SimCity Creator,0.46
+SimCity Creator,0.34
+SimCity DS,0.6
+SimCity Societies,0.02
+Sing Party,0.27
+SingStar,1.13
+Singstar: Ultimate Party,0.19
+SingStar '80s,1.3
+SingStar Abba,0.93
+SingStar Dance,0.52
+SingStar Pop,1.44
+Singularity,0.05
+Sins of a Solar Empire,0.03
+Siren,0.18
+Siren: Blood Curse,0.27
+Six Flags Fun Park,0.18
+Six Flags Fun Park,0.4
+Skate,0.71
+Skate,0.37
+Skate 2,1.09
+Skate 2,0.84
+Skate 3,2.63
+Skate 3,1.98
+Skate it,0.58
+Skate it,0.17
+Skies of Arcadia,0.09
+Skies of Arcadia Legends,0.22
+Skylanders: Spyro's Adventure,2.78
+Skylanders: Spyro's Adventure,0.97
+Skylanders: Spyro's Adventure,0.94
+Skylanders: Spyro's Adventure,0.57
+Skylanders: SuperChargers,0.48
+Skylanders: SuperChargers,0.31
+Skylanders: SuperChargers,0.24
+Skylanders: Trap Team,0.7
+Skylanders: Trap Team,0.44
+Skylanders Giants,2.52
+Skylanders Giants,1.3
+Skylanders Giants,1.06
+Skylanders Giants,0.37
+Skylanders Giants,0.14
+Skylanders Imaginators,0.14
+Skylanders Imaginators,0.1
+Skylanders SWAP Force,1.32
+Skylanders SWAP Force,1.02
+Skylanders SWAP Force,0.58
+Skylanders SWAP Force,0.39
+Skylanders SWAP Force,0.24
+Sky Odyssey,0.32
+Sled Storm,0.45
+Sleeping Dogs,1.04
+Sleeping Dogs,0.87
+Sleeping Dogs,0.12
+Sly 2: Band of Thieves,1.81
+Sly 3: Honor Among Thieves,0.83
+Sly Cooper: Thieves in Time,0.54
+Sly Cooper: Thieves in Time,0.25
+Sly Cooper and the Thievius Raccoonus,1.21
+Smart Bomb,0.08
+Smarty Pants,1.43
+Smash Cars,0.11
+Smash Court Tennis 3,0.04
+Smash Court Tennis Pro Tournament,0.17
+Smash Court Tennis Pro Tournament 2,0.13
+Smuggler's Run,1.56
+Smuggler's Run,0.01
+Smuggler's Run: Warzones,0.08
+Sneakers,0.1
+Sniper: Art of Victory,0.49
+Sniper: Ghost Warrior,1.16
+Sniper: Ghost Warrior,0.16
+Sniper: Ghost Warrior,0.79
+Sniper: Ghost Warrior 2,0.33
+Sniper: Ghost Warrior 2,0.2
+Sniper: Ghost Warrior 2,0.08
+Sniper Elite,0.19
+Sniper Elite,0.09
+Sniper Elite,0.02
+Sniper Elite 3,0.68
+Sniper Elite 3,0.35
+Sniper Elite V2,0.96
+Sniper Elite V2,0.84
+Sniper Elite V2,0.02
+SNK Arcade Classics Vol. 1,0.07
+SNK vs. Capcom Card Fighters DS,0.1
+Snoopy vs the Red Baron,0.05
+SOCOM: U.S. Navy SEALs,3.65
+SOCOM: U.S. Navy SEALs: Combined Assault,2.04
+SOCOM: U.S. Navy SEALs Confrontation,1.25
+SOCOM: U.S. Navy SEALs Fireteam Bravo,1.12
+SOCOM: U.S. Navy SEALs Fireteam Bravo 2,1.05
+SOCOM: U.S. Navy SEALs Fireteam Bravo 3,0.44
+SOCOM 3: U.S. Navy SEALs,1.69
+SOCOM 4: U.S. Navy SEALs,0.89
+SOCOM II: U.S. Navy SEALs,2.94
+Solatorobo: Red the Hunter,0.2
+Soldier of Fortune: Gold Edition,0.56
+Soldier of Fortune: Payback,0.2
+Soldier of Fortune: Payback,0.15
+Soldier of Fortune II: Double Helix,0.23
+Song of the Deep,0.08
+Song of the Deep,0.06
+Song of the Deep,0.03
+Sonic's Ultimate Genesis Collection,2.26
+Sonic's Ultimate Genesis Collection,1.41
+Sonic Advance,2.24
+Sonic Advance 2,1.8
+Sonic Advance 3,1.4
+Sonic Adventure 2,0.12
+Sonic Adventure 2 Battle,2.56
+Sonic Adventure DX: Director's Cut,1.27
+Sonic and the Black Knight,1.09
+Sonic and the Secret Rings,2.73
+Sonic Boom: Rise of Lyric,0.31
+Sonic Boom: Shattered Crystal,0.29
+Sonic Chronicles: The Dark Brotherhood,0.88
+Sonic Classic Collection,1.83
+Sonic Colors,1.68
+Sonic Colors,1.29
+Sonic Free Riders,1.09
+Sonic Generations,1.58
+Sonic Generations,1.38
+Sonic Generations,1.02
+Sonic Generations,0.11
+Sonic Heroes,2.96
+Sonic Heroes,1.6
+Sonic Heroes,0.9
+Sonic Lost World,0.49
+Sonic Lost World,0.39
+Sonic Mega Collection,2.05
+Sonic Mega Collection Plus,2.9
+Sonic Mega Collection Plus,0.91
+Sonic Riders,0.92
+Sonic Riders,0.5
+Sonic Riders,0.13
+Sonic Riders: Zero Gravity,0.91
+Sonic Riders: Zero Gravity,0.18
+Sonic Rivals,1.42
+Sonic Rivals 2,1.48
+Sonic Rush,3.12
+Sonic Rush Adventure,1.15
+Sonic the Hedgehog,1.16
+Sonic the Hedgehog,1.04
+Sonic Unleashed,2.16
+Sonic Unleashed,1.02
+Sonic Unleashed,0.95
+Sonic Unleashed,0.76
+Sorcery,0.29
+Sorcery Saga: The Curse of the Great Curry God,0.03
+Soul Bubbles,0.08
+SoulCalibur,0.34
+SoulCalibur: Broken Destiny,0.51
+SoulCalibur II,2.06
+SoulCalibur II,1.5
+SoulCalibur II,1
+SoulCalibur III,1.07
+SoulCalibur IV,1.58
+SoulCalibur IV,1.46
+SoulCalibur Legends,0.18
+SoulCalibur V,0.75
+SoulCalibur V,0.58
+Soul Reaver 2,0.55
+Soul Sacrifice,0.51
+Soul Sacrifice Delta,0.22
+South Park: The Stick of Truth,0.92
+South Park: The Stick of Truth,0.92
+South Park: The Stick of Truth,0.19
+Space Channel 5: Ulala's Cosmic Attack,0.02
+Space Channel 5 Special Edition,0.08
+Space Chimps,0.11
+Space Invaders Extreme,0.15
+Space Invaders Extreme,0.09
+Space Invaders Extreme 2,0.19
+Space Invaders Revolution,0.01
+Spartan: Total Warrior,0.22
+Spartan: Total Warrior,0.13
+Spartan: Total Warrior,0.07
+Spawn: Armageddon,0.44
+Spawn: Armageddon,0.17
+Spawn: Armageddon,0.07
+Special Forces: Nemesis Strike,0.03
+Spec Ops: Ranger Elite,0.87
+Spec Ops: The Line,0.54
+Spec Ops: The Line,0.42
+Spec Ops: The Line,0.23
+Spectral Force 3,0.09
+Spectral Force Genesis,0.09
+Spectral Souls: Resurrection of the Ethereal Empires,0.03
+Spectrobes,0.74
+Spectrobes: Beyond the Portals,0.51
+Spectrobes: Origins,0.19
+Speed Kings,0.09
+Speed Kings,0.05
+Speed Zone,0.07
+Sphinx and the Cursed Mummy,0.14
+Sphinx and the Cursed Mummy,0.12
+Spider-Man,3.13
+Spider-Man: Battle for New York,0.13
+Spider-Man: Edge of Time,0.25
+Spider-Man: Edge of Time,0.22
+Spider-Man: Edge of Time,0.12
+Spider-Man: Edge of Time,0.09
+Spider-Man: Friend or Foe,0.37
+Spider-Man: Friend or Foe,0.29
+Spider-Man: Friend or Foe,0.18
+Spider-Man: Friend or Foe,0.14
+Spider-Man: Friend or Foe,0.01
+Spider-Man: Mysterio's Menace,0.61
+Spider-Man: Shattered Dimensions,0.44
+Spider-Man: Shattered Dimensions,0.36
+Spider-Man: Shattered Dimensions,0.24
+Spider-Man: Shattered Dimensions,0.19
+Spider-Man: The Movie,4.48
+Spider-Man: The Movie,1.4
+Spider-Man: The Movie,1.19
+Spider-Man: Web of Shadows,0.4
+Spider-Man: Web of Shadows,0.26
+Spider-Man: Web of Shadows,0.25
+Spider-Man: Web of Shadows,0.21
+Spider-Man: Web of Shadows,0.1
+Spider-Man: Web of Shadows,0.02
+Spider-Man 2,3.41
+Spider-Man 2,1.12
+Spider-Man 2,1.06
+Spider-Man 2,0.84
+Spider-Man 2,0.49
+Spider-Man 2,0.7
+Spider-Man 2: Enter: Electro,1.55
+Spider-Man 3,0.9
+Spider-Man 3,0.67
+Spider-Man 3,0.57
+Spider-Man 3,0.47
+Spider-Man 3,0.47
+Spider-Man 3,0.3
+Spider-Man 3,0.02
+Spirit Camera: The Cursed Memoir,0.22
+SplashDown,0.7
+SplashDown: Rides Gone Wild,0.5
+Splatoon,4.43
+Splatterhouse,0.18
+Split/Second,0.6
+Split/Second,0.11
+Split/Second,0.04
+SpongeBob SquarePants: Battle for Bikini Bottom,1.67
+SpongeBob SquarePants: Battle for Bikini Bottom,0.95
+SpongeBob SquarePants: Battle for Bikini Bottom,0.57
+SpongeBob SquarePants: Creature from the Krusty Krab,0.49
+SpongeBob SquarePants: Creature from the Krusty Krab,0.49
+SpongeBob SquarePants: Creature from the Krusty Krab,0.33
+SpongeBob SquarePants: Revenge of the Flying Dutchman,1.19
+SpongeBob SquarePants: Revenge of the Flying Dutchman,0.2
+SpongeBob SquarePants: The Yellow Avenger,0.34
+SpongeBob SquarePants: The Yellow Avenger,0.92
+SpongeBob SquarePants featuring Nicktoons: Globs of Doom,0.53
+SpongeBob SquigglePants 3D,0.19
+Spore,1.17
+Spore Creatures,1.06
+Spore Hero,0.4
+Spore Hero Arena,0.19
+Sports Champions,3.84
+SPRay,0.04
+Spyborgs,0.11
+Spy Hunter,1.67
+Spy Hunter: Nowhere To Run,0.02
+Spy Hunter 2,0.49
+Spy Kids 3-D: Game Over,0.33
+Spyro: A Hero's Tail,0.64
+Spyro: A Hero's Tail,0.29
+Spyro: A Hero's Tail,0.14
+Spyro: Attack of the Rhynocs,0.3
+Spyro: Enter the Dragonfly,1.97
+Spyro: Enter the Dragonfly,0.71
+Spyro: Season of Ice,2.23
+Spyro: Shadow Legacy,0.16
+Spyro: Year of the Dragon,3.71
+Spyro 2: Season of Flame,1.58
+Spyro Orange: The Cortex Conspiracy,0.57
+Spy vs Spy,0.11
+SSX,1.66
+SSX,0.91
+SSX,0.7
+SSX 3,1.67
+SSX 3,0.39
+SSX 3,0.38
+SSX Blur,0.33
+SSX On Tour,0.52
+SSX On Tour,0.23
+SSX On Tour,0.17
+SSX On Tour,0.14
+SSX Tricky,1.73
+SSX Tricky,0.54
+SSX Tricky,0.43
+Stacked with Daniel Negreanu,0.07
+Stake: Fortune Fighters,0.02
+StarCraft,0.05
+StarCraft II: Heart of the Swarm,1.67
+StarCraft II: Legacy of the Void,0.53
+StarCraft II: Wings of Liberty,4.84
+Star Fox: Assault,1.08
+Star Fox: Zero,0.36
+Star Fox 64 3D,0.94
+Star Fox Adventures,1.87
+Star Fox Command,0.53
+Starhawk,0.29
+Star Ocean: First Departure,0.64
+Star Ocean: Second Evolution,0.34
+Star Ocean: The Last Hope,0.79
+Star Ocean: The Last Hope International,0.72
+Star Ocean: The Second Story,1.1
+Star Ocean: Till The End of Time,1.72
+Starship Troopers,0.02
+Star Trek: Conquest,0.12
+Star Trek: Legacy,0.02
+Star Trek: Shattered Universe,0.1
+Star Trek: Shattered Universe,0.04
+Star Trek: Tactical Assault,0.06
+Star Trek: Tactical Assault,0.03
+Star Trek: Voyager Elite Force,0.15
+Star Trek Online,0.02
+Star Wars: Battlefront,3.61
+Star Wars: Battlefront,1.75
+Star Wars: Battlefront,0.21
+Star Wars: Battlefront II,3.59
+Star Wars: Battlefront II,1.67
+Star Wars: Battlefront II,1.21
+Star Wars: Battlefront II,0.17
+Star Wars: Bounty Hunter,1.09
+Star Wars: Bounty Hunter,0.26
+Star Wars: Demolition,0.46
+Star Wars: Empire at War,0.08
+Star Wars: Empire at War - Forces of Corruption,0.02
+Star Wars: Flight of the Falcon,0.35
+Star Wars: Jedi Starfighter,0.5
+Star Wars: Jedi Starfighter,0.44
+Star Wars: Knights of the Old Republic,2.19
+Star Wars: Knights of the Old Republic,0.14
+Star Wars: Lethal Alliance,0.13
+Star Wars: Obi-Wan,0.7
+Star Wars: Republic Commando,0.67
+Star Wars: Republic Commando,0.05
+Star Wars: Starfighter,1.76
+Star Wars: Super Bombad Racing,0.16
+Star Wars: The Force Unleashed,2.77
+Star Wars: The Force Unleashed,2.21
+Star Wars: The Force Unleashed,1.86
+Star Wars: The Force Unleashed,1.25
+Star Wars: The Force Unleashed,1.08
+Star Wars: The Force Unleashed,0.88
+Star Wars: The Force Unleashed II,1.5
+Star Wars: The Force Unleashed II,1.43
+Star Wars: The Force Unleashed II,0.76
+Star Wars: The Force Unleashed II,0.21
+Star Wars: The Force Unleashed II,0.03
+Star Wars: The Old Republic,2.96
+Star Wars Battlefront: Elite Squadron,0.76
+Star Wars Battlefront: Elite Squadron,0.49
+Star Wars Battlefront: Renegade Squadron,1.67
+Star Wars Episode II: Attack of the Clones,0.77
+Star Wars Episode III: Revenge of the Sith,3.32
+Star Wars Episode III: Revenge of the Sith,1.24
+Star Wars Episode III: Revenge of the Sith,0.72
+Star Wars Episode III: Revenge of the Sith,0.3
+Star Wars Jedi Knight: Jedi Academy,0.45
+Star Wars Jedi Knight: Jedi Academy,0.03
+Star Wars Jedi Knight II: Jedi Outcast,0.23
+Star Wars Knights of the Old Republic II: The Sith Lords,1.37
+Star Wars Racer Revenge,0.31
+Star Wars Rogue Leader: Rogue Squadron II,1.9
+Star Wars Rogue Squadron III: Rebel Strike,0.8
+Star Wars The Clone Wars: Jedi Alliance,0.78
+Star Wars The Clone Wars: Lightsaber Duels,1.65
+Star Wars The Clone Wars: Republic Heroes,0.79
+Star Wars The Clone Wars: Republic Heroes,0.43
+Star Wars The Clone Wars: Republic Heroes,0.39
+Star Wars The Clone Wars: Republic Heroes,0.03
+State of Emergency,1.76
+State of Emergency,0.17
+State of Emergency 2,0.08
+Steambot Chronicles,0.04
+Steambot Chronicles: Battle Tournament,0.06
+Steel Battalion,0.1
+Steel Battalion: Heavy Armor,0.13
+Steel Battalion: Line of Contact,0.02
+Steel Diver,0.49
+Steins;Gate,0.06
+Steins;Gate,0.1
+Steins;Gate 0,0.09
+Steins;Gate 0,0.05
+Stella Deus: The Gate of Eternity,0.08
+Stella Glow,0.24
+Stellaris,0.04
+Still Life,0.07
+Still Life 2,0.02
+StokEd,0.21
+Stoked: Big Air Edition,0.04
+Stolen,0.04
+STORM: Frontline Nation,0.01
+Stormrise,0.17
+Stormrise,0.15
+Stormrise,0.02
+Story of Seasons,0.42
+Stranger of Sword City,0.04
+Stranglehold,0.82
+Stranglehold,0.3
+Street Fighter Alpha 3,1.03
+Street Fighter Alpha 3,0.15
+Street Fighter Alpha 3 MAX,0.33
+Street Fighter Anniversary Collection,0.66
+Street Fighter Anniversary Collection,0.15
+Street Fighter EX3,0.85
+Street Fighter IV,4.16
+Street Fighter IV,2.94
+Street Fighter V,0.9
+Street Fighter V,0.06
+Street Fighter X Tekken,0.83
+Street Fighter X Tekken,0.47
+Street Fighter X Tekken,0.19
+Street Fighter X Tekken,0.02
+Street Hoops,0.28
+Street Jam Basketball,0.03
+Stretch Panic,0.05
+Strider 2,0.08
+Strike Force Bowling,0.62
+Strikers 1945,0.12
+Stronghold,0.11
+Stronghold 3,0.16
+Stronghold Crusader Extreme,0.02
+Stronghold Kingdoms,0.11
+Stronghold Legends,0.02
+Stuart Little 3: Big Photo Adventure,0.08
+Stubbs the Zombie in Rebel Without a Pulse,0.11
+Stunt GP,0.05
+Stuntman,1.55
+Stuntman: Ignition,0.64
+Stuntman: Ignition,0.52
+Stuntman: Ignition,0.27
+Style Savvy,2.58
+Style Savvy: Trendsetters,0.73
+Sudeki,0.19
+Sudoku Mania,0.1
+Suikoden II,0.68
+Suikoden IV,0.66
+Suikoden Tactics,0.2
+Suikoden Tierkreis,0.26
+Suikoden V,0.35
+Summer Heat Beach Volleyball,0.28
+Summer Sports: Paradise Island,0.53
+Summoner,0.51
+Summoner 2,0.21
+Summon Night: Swordcraft Story,0.02
+Summon Night: Twin Age,0.13
+Summon Night 5,0.15
+Sunny Garcia Surfing,0.03
+Sunset Overdrive,1.14
+SuperCar Challenge,0.03
+Supercar Street Challenge,1.12
+Superdimension Neptune vs Sega Hard Girls,0.03
+Super Dragon Ball Z,0.37
+Super Dungeon Bros,0.01
+Super Ghouls 'n Ghosts,0.07
+Superman: Countdown to Apokolips,0.04
+Superman: Shadow of Apokolips,0.42
+Superman: Shadow of Apokolips,0.08
+Superman: The Man of Steel,0.13
+Superman Returns,0.26
+Superman Returns,0.07
+Super Mario 3D Land,10.81
+Super Mario 3D World,4.32
+Super Mario Advance,5.49
+Super Mario Galaxy,11.35
+Super Mario Galaxy 2,7.51
+Super Mario Maker,3.21
+Super Mario Strikers,1.61
+Super Mario Sunshine,6.31
+Super Monkey Ball,1.46
+Super Monkey Ball: Banana Blitz,2.24
+Super Monkey Ball 2,1.52
+Super Monkey Ball 3D,0.49
+Super Monkey Ball Adventure,0.15
+Super Monkey Ball Adventure,0.08
+Super Monkey Ball Adventure,0.03
+Super Monkey Ball Deluxe,0.24
+Super Monkey Ball Deluxe,0.15
+Super Monkey Ball Jr.,0.72
+Super Paper Mario,3.71
+Super Princess Peach,1.03
+Super Puzzle Fighter II Turbo,0.14
+Super Robot Taisen OG Saga: Endless Frontier,0.08
+Super Scribblenauts,1.46
+Super Smash Bros. Brawl,12.84
+Super Smash Bros. Melee,7.07
+Super Stardust Ultra VR,0.01
+Superstars V8 Racing,0.03
+Super Street Fighter II: Turbo Revival,0.25
+Super Street Fighter IV: 3D Edition,1.21
+Super Swing Golf,0.22
+Supremacy MMA,0.12
+Supremacy MMA,0.08
+Supreme Commander,0.05
+Supreme Commander,0.09
+Supreme Commander: Forged Alliance,0.04
+Supreme Commander 2,0.34
+Supreme Commander 2,0.19
+Supreme Ruler: Cold War,0.03
+Surf's Up,0.28
+Surf's Up,0.1
+Surf's Up,0.04
+Surfing H3O,0.25
+Suzuki TT Superbikes,0.4
+SWAT: Global Strike Team,0.32
+SWAT: Global Strike Team,0.17
+SWAT: Target Liberty,0.04
+SWAT 4,0.03
+Swingerz Golf,0.08
+Sword Art Online: Hollow Fragment,0.3
+Sword Art Online: Hollow Realization,0.19
+Sword Art Online: Hollow Realization,0.15
+Sword Art Online: Lost Song,0.36
+Sword Art Online: Lost Song,0.25
+Sword of Mana,0.74
+Syberia,0.03
+Syberia,0.1
+Syberia II,0.03
+Syberia II,0.02
+Syndicate,0.18
+Syndicate,0.14
+Syphon Filter: Dark Mirror,0.29
+Syphon Filter: Dark Mirror,0.28
+Syphon Filter: Logan's Shadow,0.46
+Syphon Filter: The Omega Strain,0.76
+Syphon Filter 3,0.52
+Tactics Ogre: Let Us Cling Together,0.53
+Tactics Ogre: The Knight of Lodis,0.5
+Taiko Drum Master,0.2
+Tak: The Great Juju Challenge,0.15
+Tak 2: The Staff of Dreams,0.62
+Tak 2: The Staff of Dreams,0.33
+Tak and the Guardians of Gross,0.16
+Tak and the Power of Juju,1.15
+Tak and the Power of Juju,0.55
+Tak and the Power of Juju,0.4
+Take On Helicopters,0.03
+Tales of Destiny II,0.81
+Tales of Graces f,0.98
+Tales of Legendia,0.49
+Tales of Phantasia,0.29
+Tales of Symphonia,1.1
+Tales of Symphonia: Dawn of the New World,0.52
+Tales of the Abyss,0.57
+Tales of the Abyss,0.83
+Tales of the World: Radiant Mythology,0.43
+Tales of Vesperia,0.74
+Tales of Xillia,1.22
+Tales of Xillia 2,0.84
+Tales of Zestiria,0.4
+Tamagotchi Connection: Corner Shop,1.26
+Tank Beat,0.02
+Tao Feng: Fist of the Lotus,0.27
+Target: Terror,0.07
+Tatsunoko vs. Capcom: Ultimate All-Stars,0.53
+Taz Wanted,0.16
+Taz Wanted,0.08
+Tearaway,0.61
+Tearaway Unfolded,0.26
+Tears to Tiara II: Heir of the Overlord,0.15
+Tecmo Bowl: Kickoff,0.11
+Teenage Mutant Ninja Turtles,0.93
+Teenage Mutant Ninja Turtles,0.92
+Teenage Mutant Ninja Turtles,0.34
+Teenage Mutant Ninja Turtles,0.3
+Teenage Mutant Ninja Turtles: Arcade Attack,0.13
+Teenage Mutant Ninja Turtles: Mutants in Manhattan,0.09
+Teenage Mutant Ninja Turtles: Mutants in Manhattan,0.04
+Teenage Mutant Ninja Turtles: Smash-Up,0.35
+Teenage Mutant Ninja Turtles 2: Battle Nexus,0.44
+Teenage Mutant Ninja Turtles 2: Battle Nexus,0.19
+Teenage Mutant Ninja Turtles 2: Battle Nexus,0.13
+Teenage Mutant Ninja Turtles 3: Mutant Nightmare,0.2
+Teenage Mutant Ninja Turtles 3: Mutant Nightmare,0.06
+Teenage Zombies: Invasion of the Alien Brain Thingys,0.04
+Teen Titans,0.33
+Teen Titans,0.25
+Tekken 2,5.74
+Tekken 3,7.16
+Tekken 3D: Prime Edition,0.2
+Tekken 4,3.44
+Tekken 5,3.87
+Tekken 6,2.75
+Tekken 6,1.3
+Tekken 6,0.32
+Tekken Advance,0.45
+Tekken Tag Tournament,4.05
+Tekken Tag Tournament 2,0.85
+Tekken Tag Tournament 2,0.34
+Tenchu: Dark Secret,0.05
+Tenchu: Fatal Shadows,0.19
+Tenchu: Return From Darkness,0.21
+Tenchu: Shadow Assassins,0.21
+Tenchu: Shadow Assassins,0.11
+Tenchu: Stealth Assassins,1.99
+Tenchu: Wrath of Heaven,1.14
+Tenchu 2: Birth of the Stealth Assassins,0.58
+Tenchu Z,0.34
+Tenkai Knights: Brave Battle,0.02
+Terminator 3: Rise of the Machines,0.58
+Terminator 3: Rise of the Machines,0.14
+Terminator 3: The Redemption,0.17
+Terminator 3: The Redemption,0.06
+Terminator Salvation,0.53
+Terminator Salvation,0.35
+Terraria,0.14
+Terraria,0.67
+Terraria,0.41
+Terraria,0.1
+Terraria,0.07
+Terraria,0.04
+Terraria,0.09
+Test Drive,1.34
+Test Drive,0.42
+Test Drive: Eve of Destruction,0.23
+Test Drive: Eve of Destruction,0.09
+Test Drive: Ferrari Legends,0.04
+Test Drive Off-Road Wide Open,0.18
+Test Drive Unlimited,0.32
+Test Drive Unlimited,0.5
+Test Drive Unlimited,0.02
+Tetris Axis,0.43
+Tetris DS,2.1
+Tetris Party Deluxe,0.56
+Tetris Worlds,2.08
+Tetris Worlds,0.22
+Texas Hold 'Em Poker,0.61
+That's So Raven,0.76
+The 3rd Birthday,0.51
+The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies,0.5
+The Adventures of Tintin: The Game,0.26
+The Adventures of Tintin: The Game,0.24
+The Adventures of Tintin: The Game,0.15
+The Ant Bully,0.1
+The Ant Bully,0.09
+Theatre Of War,0.01
+Theatrhythm: Final Fantasy,0.5
+Theatrhythm Final Fantasy: Curtain Call,0.37
+The Awakened Fate Ultimatum,0.02
+The Bard's Tale,0.21
+The Bard's Tale,0.1
+The Beatles: Rock Band,1.71
+The Beatles: Rock Band,1.3
+The Beatles: Rock Band,1.12
+The Bible Game,0.05
+The BIGS,0.51
+The BIGS,0.37
+The BIGS,0.27
+The BIGS,0.16
+The BIGS 2,0.29
+The BIGS 2,0.21
+The BIGS 2,0.13
+The Binding of Isaac,0.03
+The Black Eyed Peas Experience,0.32
+The Book of Unwritten Tales,0.1
+The Book of Unwritten Tales 2,0.07
+The Bouncer,0.99
+The Bureau: XCOM Declassified,0.25
+The Bureau: XCOM Declassified,0.21
+The Bureau: XCOM Declassified,0.05
+The Chronicles of Narnia: Prince Caspian,0.4
+The Chronicles of Narnia: Prince Caspian,0.36
+The Chronicles of Narnia: Prince Caspian,0.18
+The Chronicles of Narnia: Prince Caspian,0.17
+"The Chronicles of Narnia: The Lion,0.06
+"The Chronicles of Narnia: The Lion,0.01
+"The Chronicles of Narnia: The Lion,0.01
+The Chronicles of Riddick: Assault on Dark Athena,0.29
+The Chronicles of Riddick: Assault on Dark Athena,0.25
+The Chronicles of Riddick: Assault on Dark Athena,0.01
+The Club,0.27
+The Club,0.23
+The Con,0.2
+The Conduit,0.57
+The Crew,1.72
+The Crew,0.64
+The Crew,0.16
+The Crew: Wild Run,0.1
+The Crew: Wild Run,0.02
+The Crew: Wild Run,0.02
+The Cursed Crusade,0.17
+The Cursed Crusade,0.15
+The Cursed Crusade,0.03
+The Darkness,0.66
+The Darkness,0.44
+The Darkness II,0.39
+The Darkness II,0.32
+The Darkness II,0.14
+The Dark Spire,0.04
+The Da Vinci Code,0.14
+The Da Vinci Code,0.04
+The Dog Island,0.38
+The Dukes of Hazzard: Return of the General Lee,0.21
+The Dukes of Hazzard: Return of the General Lee,0.08
+The Elder Scrolls III: Morrowind,2.86
+The Elder Scrolls IV: Oblivion,4.38
+The Elder Scrolls IV: Oblivion,0.25
+The Elder Scrolls IV: Oblivion,3.1
+The Elder Scrolls Online,0.9
+The Elder Scrolls Online,1.28
+The Elder Scrolls V: Skyrim,8.79
+The Elder Scrolls V: Skyrim,6.41
+The Elder Scrolls V: Skyrim,3.88
+The Evil Within,1.79
+The Evil Within,0.67
+The Evil Within,0.27
+The Eye of Judgment,0.33
+The Eye of Judgment: Legends,0.01
+The Fast and the Furious,0.06
+The Fast and the Furious,0.02
+The Fight: Lights Out,0.59
+The First Templar,0.1
+The First Templar,0.08
+The Getaway,3.54
+The Getaway: Black Monday,1.78
+The Godfather,1.09
+The Godfather: Blackhand Edition,0.15
+The Godfather: Mob Wars,0.1
+The Godfather II,0.79
+The Godfather II,0.74
+The Golden Compass,0.6
+The Golden Compass,0.52
+The Golden Compass,0.46
+The Golden Compass,0.28
+The Golf Club,0.08
+The Golf Club,0.03
+The Great Escape,0.2
+The Guided Fate Paradox,0.07
+The Gunstringer,0.4
+The Guy Game,0.13
+The Guy Game,0.07
+The Haunted: Hell's Reach,0.02
+The History Channel: Battle for the Pacific,0.06
+The History Channel: Battle for the Pacific,0.07
+The Hobbit,0.54
+The Hobbit,0.19
+The Hobbit,0.17
+The House of the Dead: Overkill,0.85
+The House of The Dead III,0.39
+The Hustle: Detroit Streets,0.07
+The Incredible Hulk,0.38
+The Incredible Hulk,0.26
+The Incredible Hulk,0.26
+The Incredible Hulk: Ultimate Destruction,0.54
+The Incredible Hulk: Ultimate Destruction,0.23
+The Incredible Hulk: Ultimate Destruction,0.15
+The Incredibles,2.37
+The Incredibles,0.84
+The Incredibles: Rise of the Underminer,0.36
+The Incredibles: Rise of the Underminer,0.16
+The Inner World,0.03
+The Italian Job,0.23
+The Italian Job,0.08
+The King of Fighters 02/03,0.07
+The King of Fighters 2000/2001,0.11
+The King of Fighters 2006,0.08
+The King of Fighters Collection: The Orochi Saga,0.2
+The King of Fighters Collection: The Orochi Saga,0.07
+The King of Fighters EX2: Howling Blood,0.08
+The King of Fighters XI,0.19
+The King of Fighters XII,0.16
+The King of Fighters XII,0.11
+The King of Fighters XIII,0.33
+The King of Fighters XIII,0.3
+The King of Fighters XIV,0.15
+The Kore Gang,0.04
+The Last Airbender,0.21
+The Last Airbender,0.18
+The Last Guy,0.03
+The Last of Us,5.87
+The Last Remnant,0.68
+The Last Remnant,0.01
+The Last Story,0.65
+The Legendary Starfy,0.85
+The Legend of Alon D'ar,0.08
+The Legend of Dragoon,1.86
+The Legend of Heroes: A Tear of Vermillion,0.09
+The Legend of Heroes: Trails of Cold Steel,0.23
+The Legend of Heroes: Trails of Cold Steel,0.2
+The Legend of Heroes: Trails of Cold Steel II,0.19
+The Legend of Heroes: Trails of Cold Steel II,0.15
+The Legend of Heroes II: Prophecy of the Moonlight Witch,0.14
+The Legend of Heroes III: Song of the Ocean,0.03
+The Legend of Kage 2,0.07
+The Legend of Legacy,0.25
+The Legend of Spyro: A New Beginning,0.37
+The Legend of Spyro: A New Beginning,0.19
+The Legend of Spyro: Dawn of the Dragon,0.56
+The Legend of Spyro: Dawn of the Dragon,0.46
+The Legend of Spyro: Dawn of the Dragon,0.44
+The Legend of Spyro: Dawn of the Dragon,0.31
+The Legend of Spyro: The Eternal Night,0.42
+The Legend of Spyro: The Eternal Night,0.37
+The Legend of Spyro: The Eternal Night,0.21
+The Legend of Zelda: A Link Between Worlds,3.1
+The Legend of Zelda: A Link to the Past,2.7
+The Legend of Zelda: Four Swords Adventures,0.81
+The Legend of Zelda: Majora's Mask 3D,2.34
+The Legend of Zelda: Phantom Hourglass,5.08
+The Legend of Zelda: Skyward Sword,3.95
+The Legend of Zelda: Spirit Tracks,3.31
+The Legend of Zelda: The Minish Cap,1.42
+The Legend of Zelda: The Wind Waker,4.6
+The Legend of Zelda: Tri Force Heroes,1.12
+The Legend of Zelda: Twilight Princess,7.15
+The Legend of Zelda: Twilight Princess,1.59
+The Legend of Zelda: Twilight Princess HD,1.03
+The LEGO Movie Videogame,1.27
+The LEGO Movie Videogame,0.93
+The LEGO Movie Videogame,0.67
+The LEGO Movie Videogame,0.64
+The LEGO Movie Videogame,0.53
+The LEGO Movie Videogame,0.06
+The Longest Journey,0.02
+The Lord of the Rings: Aragorn's Quest,0.23
+The Lord of the Rings: Aragorn's Quest,0.17
+The Lord of the Rings: Conquest,0.74
+The Lord of the Rings: Conquest,0.63
+The Lord of the Rings: Conquest,0.1
+The Lord of the Rings: Conquest,0.02
+The Lord of the Rings: The Battle for Middle-Earth II,0.05
+The Lord of the Rings: The Battle for Middle-Earth II,0.02
+The Lord of the Rings: The Fellowship of the Ring,1.2
+The Lord of the Rings: The Fellowship of the Ring,0.53
+The Lord of the Rings: The Return of the King,3.28
+The Lord of the Rings: The Return of the King,1.14
+The Lord of the Rings: The Return of the King,0.69
+The Lord of the Rings: The Return of the King,0.56
+The Lord of the Rings: The Third Age,0.58
+The Lord of the Rings: The Third Age,0.29
+The Lord of the Rings: The Third Age,0.22
+The Lord of the Rings: The Two Towers,4.67
+The Lord of the Rings: The Two Towers,0.71
+The Lord of the Rings: The Two Towers,0.53
+The Lord of the Rings: War in the North,0.19
+The Lord of the Rings Online: Mines of Moria,0.02
+The Lost Chronicles of Zerzura,0.05
+The Lost Vikings,0.05
+The Mark of Kri,0.46
+The Matrix: Path of Neo,0.49
+The Matrix: Path of Neo,0.31
+Theme Park,0.06
+Theme Park Roller Coaster,0.48
+The Movies,0.04
+The Mummy: Tomb of the Dragon Emperor,0.25
+The Mummy: Tomb of the Dragon Emperor,0.09
+The Mummy Returns,0.5
+The Munchables,0.18
+The New York Times Crosswords,0.45
+The Next BIG Thing,0.06
+The Night of the Rabbit,0.03
+The Operative: No One Lives Forever,0.14
+The Orange Box,1.82
+The Orange Box,1.06
+The Orange Box,0.14
+The Order: 1886,1.74
+The Outfit,0.25
+The Peanuts Movie: Snoopy's Grand Adventure,0.03
+The Polar Express,0.23
+The Polar Express,0.11
+The Powerpuff Girls: Chemical X-Traction,0.25
+The Powerpuff Girls: Relish Rampage,0.45
+The Punisher,0.52
+Theresia...,0.06
+The Saboteur,0.51
+The Saboteur,0.48
+The Saboteur,0.06
+The Scorpion King: Rise of the Akkadian,0.23
+The Secret World,0.17
+The Settlers,0.11
+The Settlers: Rise of an Empire,0.02
+The Settlers 7: Paths to a Kingdom,0.31
+The Shoot,0.34
+The Simpsons: Road Rage,3.61
+The Simpsons: Road Rage,1.05
+The Simpsons: Road Rage,0.24
+The Simpsons: Road Rage,1.19
+The Simpsons Game,1.51
+The Simpsons Game,1.51
+The Simpsons Game,1.07
+The Simpsons Game,1.03
+The Simpsons Game,1.01
+The Simpsons Game,0.88
+The Simpsons Skateboarding,1.52
+The Sims,0.05
+The Sims,2.77
+The Sims,0.49
+The Sims,0.42
+The Sims: Bustin' Out,2.43
+The Sims: Bustin' Out,0.66
+The Sims: Bustin' Out,0.56
+The Sims: Hot Date,1.82
+The Sims: House Party,2.16
+The Sims: Livin Large,2.99
+The Sims: Makin' Magic,1.92
+The Sims: Medieval,0.69
+The Sims: Superstar,1.68
+The Sims: Unleashed,3.76
+The Sims: Vacation,3.07
+The Sims 2,0.29
+The Sims 2,1.37
+The Sims 2,0.93
+The Sims 2,0.81
+The Sims 2,0.39
+The Sims 2,0.33
+The Sims 2,0.25
+The Sims 2: Apartment Life,0.09
+The Sims 2: Apartment Pets,0.69
+The Sims 2: Bon Voyage,0.03
+The Sims 2: Castaway,1.2
+The Sims 2: Castaway,0.79
+The Sims 2: Castaway,0.71
+The Sims 2: Castaway,0.37
+The Sims 2: Nightlife,1.27
+The Sims 2: Open for Business,0.52
+The Sims 2: Pets,2.07
+The Sims 2: Pets,0.79
+The Sims 2: Pets,0.3
+The Sims 2: Pets,0.27
+The Sims 2: Pets,0.04
+The Sims 2: Pets,0.47
+The Sims 2: Seasons,0.07
+The Sims 2: University,0.06
+The Sims 3,8.01
+The Sims 3,2.28
+The Sims 3,1.94
+The Sims 3,0.67
+The Sims 3,0.76
+The Sims 3: Ambitions,0.46
+The Sims 3: Generations,0.63
+The Sims 3: Late Night Expansion Pack,1.7
+The Sims 3: Seasons,0.16
+The Sims 3: World Adventures,0.57
+The Sims 4,3.05
+The Sims 4: City Living,0.1
+The Sims 4: Get Together,0.22
+The Sims Deluxe,0.04
+The Sky Crawlers: Innocent Aces,0.12
+The Sly Collection,0.68
+The Smurfs 2,0.09
+The SpongeBob SquarePants Movie,1.76
+The SpongeBob SquarePants Movie,0.94
+The SpongeBob SquarePants Movie,0.54
+The Suffering,0.42
+The Suffering,0.22
+The Suffering: Ties That Bind,0.17
+The Suffering: Ties That Bind,0.09
+The Sum of All Fears,0.03
+The Talos Principle,0.03
+The Technomancer,0.06
+The Technomancer,0.03
+The Technomancer,0.01
+The Terminator: Dawn of Fate,0.41
+The Terminator: Dawn of Fate,0.15
+The Testament of Sherlock Holmes,0.24
+The Testament of Sherlock Holmes,0.07
+The Testament of Sherlock Holmes,0.02
+The Thing,0.44
+The Thing,0.2
+The Tomb Raider Trilogy,0.88
+The Typing of the Dead,0.05
+The Urbz: Sims in the City,1.76
+The Urbz: Sims in the City,0.62
+The Urbz: Sims in the City,0.4
+The Urbz: Sims in the City,0.34
+The Void,0.03
+The Walking Dead: Survival Instinct,0.63
+The Walking Dead: Survival Instinct,0.51
+The Warriors,0.53
+The Warriors,0.28
+The Warriors,0.27
+The Weakest Link,0.09
+The Whispered World,0.1
+The Witch and the Hundred Knight,0.2
+The Witcher,0.06
+The Witcher: Enhanced Edition,0.32
+The Witcher 2: Assassins of Kings,0.96
+The Witcher 2: Assassins of Kings,0.9
+The Witcher 3: Wild Hunt,3.97
+The Witcher 3: Wild Hunt,1.31
+The Witcher 3: Wild Hunt,0.72
+The Wizard of Oz: Beyond The Yellow Brick Road,0.15
+The Wolf Among Us,0.03
+The Wolf Among Us,0.21
+The Wonderful 101,0.4
+The World Ends With You,0.78
+The X Files: Resist or Serve,0.12
+Thief: Deadly Shadows,0.17
+Thor: God of Thunder,0.15
+Thor: God of Thunder,0.14
+Thor: God of Thunder,0.14
+Thor: God of Thunder,0.12
+Thor: God of Thunder,0.1
+Thrillville,0.66
+Thrillville,0.2
+Thrillville: Off the Rails,0.44
+Thrillville: Off the Rails,0.42
+Thrillville: Off the Rails,0.16
+Thrillville: Off the Rails,0.1
+Thrillville: Off the Rails,0.04
+Thunderstrike: Operation Phoenix,0.34
+Tiger Woods PGA Tour,0.14
+Tiger Woods PGA Tour,0.21
+Tiger Woods PGA Tour 06,0.89
+Tiger Woods PGA Tour 06,0.48
+Tiger Woods PGA Tour 06,0.31
+Tiger Woods PGA Tour 06,0.2
+Tiger Woods PGA Tour 06,0.11
+Tiger Woods PGA Tour 07,0.72
+Tiger Woods PGA Tour 07,0.48
+Tiger Woods PGA Tour 07,0.19
+Tiger Woods PGA Tour 08,1.02
+Tiger Woods PGA Tour 08,0.73
+Tiger Woods PGA Tour 08,0.54
+Tiger Woods PGA Tour 08,0.06
+Tiger Woods PGA Tour 09,0.65
+Tiger Woods PGA Tour 09,0.65
+Tiger Woods PGA Tour 09,0.36
+Tiger Woods PGA Tour 09 All-Play,1.42
+Tiger Woods PGA Tour 10,1.07
+Tiger Woods PGA Tour 10,0.78
+Tiger Woods PGA Tour 10,0.65
+Tiger Woods PGA Tour 11,0.83
+Tiger Woods PGA Tour 11,0.54
+Tiger Woods PGA Tour 11,0.52
+Tiger Woods PGA Tour 12: The Masters,0.89
+Tiger Woods PGA Tour 12: The Masters,0.62
+Tiger Woods PGA Tour 12: The Masters,0.34
+Tiger Woods PGA Tour 13,0.54
+Tiger Woods PGA Tour 13,0.51
+Tiger Woods PGA Tour 14,0.37
+Tiger Woods PGA Tour 14,0.35
+Tiger Woods PGA Tour 2002,0.9
+Tiger Woods PGA Tour 2003,1.64
+Tiger Woods PGA Tour 2003,0.44
+Tiger Woods PGA Tour 2003,0.23
+Tiger Woods PGA Tour 2004,1.63
+Tiger Woods PGA Tour 2004,0.62
+Tiger Woods PGA Tour 2004,0.18
+Tiger Woods PGA Tour 2004,0.16
+Tiger Woods PGA Tour 2005,1.44
+Tiger Woods PGA Tour 2005,0.85
+Tiger Woods PGA Tour 2005,0.01
+Tim Burton's The Nightmare Before Christmas: Oogie's Revenge,0.34
+Tim Burton's The Nightmare Before Christmas: Oogie's Revenge,0.09
+Tim Burton's The Nightmare Before Christmas: The Pumpkin King,0.14
+Time and Eternity,0.17
+Time Crisis: Project Titan,0.05
+Time Crisis: Razing Storm,0.54
+Time Crisis 3,0.61
+Time Crisis 4,0.83
+Time Crisis II,0.53
+Time Hollow,0.16
+TimeShift,0.41
+TimeShift,0.16
+TimeShift,0.01
+TimeSplitters,0.43
+TimeSplitters: Future Perfect,0.24
+TimeSplitters: Future Perfect,0.16
+TimeSplitters: Future Perfect,0.08
+TimeSplitters 2,0.7
+TimeSplitters 2,0.64
+TimeSplitters 2,0.44
+Titanfall,2.95
+Titanfall,1.36
+Titanfall,0.56
+Titanfall 2,0.75
+Titanfall 2,0.57
+Titanfall 2,0.08
+Titan Quest,0.06
+TMNT,0.56
+TMNT,0.36
+TMNT,0.11
+TMNT,0.04
+TMNT: Mutant Melee,0.07
+TMNT: Mutant Melee,0.02
+TNA iMPACT: Cross the Line,0.05
+TOCA Race Driver 3,0.08
+TOCA Race Driver 3,0.03
+TOCA Race Driver 3,0.02
+Tokobot,0.06
+Tokyo Jungle,0.26
+Tokyo Twilight Ghost Hunters,0.07
+Tokyo Twilight Ghost Hunters,0.06
+Tokyo Xtreme Racer 3,0.91
+Tokyo Xtreme Racer DRIFT,0.18
+Tokyo Xtreme Racer Zero,1.5
+Tomb Raider,4.63
+Tomb Raider,1.03
+Tomb Raider: Anniversary,0.85
+Tomb Raider: Anniversary,0.57
+Tomb Raider: Anniversary,0.39
+Tomb Raider: Anniversary,0.03
+Tomb Raider: Legend,0.52
+Tomb Raider: Legend,0.46
+Tomb Raider: Legend,0.37
+Tomb Raider: Legend,0.13
+Tomb Raider: Legend,0.08
+Tomb Raider: Legend,0.07
+Tomb Raider: Legend,0.02
+Tomb Raider: The Prophecy,0.14
+Tomb Raider: Underworld,1.26
+Tomb Raider: Underworld,1.07
+Tomb Raider: Underworld,0.45
+Tomb Raider: Underworld,0.19
+Tomb Raider: Underworld,0.08
+Tom Clancy's EndWar,0.91
+Tom Clancy's EndWar,0.66
+Tom Clancy's EndWar,0.11
+Tom Clancy's EndWar,0.09
+Tom Clancy's EndWar,0.02
+Tom Clancy's Ghost Recon,1.94
+Tom Clancy's Ghost Recon,1.76
+Tom Clancy's Ghost Recon,0.15
+Tom Clancy's Ghost Recon,0.12
+Tom Clancy's Ghost Recon: Future Soldier,1.47
+Tom Clancy's Ghost Recon: Future Soldier,0.95
+Tom Clancy's Ghost Recon: Future Soldier,0.17
+Tom Clancy's Ghost Recon: Island Thunder,0.87
+Tom Clancy's Ghost Recon: Jungle Storm,1.16
+Tom Clancy's Ghost Recon: Shadow Wars,0.34
+Tom Clancy's Ghost Recon 2,1.36
+Tom Clancy's Ghost Recon 2,1.08
+Tom Clancy's Ghost Recon 2,0.07
+Tom Clancy's Ghost Recon 2: Summit Strike,0.39
+Tom Clancy's Ghost Recon Advanced Warfighter,1.54
+Tom Clancy's Ghost Recon Advanced Warfighter,0.33
+Tom Clancy's Ghost Recon Advanced Warfighter,0.06
+Tom Clancy's Ghost Recon Advanced Warfighter 2,1.03
+Tom Clancy's Ghost Recon Advanced Warfighter 2,1.02
+Tom Clancy's Ghost Recon Advanced Warfighter 2,0.53
+Tom Clancy's HAWX,0.58
+Tom Clancy's HAWX,0.56
+Tom Clancy's HAWX,0.04
+Tom Clancy's HAWX 2,0.41
+Tom Clancy's HAWX 2,0.36
+Tom Clancy's HAWX 2,0.05
+Tom Clancy's Rainbow Six: Lockdown,0.41
+Tom Clancy's Rainbow Six: Lockdown,0.35
+Tom Clancy's Rainbow Six: Lockdown,0.05
+Tom Clancy's Rainbow Six: Siege,2.21
+Tom Clancy's Rainbow Six: Siege,1.34
+Tom Clancy's Rainbow Six: Siege,0.23
+Tom Clancy's Rainbow Six: Vegas,1.95
+Tom Clancy's Rainbow Six: Vegas,1.25
+Tom Clancy's Rainbow Six: Vegas,0.74
+Tom Clancy's Rainbow Six: Vegas 2,2.42
+Tom Clancy's Rainbow Six: Vegas 2,1.34
+Tom Clancy's Rainbow Six: Vegas 2,0.02
+Tom Clancy's Rainbow Six 3,1.55
+Tom Clancy's Rainbow Six 3,0.81
+Tom Clancy's Rainbow Six 3,0.06
+Tom Clancy's Rainbow Six 3: Black Arrow,1.13
+Tom Clancy's Splinter Cell,3.02
+Tom Clancy's Splinter Cell,2.65
+Tom Clancy's Splinter Cell,0.23
+Tom Clancy's Splinter Cell,0.1
+Tom Clancy's Splinter Cell: Blacklist,0.98
+Tom Clancy's Splinter Cell: Blacklist,0.94
+Tom Clancy's Splinter Cell: Blacklist,0.19
+Tom Clancy's Splinter Cell: Blacklist,0.12
+Tom Clancy's Splinter Cell: Chaos Theory,1.11
+Tom Clancy's Splinter Cell: Chaos Theory,0.95
+Tom Clancy's Splinter Cell: Chaos Theory,0.1
+Tom Clancy's Splinter Cell: Chaos Theory,0.07
+Tom Clancy's Splinter Cell: Conviction,0.11
+Tom Clancy's Splinter Cell: Double Agent,0.78
+Tom Clancy's Splinter Cell: Double Agent,0.13
+Tom Clancy's Splinter Cell: Double Agent,0.06
+Tom Clancy's Splinter Cell: Double Agent,0.26
+Tom Clancy's Splinter Cell: Essentials,0.19
+Tom Clancy's Splinter Cell: Pandora Tomorrow,1.48
+Tom Clancy's Splinter Cell: Pandora Tomorrow,1.25
+Tom Clancy's Splinter Cell: Pandora Tomorrow,0.08
+Tom Clancy's Splinter Cell: Pandora Tomorrow,0.06
+Tom Clancy's Splinter Cell 3D,0.3
+Tom Clancy's Splinter Cell Classic Trilogy HD,0.02
+Tom Clancy's The Division,3.8
+Tom Clancy's The Division,2.16
+Tom Clancy's The Division,0.41
+Tony Hawk: RIDE,0.94
+Tony Hawk: RIDE,0.61
+Tony Hawk: RIDE,0.59
+Tony Hawk: Shred,0.28
+Tony Hawk: Shred,0.26
+Tony Hawk's American Sk8land,0.24
+Tony Hawk's American Sk8land,0.21
+Tony Hawk's American Wasteland,0.62
+Tony Hawk's American Wasteland,0.42
+Tony Hawk's American Wasteland,0.32
+Tony Hawk's Downhill Jam,0.22
+Tony Hawk's Project 8,0.87
+Tony Hawk's Project 8,0.63
+Tony Hawk's Project 8,0.56
+Tony Hawk's Project 8,0.49
+Tony Hawk's Pro Skater,5.02
+Tony Hawk's Pro Skater 2,4.68
+Tony Hawk's Pro Skater 2,1.18
+Tony Hawk's Pro Skater 2x,0.63
+Tony Hawk's Pro Skater 3,4.41
+Tony Hawk's Pro Skater 3,1.67
+Tony Hawk's Pro Skater 3,0.82
+Tony Hawk's Pro Skater 3,0.55
+Tony Hawk's Pro Skater 3,0.52
+Tony Hawk's Pro Skater 4,3.67
+Tony Hawk's Pro Skater 4,0.93
+Tony Hawk's Pro Skater 4,0.58
+Tony Hawk's Pro Skater 4,0.57
+Tony Hawk's Pro Skater 5,0.21
+Tony Hawk's Pro Skater 5,0.12
+Tony Hawk's Proving Ground,0.66
+Tony Hawk's Proving Ground,0.56
+Tony Hawk's Proving Ground,0.44
+Tony Hawk's Proving Ground,0.25
+Tony Hawk's Proving Ground,0.23
+Tony Hawk's Underground,3.9
+Tony Hawk's Underground,1.27
+Tony Hawk's Underground,0.7
+Tony Hawk's Underground,0.6
+Tony Hawk's Underground 2,2.37
+Tony Hawk's Underground 2,0.75
+Tony Hawk's Underground 2,0.5
+Tony Hawk's Underground 2 Remix,0.82
+Too Human,0.78
+Top Gear Rally,0.09
+Top Gear RPM Tuning,0.02
+Top Gun,0.07
+Top Gun: Combat Zones,0.92
+Top Gun: Combat Zones,0.15
+Top Gun: Hard Lock,0.06
+Top Spin,0.46
+Top Spin,0.1
+Top Spin 2,0.17
+Top Spin 3,0.58
+Top Spin 3,0.57
+Top Spin 3,0.56
+Top Spin 4,0.69
+Top Spin 4,0.41
+Top Spin 4,0.14
+Torchlight,0.07
+Tork: Prehistoric Punk,0.03
+Tornado Outbreak,0.1
+Tornado Outbreak,0.09
+Tornado Outbreak,0.08
+Total Overdose: A Gunslinger's Tale in Mexico,0.09
+Total Overdose: A Gunslinger's Tale in Mexico,0.02
+Total War: Attila,0.24
+Total War: Rome II,0.72
+Total War: Shogun 2,0.6
+Total War: WARHAMMER,0.13
+Touch Detective,0.09
+TouchMaster,2
+Touch My Katamari,0.12
+Touch the Dead,0.22
+Touhou Genso Rondo: Bullet Ballet,0.02
+Toukiden: The Age of Demons,0.35
+Toukiden Kiwami,0.23
+Toukiden Kiwami,0.17
+Tour de France 2014,0.03
+Tournament of Legends,0.06
+Toy Shop,0.03
+Toy Soldiers: War Chest,0.07
+Toy Soldiers: War Chest,0.06
+Toy Story Mania!,1.88
+Toy Story Racer,0.15
+Trace Memory,0.29
+TrackMania: Build to Race,0.23
+TrackMania DS,0.08
+TrackMania Turbo,0.35
+TrackMania Turbo,0.06
+TrackMania Turbo,0.01
+Transformers,1.29
+Transformers: Cybertron Adventures,0.27
+Transformers: Dark of the Moon,0.34
+Transformers: Dark of the Moon,0.28
+Transformers: Devastation,0.23
+Transformers: Devastation,0.14
+Transformers: Devastation,0.03
+Transformers: Fall of Cybertron,0.44
+Transformers: Fall of Cybertron,0.39
+Transformers: Fall of Cybertron,0.01
+Transport Fever,0.04
+Transworld Snowboarding,0.09
+Transworld Surf,0.19
+Trapped Dead,0.02
+Trapt,0.06
+Trauma Center: New Blood,0.29
+Trauma Center: Second Opinion,0.34
+Trauma Center: Under the Knife,0.35
+Trauma Center: Under the Knife 2,0.11
+Trials Fusion,0.42
+Trials Fusion,0.24
+Trials Fusion,0.03
+Trigger Man,0.16
+Trine,0.01
+Trine 2,0.04
+TRINITY: Souls of Zill O'll,0.14
+Trinity Universe,0.18
+Trivial Pursuit,0.37
+Trivial Pursuit,0.28
+Trivial Pursuit unhinged,0.09
+TRON: Evolution,0.42
+TRON: Evolution,0.31
+TRON: Evolution,0.07
+Tron 2.0: Killer App,0.06
+Tropico 3,0.22
+Tropico 3,0.04
+Tropico 4,0.27
+Tropico 4: Modern Times,0.02
+Tropico 5,0.12
+Tropico 5,0.06
+Tropico 5,0.31
+True Crime: New York City,0.28
+True Crime: New York City,0.17
+True Crime: Streets of LA,3.27
+True Crime: Streets of LA,1.38
+True Crime: Streets of LA,0.56
+True Swing Golf,0.16
+Truth or Lies,0.11
+Turning Point: Fall of Liberty,0.29
+Turning Point: Fall of Liberty,0.24
+Turn It Around,0.03
+Turok,0.75
+Turok,0.67
+Turok,0.01
+Turok: Evolution,1.31
+Turok: Evolution,0.55
+Turok: Evolution,0.38
+Turok: Evolution,0.12
+TV Superstars,0.25
+Twin Strike: Operation Thunder,0.04
+Twisted Metal: Black,1.41
+Twisted Metal: Head On,0.77
+Two Worlds,0.7
+Two Worlds II,0.54
+Two Worlds II,0.46
+Two Worlds II,0.2
+Tycoon City: New York,0.02
+Ty the Tasmanian Tiger,1.17
+Ty the Tasmanian Tiger,0.27
+Ty the Tasmanian Tiger,0.18
+Ty the Tasmanian Tiger 2: Bush Rescue,0.53
+Ty the Tasmanian Tiger 2: Bush Rescue,0.2
+Ty the Tasmanian Tiger 2: Bush Rescue,0.11
+Ty the Tasmanian Tiger 3: Night of the Quinkan,0.19
+Ty the Tasmanian Tiger 3: Night of the Quinkan,0.09
+uDraw Studio: Instant Artist,0.02
+UEFA Champions League 2006-2007,0.05
+UEFA Euro 2004: Portugal,0.14
+UEFA Euro 2004: Portugal,0.05
+UEFA Euro 2016,0.29
+UFC: Sudden Impact,0.18
+UFC: Tapout 2,0.1
+UFC 2009 Undisputed,2.06
+UFC 2009 Undisputed,1.76
+UFC Personal Trainer: The Ultimate Fitness System,0.77
+UFC Personal Trainer: The Ultimate Fitness System,0.19
+UFC Undisputed 2010,1.41
+UFC Undisputed 2010,1.32
+UFC Undisputed 2010,0.21
+UFC Undisputed 3,1.03
+UFC Undisputed 3,0.99
+Ultimate Band,0.23
+Ultimate Brain Games,0.08
+Ultimate Fighting Championship,0.25
+Ultimate Fighting Championship: Throwdown,0.32
+Ultimate Ghosts 'n Goblins,0.08
+Ultimate Marvel vs. Capcom 3,0.29
+Ultimate Marvel vs. Capcom 3,0.09
+Ultimate Marvel vs. Capcom 3,0.07
+Ultimate Mortal Kombat,0.09
+Ultimate NES Remix,0.27
+Ultimate Spider-Man,0.72
+Ultimate Spider-Man,0.39
+Ultimate Spider-Man,0.37
+Ultimate Spider-Man,0.3
+Ultimate Spider-Man,0.15
+Ultra Street Fighter IV,0.1
+Unchained Blades,0.06
+Unchained Blades,0.04
+Uncharted: Drake's Fortune,4.92
+Uncharted: Golden Abyss,1.53
+Uncharted: The Nathan Drake Collection,4.62
+Uncharted 2: Among Thieves,6.66
+Uncharted 3: Drake's Deception,6.74
+Uncharted 4: A Thief's End,5.38
+Undead Knights,0.12
+Unit 13,0.5
+Universal Studios Theme Parks Adventure,0.1
+Universe at War: Earth Assault,0.1
+Unlimited Saga,0.77
+Unreal Championship,0.74
+Unreal II: The Awakening,0.21
+Unreal Tournament,0.58
+Unreal Tournament 2003,0.01
+Unreal Tournament 2004,0.02
+Unreal Tournament III,0.67
+Unreal Tournament III,0.06
+Unreal Tournament III,0.47
+Until Dawn,1.66
+Until Dawn: Rush of Blood,0.39
+Untold Legends: Brotherhood of the Blade,1.09
+Untold Legends: Dark Kingdom,0.2
+Untold Legends: The Warriors Code,0.33
+Up,0.56
+Up,0.29
+Up,0.25
+Urban Chaos: Riot Response,0.06
+Urban Chaos: Riot Response,0.02
+Urban Reign,0.08
+Uru: Ages Beyond Myst,0.02
+Vagrant Story,0.87
+Valentino Rossi: The Game,0.08
+Valentino Rossi: The Game,0.03
+Valentino Rossi: The Game,0.01
+Valhalla Knights,0.24
+Valhalla Knights: Eldar Saga,0.14
+Valhalla Knights 2,0.23
+Valhalla Knights 3,0.18
+Valkyria Chronicles,1.27
+Valkyria Chronicles II,0.53
+Valkyrie Drive: Bhikkhuni,0.11
+Valkyrie Profile,0.81
+Valkyrie Profile: Covenant of the Plume,0.42
+Valkyrie Profile: Lenneth,0.36
+Valkyrie Profile 2: Silmeria,0.47
+Vampire Night,0.14
+Vampire Rain,0.21
+Vampire Rain: Altered Species,0.06
+Vanguard Bandits,0.07
+Van Helsing,0.44
+Van Helsing,0.1
+Van Helsing,0.18
+Vanquish,0.61
+Vanquish,0.42
+Velvet Assassin,0.18
+Venetica,0.05
+Venetica,0.13
+Venetica,0.12
+Vexx,0.24
+Vexx,0.1
+Vexx,0.06
+Victorious Boxers: Ippo's Road to Glory,0.47
+Victorious Boxers: Revolution,0.14
+Vietcong,0.02
+Vietcong: Purple Haze,0.18
+Vietcong: Purple Haze,0.08
+Viewtiful Joe,0.62
+Viewtiful Joe,0.28
+Viewtiful Joe: Red Hot Rumble,0.06
+Viewtiful Joe: Red Hot Rumble,0.09
+Viewtiful Joe 2,0.22
+Viewtiful Joe 2,0.21
+Viking: Battle for Asgard,0.44
+Viking: Battle for Asgard,0.38
+Virtua Fighter 4,1.81
+Virtua Fighter 4: Evolution,0.71
+Virtua Fighter 5,1.08
+Virtua Fighter 5 Online,0.28
+Virtua Striker 2002,0.05
+Virtua Tennis 2009,0.38
+Virtua Tennis 2009,0.37
+Virtua Tennis 2009,0.33
+Virtua Tennis 3,1.05
+Virtua Tennis 3,0.05
+Virtua Tennis 3,0.04
+Virtua Tennis 4,0.44
+Virtua Tennis 4,0.23
+Virtua Tennis 4,0.14
+Virtua Tennis 4,0.04
+Viva Pinata,1.62
+Viva Pinata,0.02
+Viva Pinata: Party Animals,0.23
+Viva Pinata: Pocket Paradise,0.55
+Viva Pinata: Trouble in Paradise,0.47
+Voodoo Vince,0.12
+V-Rally 3,0.06
+Wade Hixton's Counter Punch,0
+Wakeboarding Unleashed Featuring Shaun Murray,0.16
+Wakeboarding Unleashed Featuring Shaun Murray,0.05
+Wall-E,1.01
+Wall-E,0.75
+Wall-E,0.62
+Wall-E,0.4
+Wall-E,0.02
+Wanted: Weapons of Fate,0.37
+Wanted: Weapons of Fate,0.29
+Warcraft III: Reign of Chaos,0.13
+Warcraft III: The Frozen Throne,1.54
+War for the Overworld,0.01
+Warhammer: Battle For Atluma,0.07
+Warhammer: Battle March,0.11
+Warhammer: Mark of Chaos,0.03
+"Warhammer 40,0.01
+"Warhammer 40,0.02
+"Warhammer 40,0.02
+"Warhammer 40,0.02
+"Warhammer 40,0.06
+"Warhammer 40,0.08
+"Warhammer 40,0.03
+"Warhammer 40,0.08
+"Warhammer 40,0.01
+Warhammer Online: Age of Reckoning,0.02
+Warhawk,1.06
+Wario: Master of Disguise,0.65
+Wario Land 4,2.26
+WarioWare: Smooth Moves,2.89
+WarioWare D.I.Y.,0.59
+Wario World,0.44
+WarJetz,0.04
+War of the Monsters,0.54
+Warriors: Legends of Troy,0.19
+Warriors of Might and Magic,0.17
+Warriors of the Lost Empire,0.06
+Warriors Orochi,0.87
+Warriors Orochi,0.2
+Warriors Orochi,0.2
+Warriors Orochi 2,0.29
+Warriors Orochi 2,0.13
+Warriors Orochi 2,0.06
+Warriors Orochi 3,0.62
+Warriors Orochi 3,0.16
+Warriors Orochi 3 Hyper,0.08
+Warship Gunner 2,0.03
+WarTech: Senko no Ronde,0.04
+Wasteland 2,0.1
+Wasteland 2,0.05
+Watch Dogs,4.05
+Watch Dogs,1.57
+Watch Dogs,0.45
+Watch Dogs,0.13
+Watch Dogs 2,1.13
+Watch Dogs 2,0.36
+Wave Race: Blue Storm,0.6
+Way of the Samurai,0.51
+Way of the Samurai 2,0.33
+Way of the Samurai 3,0.52
+Way of the Samurai 3,0.21
+Way of the Samurai 4,0.19
+We Cheer,0.52
+We Love Katamari,0.52
+We Ski,1.67
+Wet,0.61
+Where the Wild Things Are,0.11
+Where the Wild Things Are,0.11
+Whiplash,0.13
+Whirl Tour,0.22
+Whirl Tour,0.05
+White Knight Chronicles: International Edition,0.93
+White Knight Chronicles II,0.63
+Wii Fit,22.7
+Wii Fit Plus,21.79
+Wii Fit U,0.85
+Wii Music,3.25
+Wii Party,8.38
+Wii Party U,1.75
+Wii Play,28.92
+Wii Play: Motion,0.92
+Wii Sports,82.53
+Wii Sports Club,0.38
+Wii Sports Resort,32.77
+Wild ARMs: Alter Code F,0.09
+Wild ARMs 3,0.62
+Wild ARMs 4,0.14
+Wild ARMs 5,0.28
+Wild ARMs XF,0.14
+Wildstar,0.16
+WinBack: Covert Operations,0.29
+Wing Commander: Prophecy,0
+Wing Island,0.05
+Wings of War,0.06
+Winning Eleven: Pro Evolution Soccer 2007,4.39
+Winning Eleven: Pro Evolution Soccer 2007,0.86
+Winning Eleven: Pro Evolution Soccer 2007,0.17
+Winning Eleven: Pro Evolution Soccer 2007,0.1
+Winter Sports: The Ultimate Challenge,1.24
+Winter Stars,0.09
+Wipeout: In The Zone,0.93
+Wipeout 2048,0.35
+WipEout 3,0.34
+WipEout Fusion,0.25
+WipEout HD Fury,0.07
+WipEout Pulse,0.31
+WipEout Pure,1.03
+WipEout XL,0.25
+Without Warning,0.04
+Wizardry: Tale of the Forsaken Land,0.09
+Wolfenstein,0.63
+Wolfenstein,0.56
+Wolfenstein,0.05
+Wolfenstein: The New Order,1.55
+Wolfenstein: The New Order,0.68
+Wolfenstein: The New Order,0.45
+Wolfenstein: The Old Blood,0.43
+Wolfenstein: The Old Blood,0.15
+Wolfenstein: The Old Blood,0.09
+Wolfenstein 3D,0.17
+Women's Volleyball Championship,0.03
+Wonder World Amusement Park,0.05
+Woody Woodpecker: Escape from Buzz Buzzard Park,0.05
+WordJong,0.15
+World's Scariest Police Chases,0.36
+World Championship Poker,0.95
+World Championship Poker 2: Featuring Howard Lederer,0.14
+World Championship Pool 2004,0.05
+World Destruction League: Thunder Tanks,0.17
+World Destruction League: Thunder Tanks,0.17
+World in Conflict,0.04
+World of Final Fantasy,0.33
+World of Final Fantasy,0.21
+World of Goo,0.04
+World of Outlaws: Sprint Cars,0.18
+World of Outlaws: Sprint Cars 2002,0.48
+World of Tanks,0.29
+World of Warcraft,6.29
+World of Warcraft: Cataclysm,2.08
+World of Warcraft: Legion,0.32
+World of Warcraft: Mists of Pandaria,1.82
+World of Warcraft: The Burning Crusade,4.09
+World of Warcraft: Warlords of Draenor,0.47
+World of Warcraft: Wrath of the Lich King,1.32
+World Poker Tour,0.21
+World Poker Tour,0.06
+World Racing,0.07
+World Series Baseball,0.23
+World Series Baseball 2K3,0.25
+World Series Baseball 2K3,0.15
+World Series of Poker,0.47
+World Series of Poker,0.21
+World Series of Poker 2008: Battle for the Bracelets,0.08
+WorldShift,0.02
+World Soccer Winning Eleven 6 International,2.99
+World Soccer Winning Eleven 7 International,2.9
+World Soccer Winning Eleven 8 International,3.85
+World Soccer Winning Eleven 8 International,0.09
+World Soccer Winning Eleven 9,0.44
+World Tour Soccer,1.07
+World Tour Soccer 2002,0.14
+World Tour Soccer 2003,0.14
+World Tour Soccer 2005,0.16
+World Tour Soccer 2006,0.17
+Worldwide Soccer Manager 2008,1.12
+Worldwide Soccer Manager 2009,1.15
+Worms,0.02
+Worms,0.02
+Worms: A Space Oddity,0.08
+Worms: Open Warfare,0.77
+Worms: Open Warfare,0.08
+Worms: Open Warfare 2,0.44
+Worms: Open Warfare 2,0.35
+Worms: Ultimate Mayhem,0.04
+Worms: WMD,0.03
+Worms: WMD,0.01
+Worms 3D,0.12
+Worms 3D,0.07
+Worms 3D,0.06
+Worms 4: Mayhem,0.04
+Worms Forts: Under Siege,0.11
+Worms Forts: Under Siege,0.07
+Worms Reloaded,0.05
+Worms World Party,0.02
+Wrath Unleashed,0.07
+Wrath Unleashed,0.05
+WRC: FIA World Rally Championship,0.03
+Wreckless: ThE YaKuza MisSiOns,0.57
+WWE '12,1.27
+WWE '12,1.17
+WWE '12,0.34
+WWE '13,1.35
+WWE '13,1.27
+WWE '13,0.15
+WWE 2K14,1.14
+WWE 2K14,1.11
+WWE 2K15,1.15
+WWE 2K15,0.78
+WWE 2K15,0.64
+WWE 2K15,0.57
+WWE 2K16,1.21
+WWE 2K16,0.59
+WWE 2K17,0.6
+WWE 2K17,0.26
+WWE All Stars,0.41
+WWE All Stars,0.34
+WWE All Stars,0.23
+WWE All Stars,0.19
+WWE All Stars,0.18
+WWE Crush Hour,0.35
+WWE Crush Hour,0.08
+WWE Day of Reckoning,0.45
+WWE Day of Reckoning 2,0.34
+WWE Raw 2,0.56
+WWE Road to WrestleMania X8,0.27
+WWE SmackDown! vs. RAW 2006,0.4
+WWE SmackDown vs. RAW 2007,2.58
+WWE SmackDown vs. RAW 2007,0.66
+WWE SmackDown vs. RAW 2007,0.5
+WWE SmackDown vs. Raw 2009,1.24
+WWE SmackDown vs. Raw 2009,0.94
+WWE SmackDown vs. Raw 2009,0.92
+WWE SmackDown vs. Raw 2009,0.83
+WWE SmackDown vs. Raw 2009,0.75
+WWE SmackDown vs. Raw 2009,0.18
+WWE SmackDown vs. Raw 2010,1.17
+WWE SmackDown vs. Raw 2010,1.04
+WWE SmackDown vs. Raw 2010,0.73
+WWE SmackDown vs. Raw 2010,0.53
+WWE SmackDown vs. Raw 2011,1.09
+WWE SmackDown vs. Raw 2011,0.88
+WWE SmackDown vs Raw 2008,2.34
+WWE SmackDown vs Raw 2008,1.43
+WWE SmackDown vs Raw 2008,1.33
+WWE SmackDown vs Raw 2008,1.19
+WWE SmackDown vs Raw 2008,0.98
+WWE SmackDown vs Raw 2008,0.12
+WWE Survivor Series,0.13
+WWE WrestleMania 21,0.45
+WWE Wrestlemania X8,0.49
+WWE Wrestlemania XIX,0.33
+WWF Raw,0.55
+WWII Aces,0.27
+X2: Wolverine's Revenge,0.64
+X2: Wolverine's Revenge,0.21
+X2: Wolverine's Revenge,0.2
+X2: Wolverine's Revenge,0.12
+X3: Terran Conflict,0.03
+X-Blades,0.14
+X-Blades,0.13
+Xblaze: Lost Memories,0.02
+XBLAZE Code: Embryo,0.03
+XCOM: Enemy Unknown,0.71
+XCOM: Enemy Unknown,0.62
+XCOM: Enemy Unknown,0.57
+XCOM 2,0.23
+XCOM 2,0.14
+XCOM 2,0.05
+Xenoblade Chronicles,0.91
+Xenoblade Chronicles X,0.84
+Xenogears,1.46
+Xenosaga Episode I: Der Wille zur Macht,1.74
+Xenosaga Episode III: Also sprach Zarathustra,0.37
+XGIII: Extreme G Racing,0.15
+XGRA: Extreme G Racing Association,0.06
+XGRA: Extreme G Racing Association,0.02
+XGRA: Extreme G Racing Association,0.02
+XGRA: Extreme G-Racing Association,0.62
+XIII,0.57
+XIII,0.25
+XIII,0.09
+X-Men: Destiny,0.24
+X-Men: Destiny,0.24
+X-Men: Destiny,0.1
+X-Men: Destiny,0.06
+X-Men: Mutant Academy 2,0.72
+X-Men: Next Dimension,0.47
+X-Men: Next Dimension,0.13
+X-Men: The Official Game,0.41
+X-Men: The Official Game,0.17
+X-Men: The Official Game,0.15
+X-Men: The Official Game,0.1
+X-Men: The Official Game,0.1
+X-Men: The Official Game,0.07
+X-Men Legends,1.93
+X-Men Legends,0.9
+X-Men Legends,0.53
+X-Men Legends II: Rise of Apocalypse,0.63
+X-Men Legends II: Rise of Apocalypse,0.44
+X-Men Legends II: Rise of Apocalypse,0.29
+X-Men Legends II: Rise of Apocalypse,0.25
+X-Men Origins: Wolverine,0.25
+X-Men Origins: Wolverine,0.2
+X-Men Origins: Wolverine,0.19
+X Rebirth,0.08
+XXX,0.11
+Yager,0.05
+Yaiba: Ninja Gaiden Z,0.09
+Yaiba: Ninja Gaiden Z,0.05
+Yakuza,0.8
+Yakuza: Dead Souls,0.6
+Yakuza 2,1.09
+Yakuza 3,1.12
+Yakuza 5,0.59
+Yanya Caballista: City Skater,0.05
+Yggdra Union: We'll Never Fight Alone,0.1
+Yoshi's Island DS,2.76
+Yoshi's New Island,1.38
+Yoshi's Woolly World,1.3
+Yoshi Topsy-Turvy,0.65
+You're in the Movies,0.48
+You Don't Know Jack,0.21
+You Don't Know Jack,0.21
+You Don't Know Jack,0.18
+Your Shape: Fitness Evolved,1.32
+Your Shape: Fitness Evolved 2012,1.16
+Your Shape: Fitness Evolved 2013,0.13
+Your Shape featuring Jenny McCarthy,2.12
+Ys: Memories of Celceta,0.24
+Ys: The Ark of Napishtim,0.13
+Ys: The Ark of Napishtim,0.05
+Ys: The Oath in Felghana,0.15
+Ys Seven,0.23
+Yumi's Odd Odyssey,0.03
+Zathura,0.12
+Zathura,0.02
+Zero Escape: Virtue's Last Reward,0.03
+Zero Escape: Zero Time Dilemma,0.08
+Zero Escape: Zero Time Dilemma,0.06
+Zoids Assault,0.09
+Zombie Army Trilogy,0.2
+Zombie Army Trilogy,0.11
+ZombiU,1.01
+Zone of the Enders,0.75
+Zone of the Enders: The 2nd Runner,0.41
+Zone of the Enders: The Fist of Mars,0.06
+Zone of the Enders HD Collection,0.42
+Zone of the Enders HD Collection,0.2
+ZooCube,0.02
+Zoo Keeper,0.16
+Zoo Tycoon 2,0.06
+Zoo Tycoon 2 DS,0.29
+Zoo Tycoon DS,0.98
+Zubo,0.11
+Zumba Fitness,2.37
+Zumba Fitness: World Party,0.24
+Zumba Fitness Core,0.05
+Zumba Fitness Rush,0.18

@@ -1,0 +1,53 @@
+Classic NES Series: Dr. Mario,Nintendo,0.56
+Classic NES Series: Super Mario Bros.,Nintendo,1.43
+Dance Dance Revolution: Mario Mix,Nintendo,0.47
+Mario Golf: Advance Tour,Nintendo,0.45
+Mario Golf: Toadstool Tour,Nintendo,1.53
+Mario Golf: World Tour,Nintendo,0.48
+Mario Hoops 3 on 3,Nintendo,1.6
+Mario Kart: Super Circuit,Nintendo,5.47
+Mario Kart 7,Nintendo,12.66
+Mario Kart 8,Nintendo,7.09
+Mario Kart DS,Nintendo,23.21
+Mario Kart Wii,Nintendo,35.52
+Mario Party: Island Tour,Nintendo,1.92
+Mario Party: Star Rush,Nintendo,0.3
+Mario Party 10,Nintendo,1.58
+Mario Party 4,Nintendo,2.47
+Mario Party 5,Nintendo,2.08
+Mario Party 6,Nintendo,1.65
+Mario Party 7,Nintendo,1.57
+Mario Party 8,Nintendo,8.27
+Mario Party 9,Nintendo,3.13
+Mario Party Advance,Nintendo,0.98
+Mario Party DS,Nintendo,8.91
+Mario Pinball Land,Nintendo,0.69
+Mario Power Tennis,Nintendo,1.22
+Mario Sports Mix,Nintendo,2.08
+Mario Strikers Charged,Nintendo,2.58
+Mario Super Sluggers,Nintendo,1.89
+Mario Superstar Baseball,Nintendo,1.46
+Mario Tennis: Power Tour,Nintendo,0.52
+Mario Tennis Open,Nintendo,0.95
+Mario Tennis Ultra Smash,Nintendo,0.44
+Mario vs. Donkey Kong,Nintendo,1.17
+Mario vs. Donkey Kong: Mini-Land Mayhem!,Nintendo,2.67
+Mario vs. Donkey Kong: Tipping Stars,Nintendo,0.06
+Mario vs. Donkey Kong: Tipping Stars,Nintendo,0.01
+Mario vs. Donkey Kong 2: March of the Minis,Nintendo,1.19
+New Super Mario Bros.,Nintendo,29.8
+New Super Mario Bros. 2,Nintendo,9.9
+New Super Mario Bros. U,Nintendo,5.22
+New Super Mario Bros. Wii,Nintendo,28.32
+Paper Mario: Color Splash,Nintendo,0.42
+Paper Mario: Sticker Star,Nintendo,2.3
+Paper Mario: The Thousand-Year Door,Nintendo,2.25
+Super Mario 3D Land,Nintendo,10.81
+Super Mario 3D World,Nintendo,4.32
+Super Mario Advance,Nintendo,5.49
+Super Mario Galaxy,Nintendo,11.35
+Super Mario Galaxy 2,Nintendo,7.51
+Super Mario Maker,Nintendo,3.21
+Super Mario Strikers,Nintendo,1.61
+Super Mario Sunshine,Nintendo,6.31
+Super Paper Mario,Nintendo,3.71
