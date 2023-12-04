@@ -1,0 +1,1000 @@
+   10  cd cs131
+   11  rm -rf Worksheet2
+   12  ls
+   13  git init
+   14  git add
+   15  git add .
+   16  git status
+   17  git commit -m "Worksheet 4 commit"
+   18  git push -u origin master
+   19  git pull
+   20  git pull origin master
+   21  git config pull.rebase false
+   22  git pull origin master
+   23  git status
+   24  git add .
+   25  git status
+   26  git init
+   27  git add .
+   28  git status
+   29  git push -f origin master
+   30  git branch
+   31  git status
+   32  git clone
+   33  git clone git@github.com:Trikkuri/cs131.git
+   34  ls
+   35  cd cs131
+   36  ls
+   37  mkdir Assignment2
+   38  ls
+   39  cd Assignment2
+   40  find /etc -type f > one.txt 2> two.txt
+   41  cat one.txt
+   42  cat two.txt
+   43  ls
+   44  cd
+   45  cd cs131
+   46  cd Worksheet4
+   47  ls
+   48  mv 'Global YouTube Statistics.csv' Assignment2
+   49  cd Assignment2
+   50  cd
+   51  cd cs131
+   52  cd Assignment2
+   53  ls
+   54  cs /
+   55  cd /
+   56  ls
+   57  cd
+   58  cd cs131
+   59  cd Assignment2
+   60  ls
+   61  cd .
+   62  cd ..
+   63  ls
+   64  cd Worksheet4
+   65  mv *.csv Assignment2
+   66  ls
+   67  cd Assignment2
+   68  rm -rf assignment2
+   69  rm -rf Assignment2
+   70  ls
+   71  cd ..
+   72  cd Assignment2
+   73  ls
+   74  cd..
+   75  cd ..
+   76  ls
+   77  cd Worksheet4
+   78  ls
+   79  cd ..
+   80  cd Assignment2
+   81  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
+   82  ls
+   83  vi *.csv
+   84  sorhelp sort
+   85  help sort
+   86  man -k sort
+   87  man sory
+   88  man sort
+   89  sort -t "," -k "created_month,created_year" -n *.csv
+   90  sort -k "created_month,created_year" -n *.csv > sorter.txt
+   91  touch sorter.txt
+   92  sort -k "created_year,created_month" -n *.csv > sorter.txt
+   93  sort -t "," -k "created_month" -n *.csv > sorter.txt
+   94  sort -t "," -k "highest_monthly_earnings" -n *csv > sorter.txt
+   95  ls
+   96  cd cs131
+   97  ls
+   98  rm -rf cs131
+   99  ls
+  100  cd Assignment2
+  101  ls
+  102  cut -d ',' -f 21-22 Global\ YouTube\ Statistics.csv | sort -nr | head -n3
+  103  cut -d ',' -f 01-22 Global\ YouTube\ Statistics.csv | sort -nr | head -n3
+  104  cut -d ',' -f 20-21 Global\ YouTube\ Statistics.csv | sort -nr | head -n3 > sorter.txt
+  105  cat sorter.txt
+  106  vi *.csv
+  107  vi sorter.txt
+  108  echo bash
+  109  scho SHELL
+  110  echo SHELL
+  111  cut-d ',' -f 20-21 Global\ YouTube\ Statistics.csv > sorter.txt
+  112  cut -d ',' -f 20-21 Global\ YouTube\ Statistics.csv > sorter.txt
+  113  cat sorter.txt
+  114  truncate -s sorter.txt
+  115  vi sorter.txt
+  116  cut -d ',' -f 20-21 Global\ YouTube\ Statistics.csv | sort -nr | head -n3 > sorter.txt
+  117  cat sorter.txt
+  118  cut -d ',' -f 20-21 Global\ YouTube\ Statistics.csv | sort -nr > sorter.txt
+  119  cat sorter.txt
+  120  uniq -c sorter.txt
+  121  sort -nr sorter.txt
+  122  uniq -c | sort -nr sorter.txt
+  123  vi sorter.txt
+  124  uniq -c sorter.txt > sorter.txt
+  125  cat sorter.txt
+  126  vi sorter.txt
+  127  cut -d ',' -f 20-21 Global\ YouTube\ Statistics.csv | sort -nr > sorter.txt
+  128  cat sorter.txt
+  129  uniq -c sorter.txt
+  130  cat sorter.txt
+  131  uniq -c sorter.txt | sort -nr
+  132  touch Assignment2.txt
+  133  vi Assignment2.txt 
+  134  cat Assignment2.txt 
+  135  ps -u brandonf23
+  136  vi Assignment2.txt 
+  137  ps -aux
+  138  man ps
+  139  vi Assignment2.txt 
+  140  cat one.txt
+  141  cat two.txt
+  142  vi Assignment2.txt 
+  143  history > cmds.log
+  144  vi cmds.log
+  145  git init
+  146  cd
+  147  cd cs131
+  148  git init
+  149  git add .
+  150  cd Assignment2
+  151  ls
+  152  ls -a
+  153  rm .git
+  154  rm -rf .git
+  155  cd
+  156  cd cs131
+  157  git add .
+  158  git status
+  159  git commit -m "Assignment2"
+  160  git push --set-upstream origin master
+  161  cd cs131
+  162  cd Assignment2
+  163  vi file.txt
+  164  ls
+  165  cd cs131
+  166  ls
+  167  mkdir Worksheet5
+  168  cd Worksheet4
+  169  ls
+  170  cd ..
+  171  cd Assignment2
+  172  ls
+  173  cd ..
+  174  cd Worksheet5
+  175  ls
+  176  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
+  177  ls
+  178  categories=("Music" "Entertainment" "Gaming" "Comedy")
+  179  for category in "${categories[@]}; do grep "United States, .*$category" "Global%20YouTube%20Statistics.csv" > $category.txt;
+  180  for category in "${categories[@]}; do grep "United States, .*$category" "Global%20YouTube%20Statistics.csv" > $category.txt; done
+  181  for category in $categories; do grep "$category" United\ State.txt >> $category.txt; done
+  182  grep "United State" *.csv > United\ States.txt
+  183  ls
+  184  vi Unite\ States.txt
+  185  ls
+  186  vi United\ States.txt
+  187  for category in $categories; do grep "$category" United\ States.txt >> $category.txt; done
+  188  ls
+  189  cat Music.txt
+  190  for category in "$categories"; do grep "$category" United\ State.txt >> $category.txt; done
+  191  for category in "$categories"; do grep "$category" United\ States.txt >> $category.txt; done
+  192  ls
+  193  rm Music.txt
+  194  rm United\ States.txt
+  195  ls
+  196  mkdir United\ States
+  197  ls
+  198  for category in $categories; do grep "United States, .*$category" "Global\ YouTube\ Statistics.csv" >> $category.txt; done
+  199  for category in $categories; do grep "United States, .*$category" "Global%20YouTube%20Statistics.csv" >> $category.txt; done
+  200  for category in $categories; do grep "United States, .*$category" Global\ YouTube\ Statistics.csv >> $category.txt; done
+  201  ls
+  202  echo categories
+  203  for category in "${categories[@]}"; do grep "United States, .*$category" Global\ YouTube\ Statistics.csv >> $category.txt; done
+  204  ls
+  205  mv Comdedy.txt 'United\ States'
+  206  mv Comedy.txt 'United\ States'
+  207  mv Gaming.txt 'United\ States'
+  208  mv Music.txt 'United\ States'
+  209  mv Entertainment.txt 'United\ States'
+  210  ls
+  211  cd 'United\ States'
+  212  cd 'United States'
+  213  wc Comedy.txt
+  214  ls
+  215  cd..
+  216  cd ..
+  217  ls
+  218  for category in "${categories[@]}"; do grep "United States, .*$category" Global\ YouTube\ Statistics.csv >> $category.txt; done
+  219  ls
+  220  wc Comedy.txt
+  221  wc -rn Comedy.txt
+  222  wc -l Comedy.txt
+  223  cat comedy.txt
+  224  cat Comedy.txt
+  225  cat Gaming.txt
+  226  cat Music.txt
+  227  for category in "${categories[@]}"; do grep "United States, .*$category" Global\ YouTube\ Statistics.csv >> $category.txt; done
+  228  cat Comedy.txt
+  229  grep "United States" 'Global YouTube Statistics.csv' >> UnitedStates.txt
+  230  ls
+  231  cat UnitedStates.txt
+  232  for category in "${categories[@]}"; do grep "$category" UnitedStates.txt >> $category.txt; done
+  233  ls
+  234  cat Comedy.txt
+  235  wc -l Comedy.txt
+  236  wc -l Gaming.txt
+  237  wc -l Entertainment.txt
+  238  wc -l Music.txt
+  239  wc -l Comedy.txt | wc -l Gaming.txt | wc -1 Entertainment.txt | wc -1 Music.txt >> ws5.txt
+  240  wc -l Comedy.txt | wc -l Gaming.txt | wc -l Entertainment.txt | wc -l Music.txt >> ws5.txt
+  241  ls
+  242  cat ws5.txt
+  243  wc -l Comedy.txt > ws5.txt
+  244  cat ws5.txt
+  245  wc -l Music.txt >> ws5.txt
+  246  cat ws5.txt
+  247  wc -l Entertainment.txt >> ws5.txt
+  248  wc -l Gaming.txt >> ws5.txt
+  249  cat ws5.txt
+  250  history > cmds.log
+  251  vi cmds.log
+  252  cd ..
+  253  git init
+  254  git status
+  255  git add
+  256  git add .
+  257  git status
+  258  git commit -m "Worksheet5"
+  259  git push
+  260  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/awkdata/last.fake
+  261  wget root:x:0:0:root:/root:/bin/bash
+  262  bin:x:1:1:bin:/bin:/sbin/nologin
+  263  daemon:x:2:2:daemon:/sbin:/sbin/nologin
+  264  adm:x:3:4:adm:/var/adm:/sbin/nologin
+  265  lp:x:4:7:lp:/var/spool/lpd:/sbin/nologin
+  266  sync:x:5:0:sync:/sbin:/bin/sync
+  267  shutdown:x:6:0:shutdown:/sbin:/sbin/shutdown
+  268  halt:x:7:0:halt:/sbin:/sbin/halt
+  269  mail:x:8:12:mail:/var/spool/mail:/sbin/nologin
+  270  operator:x:11:0:operator:/root:/sbin/nologin
+  271  games:x:12:100:games:/usr/games:/sbin/nologin
+  272  ftp:x:14:50:FTP User:/var/ftp:/sbin/nologin
+  273  nobody:x:65534:65534:Kernel Overflow User:/:/sbin/nologin
+  274  dbus:x:81:81:System message bus:/:/sbin/nologin
+  275  systemd-coredump:x:999:997:systemd Core Dumper:/:/sbin/nologin
+  276  systemd-resolve:x:193:193:systemd Resolver:/:/sbin/nologin
+  277  tss:x:59:59:Account used for TPM access:/dev/null:/sbin/nologin
+  278  polkitd:x:998:996:User for polkitd:/:/sbin/nologin
+  279  clevis:x:997:992:Clevis Decryption Framework unprivileged user:/var/cache/clevis:/sbin/nologin
+  280  unbound:x:996:991:Unbound DNS resolver:/etc/unbound:/sbin/nologin
+  281  libstoragemgmt:x:995:990:daemon account for libstoragemgmt:/var/run/lsm:/sbin/nologin
+  282  setroubleshoot:x:994:989::/var/lib/setroubleshoot:/sbin/nologin
+  283  cockpit-ws:x:993:988:User for cockpit web service:/nonexisting:/sbin/nologin
+  284  cockpit-wsinstance:x:992:987:User for cockpit-ws instances:/nonexisting:/sbin/nologin
+  285  sssd:x:991:986:User for sssd:/:/sbin/nologin
+  286  chrony:x:990:985::/var/lib/chrony:/sbin/nologin
+  287  sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin
+  288  tcpdump:x:72:72::/:/sbin/nologin
+  289  rhel:x:1000:1000:rhel Cloud User:/home/rhel:/bin/bash
+  290  genya:x:1001:1001::/mnt/scratch/genya:/bin/bash
+  291  ritik23fa:x:1002:1002::/mnt/scratch/ritik23fa:/bin/bash
+  292  samuel23fa:x:1003:1003::/mnt/scratch/samuel23fa:/bin/bash
+  293  angie23fa:x:1004:1004::/mnt/scratch/angie23fa:/bin/bash
+  294  jeffrey23fa:x:1005:1005::/mnt/scratch/jeffrey23fa:/bin/bash
+  295  kevin23fa:x:1006:1006::/mnt/scratch/kevin23fa:/bin/bash
+  296  steven23fa:x:1007:1007::/mnt/scratch/steven23fa:/bin/bash
+  297  sokuntheary23fa:x:1008:1008::/mnt/scratch/sokuntheary23fa:/bin/bash
+  298  leonardo23fa:x:1009:1009::/mnt/scratch/leonardo23fa:/bin/bash
+  299  hishaam23fa:x:1010:1010::/mnt/scratch/hishaam23fa:/bin/bash
+  300  patricio23fa:x:1011:1011::/mnt/scratch/patricio23fa:/bin/bash
+  301  peter:x:1012:1012::/mnt/scratch/peter:/bin/bash
+  302  lex23fa:x:1013:1013::/mnt/scratch/lex23fa:/bin/bash
+  303  fnu23fa:x:1014:1014::/mnt/scratch/fnu23fa:/bin/bash
+  304  dylan23fa:x:1015:1015::/mnt/scratch/dylan23fa:/bin/bash
+  305  areebah23fa:x:1016:1016::/mnt/scratch/areebah23fa:/bin/bash
+  306  munkh-erdene23fa:x:1017:1017::/mnt/scratch/munkh-erdene23fa:/bin/bash
+  307  apple23fa:x:1018:1018::/mnt/scratch/apple23fa:/bin/bash
+  308  brandon23fa:x:1019:1019::/mnt/scratch/brandon23fa:/bin/bash
+  309  tak23fa:x:1020:1020::/mnt/scratch/tak23fa:/bin/bash
+  310  abdullah23fa:x:1021:1021::/mnt/scratch/abdullah23fa:/bin/bash
+  311  yar23fa:x:1022:1022::/mnt/scratch/yar23fa:/bin/bash
+  312  manh23fa:x:1023:1023::/mnt/scratch/manh23fa:/bin/bash
+  313  nathan23fa:x:1024:1024::/mnt/scratch/nathan23fa:/bin/bash
+  314  ashkan23fa:x:1025:1025::/mnt/scratch/ashkan23fa:/bin/bash
+  315  joshua23fa:x:1026:1026::/mnt/scratch/joshua23fa:/bin/bash
+  316  hruday23fa:x:1027:1027::/mnt/scratch/hruday23fa:/bin/bash
+  317  manmohanbabu23fa:x:1028:1028::/mnt/scratch/manmohanbabu23fa:/bin/bash
+  318  matthew23fa:x:1029:1029::/mnt/scratch/matthew23fa:/bin/bash
+  319  ajay23fa:x:1030:1030::/mnt/scratch/ajay23fa:/bin/bash
+  320  moe23fa:x:1031:1031::/mnt/scratch/moe23fa:/bin/bash
+  321  alan23fa:x:1032:1032::/mnt/scratch/alan23fa:/bin/bash
+  322  tommy23fa:x:1033:1033::/mnt/scratch/tommy23fa:/bin/bash
+  323  yelin23fa:x:1034:1034::/mnt/scratch/yelin23fa:/bin/bash
+  324  ruxin23fa:x:1035:1035::/mnt/scratch/ruxin23fa:/bin/bash
+  325  erica23fa:x:1036:1036::/mnt/scratch/erica23fa:/bin/bash
+  326  junwen23fa:x:1037:1037::/mnt/scratch/junwen23fa:/bin/bash
+  327  fnus23fa:x:1038:1038::/mnt/scratch/fnus23fa:/bin/bash
+  328  billandreopoulos:x:1076:1076::/mnt/scratch/FA23_online/billandreopoulos:/bin/bash
+  329  assafmuhammad:x:1077:1077::/mnt/scratch/FA23_online/assafmuhammad:/bin/bash
+  330  carterelijah:x:1078:1078::/mnt/scratch/FA23_online/carterelijah:/bin/bash
+  331  chenkyle:x:1079:1079::/mnt/scratch/FA23_online/chenkyle:/bin/bash
+  332  chopraaarohi:x:1080:1080::/mnt/scratch/FA23_online/chopraaarohi:/bin/bash
+  333  daifrank:x:1081:1081::/mnt/scratch/FA23_online/daifrank:/bin/bash
+  334  digheameya:x:1082:1082::/mnt/scratch/FA23_online/digheameya:/bin/bash
+  335  dittojulien:x:1083:1083::/mnt/scratch/FA23_online/dittojulien:/bin/bash
+  336  erinmwingbovoosayame:x:1084:1084::/mnt/scratch/FA23_online/erinmwingbovoosayame:/bin/bash
+  337  eschjeremy:x:1085:1085::/mnt/scratch/FA23_online/eschjeremy:/bin/bash
+  338  headleyashton:x:1086:1086::/mnt/scratch/FA23_online/headleyashton:/bin/bash
+  339  huangangela:x:1087:1087::/mnt/scratch/FA23_online/huangangela:/bin/bash
+  340  huynhbill:x:1088:1088::/mnt/scratch/FA23_online/huynhbill:/bin/bash
+  341  jianjames:x:1089:1089::/mnt/scratch/FA23_online/jianjames:/bin/bash
+  342  krishnagokul:x:1090:1090::/mnt/scratch/FA23_online/krishnagokul:/bin/bash
+  343  linraymond:x:1091:1091::/mnt/scratch/FA23_online/linraymond:/bin/bash
+  344  luualan:x:1092:1092::/mnt/scratch/FA23_online/luualan:/bin/bash
+  345  malexin:x:1093:1093::/mnt/scratch/FA23_online/malexin:/bin/bash
+  346  mengkaiming:x:1094:1094::/mnt/scratch/FA23_online/mengkaiming:/bin/bash
+  347  nguyenvictoria:x:1095:1095::/mnt/scratch/FA23_online/nguyenvictoria:/bin/bash
+  348  niansean:x:1096:1096::/mnt/scratch/FA23_online/niansean:/bin/bash
+  349  phanstephanie:x:1097:1097::/mnt/scratch/FA23_online/phanstephanie:/bin/bash
+  350  qianbrian:x:1098:1098::/mnt/scratch/FA23_online/qianbrian:/bin/bash
+  351  ramirezlanderosgabriel:x:1099:1099::/mnt/scratch/FA23_online/ramirezlanderosgabriel:/bin/bash
+  352  rokkamaravind:x:1100:1100::/mnt/scratch/FA23_online/rokkamaravind:/bin/bash
+  353  sharmaakshit:x:1101:1101::/mnt/scratch/FA23_online/sharmaakshit:/bin/bash
+  354  shpilbergroman:x:1102:1102::/mnt/scratch/FA23_online/shpilbergroman:/bin/bash
+  355  syedtalia:x:1103:1103::/mnt/scratch/FA23_online/syedtalia:/bin/bash
+  356  taigario:x:1104:1104::/mnt/scratch/FA23_online/taigario:/bin/bash
+  357  tangnicholas:x:1105:1105::/mnt/scratch/FA23_online/tangnicholas:/bin/bash
+  358  tawdegargi:x:1106:1106::/mnt/scratch/FA23_online/tawdegargi:/bin/bash
+  359  trinhviana:x:1107:1107::/mnt/scratch/FA23_online/trinhviana:/bin/bash
+  360  vlasiukandrii:x:1108:1108::/mnt/scratch/FA23_online/vlasiukandrii:/bin/bash
+  361  yacoubrimon:x:1109:1109::/mnt/scratch/FA23_online/yacoubrimon:/bin/bash
+  362  yeenathan:x:1110:1110::/mnt/scratch/FA23_online/yeenathan:/bin/bash
+  363  zazakhaled:x:1111:1111::/mnt/scratch/FA23_online/zazakhaled:/bin/bash
+  364  nguyenmaianhdo:x:1112:1112::/mnt/scratch/FA23_online/nguyenmaianhdo:/bin/bash
+  365  abdulwahabf23:x:1113:1113::/mnt/scratch/FA23_CS131_Ashish/abdulwahabf23:/bin/bash
+  366  junf23:x:1114:1114::/mnt/scratch/FA23_CS131_Ashish/junf23:/bin/bash
+  367  saniaf23:x:1115:1115::/mnt/scratch/FA23_CS131_Ashish/saniaf23:/bin/bash
+  368  haroldf23:x:1116:1116::/mnt/scratch/FA23_CS131_Ashish/haroldf23:/bin/bash
+  369  brendanf23:x:1117:1117::/mnt/scratch/FA23_CS131_Ashish/brendanf23:/bin/bash
+  370  maximf23:x:1118:1118::/mnt/scratch/FA23_CS131_Ashish/maximf23:/bin/bash
+  371  nicholasf23:x:1119:1119::/mnt/scratch/FA23_CS131_Ashish/nicholasf23:/bin/bash
+  372  samuelf23:x:1120:1120::/mnt/scratch/FA23_CS131_Ashish/samuelf23:/bin/bash
+  373  ashishf23:x:1121:1121::/mnt/scratch/FA23_CS131_Ashish/ashishf23:/bin/bash
+  374  benjaminf23:x:1122:1122::/mnt/scratch/FA23_CS131_Ashish/benjaminf23:/bin/bash
+  375  jamesf23:x:1123:1123::/mnt/scratch/FA23_CS131_Ashish/jamesf23:/bin/bash
+  376  gabrielf23:x:1124:1124::/mnt/scratch/FA23_CS131_Ashish/gabrielf23:/bin/bash
+  377  tienf23:x:1125:1125::/mnt/scratch/FA23_CS131_Ashish/tienf23:/bin/bash
+  378  jonathanf23:x:1126:1126::/mnt/scratch/FA23_CS131_Ashish/jonathanf23:/bin/bash
+  379  brandonf23:x:1127:1127::/mnt/scratch/FA23_CS131_Ashish/brandonf23:/bin/bash
+  380  nathanf23:x:1128:1128::/mnt/scratch/FA23_CS131_Ashish/nathanf23:/bin/bash
+  381  thif23:x:1129:1129::/mnt/scratch/FA23_CS131_Ashish/thif23:/bin/bash
+  382  bhavdeepf23:x:1130:1130::/mnt/scratch/FA23_CS131_Ashish/bhavdeepf23:/bin/bash
+  383  aaronf23:x:1131:1131::/mnt/scratch/FA23_CS131_Ashish/aaronf23:/bin/bash
+  384  hof23:x:1132:1132::/mnt/scratch/FA23_CS131_Ashish/hof23:/bin/bash
+  385  rogers23fa:x:1133:1133::/mnt/scratch/rogers23fa:/bin/bash
+  386  rupanagudi23fa:x:1134:1134::/mnt/scratch/rupanagudi23fa:/bin/bash
+  387  vo23fa:x:1135:1135::/mnt/scratch/vo23fa:/bin/bash
+  388  wang23fa:x:1136:1136::/mnt/scratch/wang23fa:/bin/bash
+  389  peter23fa:x:1137:1137::/mnt/scratch/peter23fa:/bin/bash
+  390  rogeliof23:x:1138:1138::/mnt/scratch/FA23_CS131_Ashish/rogeliof23:/bin/bash
+  391  anasf23:x:1139:1139::/mnt/scratch/FA23_CS131_Ashish/anasf23:/bin/bash
+  392  josephf23:x:1140:1140::/mnt/scratch/FA23_CS131_Ashish/josephf23:/bin/bash
+  393  hamzaf23:x:1141:1141::/mnt/scratch/FA23_CS131_Ashish/hamzaf23:/bin/bash
+  394  zipengf23:x:1142:1142::/mnt/scratch/FA23_CS131_Ashish/zipengf23:/bin/bash
+  395  rikkif23:x:1143:1143::/mnt/scratch/FA23_CS131_Ashish/rikkif23:/bin/bash
+  396  kobef23:x:1144:1144::/mnt/scratch/FA23_CS131_Ashish/kobef23:/bin/bash
+  397  jewonf23:x:1145:1145::/mnt/scratch/FA23_CS131_Ashish/jewonf23:/bin/bash
+  398  kidaneeden:x:1146:1146::/mnt/scratch/FA23_online/kidaneeden:/bin/bash
+  399  jimenezrafael:x:1147:1147::/mnt/scratch/FA23_online/jimenezrafael:/bin/bash
+  400  bhogalguneet:x:1148:1148::/mnt/scratch/FA23_online/bhogalguneet:/bin/bash
+  401  shervanf23:x:1149:1149::/mnt/scratch/FA23_CS131_Ashish/shervanf23:/bin/bash
+  402  amreenf23:x:1150:1150::/mnt/scratch/FA23_CS131_Ashish/amreenf23:/bin/bash
+  403  divijf23:x:1151:1151::/mnt/scratch/FA23_CS131_Ashish/divijf23:/bin/bash
+  404  rahulf23:x:1152:1152::/mnt/scratch/FA23_CS131_Ashish/rahulf23:/bin/bash
+  405  stevenf23:x:1153:1153::/mnt/scratch/FA23_CS131_Ashish/stevenf23:/bin/bash
+  406  ishaf23:x:1154:1154::/mnt/scratch/FA23_CS131_Ashish/ishaf23:/bin/bash
+  407  jaspreet23fa:x:1155:1155::/mnt/scratch/jaspreet23fa:/bin/bash
+  408  ledavid:x:1156:1156::/mnt/scratch/FA23_online/ledavid:/bin/bash
+  409  ahmedamreen:x:1157:1157::/mnt/scratch/FA23_online/ahmedamreen:/bin/bash
+  410  rabiaisha:x:1158:1158::/mnt/scratch/FA23_online/rabiaisha:/bin/bash
+  411  nguyentramy:x:1159:1159::/mnt/scratch/FA23_online/nguyentramy:/bin/bash
+  412  rajeshaarushi:x:1160:1160::/mnt/scratch/FA23_online/rajeshaarushi:/bin/bash
+  413  reyesazusena:x:1161:1161::/mnt/scratch/FA23_online/reyesazusena:/bin/bash
+  414  coffee:x:1162:1162::/home/coffee:/bin/bash
+  415  wget https://github.com/khanchandaniashish/CS131/blob/main/awkdata/ps.fake 
+  416  cd cs131
+  417  cd ..
+  418  ls
+  419  cd cs131
+  420  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/awkdata/last.fake
+  421  wget https://github.com/khanchandaniashish/CS131/blob/main/awkdata/ps.fake 
+  422  wget https://github.com/khanchandaniashish/CS131/blob/main/awkdata/passwd.fake 
+  423  ls
+  424  cat passwd.fake
+  425  wc -l last.fake
+  426  touch Assignment3.txt
+  427  vi Assignment3.txt
+  428  grep *f23 last.fake > lastf23.fake
+  429  ls
+  430  cat lastf23.fake
+  431  grep 'f23' last.fake > lastf23.fake
+  432  cat lastf23.fake
+  433  vi Assignment3.txt
+  434  wc -l last.fake
+  435  rm lastf23.fake
+  436  ls
+  437  sed -i -e '/f23/w lastf23.fake' -e '//d' last.fake
+  438  cat lastf23.fake
+  439  wc -l last.fake
+  440  vi Assigment3.txt
+  441  ls
+  442  rm Assignment3.txt
+  443  ls
+  444  mkdir Assignment3
+  445  cd Assignment3
+  446  cd ..
+  447  mv last.fake Assignment3
+  448  mv passwd.fake Assignment3
+  449  mv ps.fake Assignment3
+  450  ls
+  451  mv lastf23.fake Assignment3
+  452  ls
+  453  cd Assignment3
+  454  touch Assignment3.txt
+  455  vi Assignment3.txt
+  456  grep 'Sun' last.fake
+  457  ls
+  458  cd cs131
+  459  cd Assignment3
+  460  ls
+  461  grep 'Sun' lastf23.fake | awk 'BEGIN {print "The list of people who worked on Sunday are:"} END {"sort" | "uniq" ; print "Kudos to these people for putting in the work"}
+  462  grep 'Sun' lastf23.fake | awk 'BEGIN {print "The list of people who worked on Sunday are:"} END {"sort" | "uniq" ; print "Kudos to these people for putting in the work"}'
+  463  grep "Sun" lastf23.fake | sort | uniq |awk 'Begin {print "The list of people who worked on Sunday are:"} {print $1} END {print "Kudos to these people for putting in the work"}'
+  464  grep "Sun" lastf23.fake | sort | uniq -u | awk 'Begin {print "The list of people who worked on Sunday are:" $1} END {print "Kudos to these people for putting in the work"}'
+  465  grep "Sun" lastf23.fake | sort | uniq -u | awk 'Begin {print "The list of people who worked on Sunday are:"} print $1} END {print "Kudos to these people for putting in the work"}'
+  466  grep "Sun" lastf23.fake | sort | uniq -u | awk 'Begin {print "The list of people who worked on Sunday are:"} {!a[1]} END {print "Kudos to these people for putting in the work"}'
+  467  grep "Sun" lastf23.fake | sort | uniq -u | awk 'Begin {print "The list of people who worked on Sunday are:"} {!a[$1]} END {print "Kudos to these people for putting in the work"}'
+  468  grep "Sun" lastf23.fake | sort | uniq -u | awk 'Begin {print "The list of people who worked on Sunday are:"} END {print $1 ; print "Kudos to these people for putting in the work"}'
+  469  grep "Sun" lastf23.fake | sort | uniq -u | awk 'Begin {print $1} END {print "Kudos to these people for putting in the work"}'
+  470  grep "Sun" lastf23.fake | sort | uniq -u | awk 'BEGIN {print $1} END {print "Kudos to these people for putting in the work"}'
+  471  grep "Sun" lastf23.fake | sort | uniq -u
+  472  grep "Sun" lastf23.fake | awk {print $1} | sort | uniq
+  473  grep "Sun" lastf23.fake | awk '{print $1}' | sort | uniq
+  474  awk 'BEGIN {print "The list of people who worked on Sunday are:\n" $1} END {print "Kudos to these people for putting in the work}'
+  475  awk 'BEGIN {print "The list of people who worked on Sunday are:\n" $1} END {print "Kudos to these people for putting in the work"}'
+  476  awk 'BEGIN {print "The list of people who worked on Sunday are:" $1} END {print "Kudos to these people for putting in the work"}'
+  477  grep "Sun" lastf23.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "The list of people who worked on Sunday are:" $1} END {print "Kudos to these people for putting in the work"}'
+  478  grep "Sun" lastf23.fake | awk 'BEGIN{print "The list of people who worked on Sunday are:}
+  479  {print $1} | sort | uniq
+  480  END {print "Kudos to these people for putting in the work"}'
+  481  grep "Sun" lastf23.fake | awk 'BEGIN{print "The list of people who worked on Sunday are:"}
+  482  {print $1} | sort | uniq
+  483  END {print "Kudos to these people for putting in the work"}'
+  484  grep "Sun" lastf23.fake | awk 'BEGIN{print "The list of people who worked on Sunday are:"}
+  485  {print $1} | "sort" | "uniq"
+  486  END {print "Kudos to these people for putting in the work"}'
+  487  grep "Sun" lastf23.fake | awk {print $1} | sort | uniq
+  488  grep "Sun" lastf23.fake | awk '{print $1}' | sort | uniq
+  489  grep "Sun" lastf23.fake | awk '{print $1}' | sort | uniq | awk {BEGIN '{print "The list of people who worked in Sunday are:"}
+  490  {print $1}
+  491  END {print "Kudos to these people for putting in the work"}'
+  492  grep "Sun" lastf23.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "The list of people who worked on Sunday are:"}
+  493  {print $1}
+  494  END {print "Kudos to these people for putting in the work"}'
+  495  vi Assignment3.txt
+  496  awk '$7 >= "23:00" || $7 <= "04:00"' lastf23.fake | sort | uniq | awk 'BEGIN {print "Night Owls List:"}
+  497  {print $1}
+  498  END {print "Night owls are dope. Please ensure you get enough sleep though."}'
+  499  awk '$7 >= "23:00" || $7 <= "04:00"' lastf23.fake | sort | uniq
+  500  awk '$7 >= "23:00" || $7 <= "04:00"' lastf23.fake
+  501  awk '$7 >= "23:00" || $7 <= "04:00"' lastf23.fake | awk '{print $1}' | sort | uniq
+  502  awk '$7 >= "23:00" || $7 <= "04:00"' lastf23.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "Night Owls List:"}
+  503  {print $1}
+  504  END {print "Night owls are dope. Please ensure you get enough sleep though."}'
+  505  vi Assignment3.txt
+  506  awk '$7 >= "05:00" || $7 <= "09:00"' lastf23.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "Early Birds List:"}
+  507  {print $1}
+  508  END {print "Early Birds are dope. PLease ensure you get enough sleep though."}'
+  509  awk '$7 >= "05:00" && $7 <= "09:00"' lastf23.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "Early Birds List:"}
+  510  {print $1}
+  511  END {print "Early Birds are dope. PLease ensure you get enough sleep though."}'
+  512  vi Assignment3.txt
+  513  awk '/^t/ {print $1}' lastf23.fake | sort | uniq
+  514  vi Assignment3.txt
+  515  awk -F: '/^a/ && $3 % 2 == 0 {print $1}' passwd.fake
+  516  cat passwd.fake
+  517  wget https://github.com/khanchandaniashish/CS131/blob/main/awkdata/passwd.fake 
+  518  ls
+  519  rm passwd.fake.1
+  520  ls
+  521  wget https://raw.github.com/khanchandaniashish/CS131/blob/main/awkdata/passwd.fake 
+  522  rm passwd.fake
+  523  ls
+  524  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/awkdata/passwd.fake
+  525  ls
+  526  awk -F: '/^a/ && $3 % 2 == 0 {print $1}' passwd.fake
+  527  awk '/^a/ && $3 % 2 == 0 {print $1}' passwd.fake
+  528  awk '/^a/ && expr $3 % 2 == 0 {print $1}' passwd.fake
+  529  awk -F '/^a/ && expr $3 % 2 == 0 {print $1}' passwd.fake
+  530  awk -F: '/^a/ && expr $3 % 2 == 0 {print $1}' passwd.fake
+  531  awk -F: '/^a/ && $3 % 2 == 0 {print $1}' passwd.fake
+  532  vi Assignment3.txt
+  533  sed 's/[a-zA-Z0-9 \t]//g' passwd.fake
+  534  sed 's/[a-zA-Z0-9 \t]//g' passwd.fake | sort -u
+  535  sed 's/[a-zA-Z0-9 \t]//' passwd.fake | sort -u
+  536  sed 's/[a-zA-Z0-9 \t]//g' passwd.fake | sort -u
+  537  vi Assignment3.txt
+  538  history > cmds.log
+  539  ls
+  540  vi cmds.log
+  541  ls
+  542  git init
+  543  git status
+  544  git add .
+  545  git status
+  546  git commit -m "Assignment3"
+  547  git push
+  548  git push --set-upstream origin master
+  549  git status
+  550  git push --u origin master
+  551  git push -u origin master
+  552  pit status
+  553  git status
+  554  git init
+  555  git status
+  556  git push --set-upstream
+  557  git push -u master
+  558  git push -u origin master
+  559  ls
+  560  git status
+  561  cd ..
+  562  git init
+  563  git add .
+  564  git status
+  565  git commit -m "Assignment3"
+  566  git push -u origin master
+  567  cd Assignment3
+  568  ls
+  569  cat Assignment3.txt
+  570  cd ..
+  571  git status
+  572  git push --set-upstream origin master
+  573  ls
+  574  git clone --recurese-submodules
+  575  git clone --recurse-submodules
+  576  cd Assignment3
+  577  ls
+  578  ls -a
+  579  rm -rf .git
+  580  ls
+  581  cd ..
+  582  ls
+  583  git init
+  584  git status
+  585  git add .
+  586  git commit -m "Assignment3"
+  587  git push -u origin master
+  588  cd Assignment3
+  589  ls
+  590  touch newfile.txt
+  591  cd ..
+  592  git add .
+  593  git commit -m "Fin"
+  594  git push -u origin master
+  595  ls
+  596  cd Assignment3
+  597  git rm --cache client_folder
+  598  cd ..
+  599  ls -a
+  600  git rm --cache client_folder
+  601  git clone --recurse-submodules
+  602  mv /cs131/Assignment3/* /cs131/
+  603  ps
+  604  cd
+  605  cd cs131
+  606  echo $PATH
+  607  mv /Assignment3/* /cs131/
+  608  mv */Assignment3/* */cs131/*
+  609  cd Assignment3
+  610  ls
+  611  mv Assignment3.txt cs131
+  612  ls
+  613  mv cmds.log cs131
+  614  mv lastf23 cs131
+  615  mv lastf23.fake cs131
+  616  mv last.fake cs131
+  617  mv passwd.fake cs131
+  618  mv ps.fake cs131
+  619  ls
+  620  cd cs131
+  621  cat cs131
+  622  ls
+  623  cd ..
+  624  ls
+  625  mv cs131 cs131
+  626  cd Assignment3
+  627  ls
+  628  ls -a
+  629  cd . .. cs131
+  630  cd .. cs131
+  631  cd ..
+  632  rm -rf Assignment3
+  633  ls
+  634  mkdir Assignment3
+  635  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/awkdata/last.fake
+  636  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/awkdata/passwd.fake
+  637  wget wget https://github.com/khanchandaniashish/CS131/blob/main/awkdata/ps.fake 
+  638  touch Assignment3.txt
+  639  wc -1 last.fake
+  640  wc -l last.fake
+  641  grep "f23" last.fake > lastf23.fake
+  642  wc -l last.fake
+  643  wc -l lastf23.fake
+  644  ls
+  645  mv last.fake Assignment3
+  646  mv ps.fake Assignment3
+  647  mv lastf23.fake Assignment3
+  648  mv passwd.fake Assignment3
+  649  mv Assignment3.txt Assignment3
+  650  ls
+  651  cd Assignment3
+  652  grep "Sun" lastf23.fake | awk '{print}' | sort | uniq | awk 'BEGIN {print "The list of people who worked on Sunday are:"}
+  653  {print $1}
+  654  END {print "Kudos to these people for putting in the work"}'
+  655  grep "Sun" lastf23.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "The list of people who worked on Sunday are:"}
+  656  {print $1}
+  657  END {print "Kudos to these people for putting in the work"}'
+  658  awk '$7 >= "23:00" || $7 <= "04:00"' lastf23.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "The list of people who worked on Sunday are:"}
+  659  {print $1}
+  660  awk '$7 >= "23:00" || $7 <= "04:00"' lastf23.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "Night Owls List:"}
+  661  {print $1}
+  662  END {print "Night Owls are dope. Please ensure you get enough sleep though."}'
+  663  awk '$7 >= "25:00" && $7 <= "09:00"' lastf23.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "Early Birds List:"}
+  664  {print $1}
+  665  END {print "Early Birds are dope. Please ensure you get enough sleep though."}'
+  666  awk '$7 >= "25:00" && $7 <= "09:00"' lastf23.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "Early Birds List:"}
+  667  {print $1}
+  668  END {print "Early Birds are dope. Please ensure you get enough sleep though."}'
+  669  awk '$7 >= "05:00" && $7 <= "09:00"' lastf23.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "Early Birds List:"}
+  670  {print $1}
+  671  END {print "Early Birds are dope. Please ensure you get enough sleep though."}'
+  672  awk '/^t/ {print $1}' lastf23.fake | sort | uniq
+  673  awk -F: '/^a/ && $3 % 2 == 0 {print $1}' passwd.fake
+  674  sed 's/[a-zA-Z0-9 \t]//g' passwd.fake | sort -u
+  675  vi Assignment3.txt
+  676  history > cmds.log
+  677  vi cmds.log
+  678  cd..
+  679  cd ..
+  680  git init
+  681  git add .
+  682  git status
+  683  git commit -m "Assignment3"
+  684  git push -u origin master
+  685  ls
+  686  ls -a
+  687  Assignment3
+  688  cd Assignment3
+  689  ls
+  690  cd cs131
+  691  ls
+  692  git init
+  693  git add .
+  694  git status
+  695  cd Assignment3
+  696  ls -a
+  697  rm .
+  698  rm . -rf
+  699  rm . .. -rf
+  700  rm -rf .*
+  701  rm -rf .
+  702  cd ..
+  703  cd Assignment2
+  704  ls -a
+  705  cd ..
+  706  git rm --cached Assignment3
+  707  ls
+  708  git init
+  709  git add .
+  710  git status
+  711  git commit -m "FINALLY UPLOADED AFTER THE MILLIONTH TIME"
+  712  git push -u origin master
+  713  cd cs131
+  714  mkdir MiniProjectGroup5
+  715  cd MiniProjectGroup5
+  716  touch groupmembers.txt
+  717  vi groupmembers.txt
+  718  wget https://www.kaggle.com/datasets/nikdavis/steam-store-games#:~:text=steam.-,csv,-calendar_view_week
+  719  ls
+  720  cat steam-store-games
+  721  ls
+  722  rm -rf steam-store-games
+  723  ls
+  724  wget https://www.kaggle.com/datasets/nikdavis/steam-store-games/download?datasetVersionNumber=3
+  725  ls
+  726  cat 'download?datasetVersionNumber=3'
+  727  rm 'download?datasetVersionNumber=3'
+  728  ls
+  729  wget /Users/brandon/Downloads/steam.csv 
+  730  wget kaggle kernels output hmyleda/steam-game-analysis -p /path/to/dest
+  731  wget steam.csv
+  732  wget https://www.kaggle.com/datasets/nikdavis/steam-store-games/data?select=steam.csv
+  733  ls
+  734  cat 'data?select=steam.csv'
+  735  rm 'data?select=steam.csv'
+  736  wget --no-check-certificate --progress=dot kaggle datasets download -d nikdavis/steam-store-games
+  737  wget --no-check-certificate --progress=dot https://www.kaggle.com/datasets/nikdavis/steam-store-games/data?select=steam.csv
+  738  ls
+  739  rm 'data?select=steam.csv'
+  740  wget https://github.com/lix229/steamer/raw/master/data/games.csv
+  741  ls
+  742  cat games.csv
+  743  cd ..
+  744  git init
+  745  git add .
+  746  git status
+  747  git commit -m "Dataset for capstone project"
+  748  git push
+  749  ls
+  750  cd cs131
+  751  ls
+  752  cd MiniProjectGroup5
+  753  ls
+  754  wc -1 games.csv
+  755  wc -l games.csv
+  756  sort cut -d ',' -f 8 > sorter.txt
+  757  sort cut -d ',' -f 8 games.csv > sorter.txt
+  758  cut -d ',' -f 8 games.csv > sorter.txt
+  759  cat sorter.txt
+  760  rm sorter.txt
+  761  ls
+  762  cut -d ',' -f 10 games.csv > sorter.txt
+  763  cat sorter.txt
+  764  rm sorter.txt
+  765  cut -d ',' -f 10 games.csv > sorter.txt
+  766  cat sorter.txt
+  767  sort -nr sorter.txt
+  768  rm games.csv
+  769  ls
+  770  rm sorter.txt
+  771  cd cs131
+  772  ls
+  773  cd MiniProjectGroup5
+  774  ls
+  775  wc -l games.csv
+  776  cd ..
+  777  git init
+  778  git add .
+  779  git status
+  780  git commit -m "capstone dataset"
+  781  git push --set-upstream origin master
+  782  cd MiniProjectGroup5
+  783  ls
+  784  rm games.csv
+  785  ls
+  786  cd ..
+  787  git init
+  788  git add .
+  789  git status
+  790  git commit -m "change"
+  791  git push --set-upstream origin master
+  792  cd MiniProjectGroup5
+  793  ls
+  794  cd cs131
+  795  cd MiniProjectGroup5
+  796  ls
+  797  wc -l games.csv
+  798  cd ..
+  799  git init
+  800  git add .
+  801  git status
+  802  git commit -m "change"
+  803  git push --set-upstream origin master
+  804  git lfs install
+  805  git --version
+  806  tar -xf git-lfs-linux-amd64-v2.31.1.tar.gz
+  807  cd MiniProjectGroup5
+  808  df games.csv
+  809  cat games.csv
+  810  wc -l games.csv
+  811  ls -a
+  812  cd ..
+  813  git status
+  814  git push origin master
+  815  git rm --cached games.csv
+  816  git rm --giant_file
+  817  git rm --cached giant_file
+  818  git rm --cached MiniProjectGroup5/games.csv
+  819  git commit -m "work?"
+  820  git push --set-upstream origin master
+  821  git rm --cached MiniProjectGroup5/games.csv
+  822  git commit --amend -CHEAD
+  823  git push origin master
+  824  git rm --cached MiniProjectGroup5
+  825  git rm -r --cached MiniProjectGroup5
+  826  git commit --ammed -CHEAD
+  827  git commit --ammend -CHEAD
+  828  git commit --amend -CHEAD
+  829  git push origin master
+  830  cd
+  831  cd cs131
+  832  ls
+  833  cd MIniProjectGroup5
+  834  cd MiniProjectGroup5
+  835  ls
+  836  cd ..
+  837  git filter-branch -f --tree-filter 'rm -f /MiniProjectGroup5/games.csv' HEAD --all
+  838  git commit --amend -CHEAD
+  839  git push origin master
+  840  git filter-branch -f --tree-filter 'rm -f /MiniProjectGroup5/games.csv' HEAD --all
+  841  git filter-repo
+  842  bfg --delete-file /MiniProjectGroup5/games.csv
+  843  git filter-branch -f --tree-filter 'rm -f /MiniProjectGroup5/games.csv' HEAD --all
+  844  git commit -m "change"
+  845  git add .
+  846  git commit -m "f"
+  847  git push origin master
+  848  brew install git-filter-repo
+  849  git filter-branch -f --tree-filter 'rm -f /MiniProjectGroup5/' HEAD --all
+  850  git status
+  851  git commit -m "f"
+  852  git push origin master
+  853  git filter-branch -f --tree-filter 'rm -f /MiniProjectGroup5/*.csv' HEAD --all
+  854  git push origin master
+  855  git filter-branch -f --tree-filter 'rm -f /MiniProjectGroup5/*.csv' HEAD --all
+  856  git commit --amend -CHEAD
+  857  git rebase -i HEAD~12
+  858  git rebase -i HEAD~112
+  859  git rebase -i HEAD~11
+  860  git rebase -i HEAD~9
+  861  git rebase --continue
+  862  git add .
+  863  git commit --ammend
+  864  git commit --amend
+  865  git rebase --continue
+  866  git push origin master
+  867  git pull
+  868  git push origin master
+  869  git checkout --ours /MiniProjectGroup5/*.csv
+  870  git status
+  871  git push -f origin master
+  872  git rebase -i HEAD~9
+  873  git rebase -i HEAD~5
+  874  git pull --rebase --autostash
+  875  git fetch origin
+  876  git reset --hard origin/master
+  877  ls
+  878  git rebase -i
+  879  git init
+  880  git status
+  881  ls
+  882  git add .
+  883  git commit -m "f"
+  884  git push origin master
+  885  cd MiniProjectGroup5
+  886  ls
+  887  wc -l games.csv
+  888  rm games.csv
+  889  cd MiniProjectGroup5
+  890  gnuplot
+  891  cd cs131
+  892  cd MiniProjectGroup5
+  893  gnuplot
+  894  cut -d ',' -f 2 games.csv > plot1.csv
+  895  gnuplot
+  896  cd cs131
+  897  cd MiniProjectGroup5
+  898  ls
+  899  wc -l games.csv
+  900  cd ..
+  901  git init
+  902  git add .
+  903  git status
+  904  git commit -m "new"
+  905  git push -set--upstream origin master
+  906  git push origin master
+  907  cd MiniProjectGroup5
+  908  cut -d ',' -f 2 games.csv > values.txt
+  909  sort -nr values.txt
+  910  uniq -c values.txt | sort -nr
+  911  uniq -c values.txt
+  912  cat values.txt
+  913  uniq values.txt | sort -nr
+  914  uniq values.txt | sort -nr > values.txt
+  915  vi values.txt
+  916  cut -d ',' -f 2 games.csv > values.txt
+  917  sort -nr values.txt
+  918  sort -nr values.txt | uniq -c
+  919  cut -d ',' -f 8 games.csv > sales.txt
+  920  sort -nr values.txt | uniq -c
+  921  sort -nr sales.txt | uniq -c
+  922  cut -d ',' -f 1,8 games.csv > sales.txt
+  923  sort -nr sales.txt | uniq -c
+  924  sort -nr sales.txt
+  925  cut -d ',' -f 8,1 games.csv > sales.txt
+  926  sort -nr sales.txt
+  927  sort -k 2n sales.txt
+  928  cut -d ',' -f 1,8 games.csv > sales.txt
+  929  sort -k 2 sales.txt
+  930  sort -k 2n sales.txt
+  931  cut -d ',' -f 1,8 games.csv > sales.txt
+  932  vi sales.txt
+  933  sort -n -t ',' -k2 sales.txt
+  934  cut -d ',' -f 1,9 games.csv > sales.txt
+  935  sort -n -t ',' -k2 sales.txt
+  936  cut -d ',' -f 1,5 games.csv > sales.txt
+  937  sort -n -t ',' -k2 sales.txt
+  938  cut -d ',' -f 1,10 games.csv > score.txt
+  939  sort -n -t ',' -k2 sales.txt
+  940  sort -n -t ',' -k2 score.txt
+  941  grep "Wii Sports" score.txt
+  942  cut -d ',' -f 1,12 games.csv > uscore.txt
+  943  sort -n -t ',' -k2 uscore.txt
+  944  grep "Wii Sports" score.txt
+  945  grep "Wii Sports" uscore.txt
+  946  sort -n -t ',' -k2 sales.txt
+  947  cut -d ',' -f 1,9 games.csv > sales.txt
+  948  sort -n -t ',' -k2 sales.txt
+  949  grep "Tony Hawk" sales.txt
+  950  cut -d ',' -f 4 games.csv > games.txt
+  951  uniq -c games.txt
+  952  uniq -c games.txt | sort -nr
+  953  sort games.txt | uniq -c
+  954  sort -n -t ',' -k2 sales.txt
+  955  cut -d ',' -f 1,4,9 games.csv > games.txt
+  956  sort -n -t ',' -k3 games.txt
+  957  sort -n -t ',' -k2 sales.txt
+  958  grep "Electronic Arts" sales.txt
+  959  sort -n -t ',' -k2 sales.txt
+  960  sort -n -t ',' -k3 games.txt
+  961  grep "Electronic Arts" games.txt
+  962  grep "Electronic Arts" games.txt > ea.txt
+  963  sort -n -t ',' -k3 ea.txt
+  964  sort -n -t ',' -k3 games.txt
+  965  grep "Mario" games.txt > mario.txt
+  966  sort -n -t ',' -k3 mario.txt
+  967  sort -n -t ',' -k2 games.csv | uniq-c
+  968  cut -d ',' -f 2 games.csv > year.txt
+  969  sort -n year.txt | uniq-c
+  970  sort -n year.txt | uniq -c
+  971  set datafile separator ','
+  972  plot 'games.csv' title "games"
+  973  plot
+  974  gnuplot
+  975  cd ..
+  976  git init
+  977  git add .
+  978  git commit -m "update"
+  979  git push origin master
+  980  grep '2008' games.csv > nin.txt
+  981  cd MiniProjectGroup5
+  982  grep '2008' games.csv > nin.txt
+  983  grap 'Nintendo' nin.txt > nin2.txt
+  984  grep 'Nintendo' nin.txt > nin2.txt
+  985  wc -l nin2.txt
+  986  sort -n -t ',' -k10
+  987  sort -n -t ',' -k10 nin2.txt
+  988  cut -d ',' -f 1,9 nin.txt > best.txt
+  989  sort -n -t ',' -k2 best.txt
+  990  ls
+  991  cd cs131
+  992  ls
+  993  cd MiniProjectGroup5
+  994  ls
+  995  rm -rf gamesplot.png
+  996  cd cs131
+  997  cd MiniProjectGroup5
+  998  rm -rf *.txt
+  999  ls
+ 1000  rm -rf plot1.csv
+ 1001  cut -d ',' -f 4 games.csv > publishers.txt
+ 1002  sort publishers.txt | uniq -c > new.txt
+ 1003  cat new.txt
+ 1004  sort -n new.txt
+ 1005  cut -d ',' -f 1,9 games.csv > sales.txt
+ 1006  sort -nr games.txt
+ 1007  sort -nr sales.txt
+ 1008  sort -n -k2 sales.txt
+ 1009  history > cmds.log

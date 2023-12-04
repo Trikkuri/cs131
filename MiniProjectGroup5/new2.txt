@@ -1,0 +1,279 @@
+      1 10TACLE Studios
+      1 2D Boy
+      1 5pb
+      1 Acquire
+      1 Activision Blizzard
+      1 Adventure
+      1 Alternative Software
+      1 Aqua Plus
+      1 ASCII Entertainment
+      1 Black Label Games
+      1 Blue Byte
+      1 Bohemia Interactive
+      1 Cave
+      1 CDV Software Entertainment
+      1 Cloud Imperium Games Corporation
+      1 Codemasters Online
+      1 Conspiracy Entertainment
+      1 Crimson Cow
+      1 Crytek
+      1 Devolver Digital
+      1 DHM Interactive
+      1 DSI Games
+      1 Dusenberry Martin Racing
+      1 EA Games
+      1 Encore
+      1 ESP
+      1 Flashpoint Games
+      1 Fox Interactive
+      1 Funbox Media
+      1 Funsta
+      1 FuRyu Corporation
+      1 Gearbox Software
+      1 Global A Entertainment
+      1 GOA
+      1 Graphsim Entertainment
+      1 Groove Games
+      1 Hasbro Interactive
+      1 Havas Interactive
+      1 Headup Games
+      1 Hello Games
+      1 HMH Interactive
+      1 Home Entertainment Suppliers
+      1 Hudson Entertainment
+      1 id Software
+      1 Illusion Softworks
+      1 inXile Entertainment
+      1 Just Flight
+      1 Kool Kizz
+      1 Level 5
+      1 Lexicon Entertainment
+      1 Lighthouse Interactive
+      1 Max Five
+      1 Maxis
+      1 Media Rings
+      1 Mercury Games
+      1 Monte Christo Multimedia
+      1 Moss
+      1 Mud Duck Productions
+      1 Myelin Media
+      1 N/A
+      1 Navarre Corp
+      1 NDA Productions
+      1 NewKidCo
+      1 Nihon Falcom Corporation
+      1 Number None
+      1 O3 Entertainment
+      1 O-Games
+      1 Pacific Century Cyber Works
+      1 Paradox Development
+      1 Phantagram
+      1 Phantom EFX
+      1 Pinnacle
+      1 PM Studios
+      1 Popcorn Arcade
+      1 Publisher
+      1 RTL
+      1 Russel
+      1 Scholastic Inc.
+      1 SCS Software
+      1 SNK
+      1 Square
+      1 Square EA
+      1 Strategy First
+      1 Sunflowers
+      1 Sunsoft
+      1 System 3
+      1 TalonSoft
+      1 Team17 Software
+      1 Telegames
+      1 Tetris Online
+      1 Valve
+      1 Visco
+      1 Wargaming.net
+      1 White Park Bay Software
+      1 Xicat Interactive
+      1 Zushi Games
+      2 2008
+      2 Agatsuma Entertainment
+      2 Agetec
+      2 AQ Interactive
+      2 Ascaron Entertainment GmbH
+      2 Aspyr
+      2 Astragon
+      2 Avanquest
+      2 bitComposer Games
+      2 CCP
+      2 Daedalic
+      2 Funcom
+      2 Gamebridge
+      2 Gotham Games
+      2 Graffiti
+      2 Gust
+      2 Harmonix Music Systems
+      2 Human Entertainment
+      2 Introversion Software
+      2 Irem Software Engineering
+      2 Jester Interactive
+      2 Kadokawa Shoten
+      2 Mad Catz
+      2 Mamba Games
+      2 Mindscape
+      2 NovaLogic
+      2 Oxygen Interactive
+      2 Rebellion
+      2 Reef Entertainment
+      2 Revolution Software
+      2 Role-Playing
+      2 Rondomedia
+      2 Sold Out
+      2 Square Enix 
+      2 Stainless Games
+      2 Tripwire Interactive
+      2 Tru Blu Entertainment
+      2 Valcon Games
+      2 Xplosiv
+      2 XS Games
+      3 1C Company
+      3 Avalon Interactive
+      3 Brash Entertainment
+      3 Daedalic Entertainment
+      3 "Destination Software
+      3 Enterbrain
+      3 Falcom Corporation
+      3 FuRyu
+      3 Genki
+      3 GT Interactive
+      3 Iceberg Interactive
+      3 Idea Factory International
+      3 Indie Games
+      3 Insomniac Games
+      3 Little Orbit
+      3 Mastiff
+      3 MC2 Entertainment
+      3 Nobilis
+      3 Rage Software
+      3 Rebellion Developments
+      3 Slightly Mad Studios
+      3 Sony Computer Entertainment America
+      3 Swing! Entertainment
+      3 Taito
+      3 The Adventure Company
+      3 Trion Worlds
+      3 Valve Software
+      3 Wanadoo
+      3 Zoo Games
+      4 Action
+      4 Arc System Works
+      4 Banpresto
+      4 Bigben Interactive
+      4 Compile Heart
+      4 Enix Corporation
+      4 Evolved Games
+      4 Gamecock
+      4 Hip Interactive
+      4 Hudson Soft
+      4 Marvelous Entertainment
+      4 Mastertronic
+      4 Milestone S.r.l
+      4 Milestone S.r.l.
+      4 Psygnosis
+      4 RedOctane
+      4 Sammy Corporation
+      4 Screenlife
+      4 Shooter
+      4 System 3 Arcade Software
+      4 Takara Tomy
+      4 Tomy Corporation
+      4 Touchstone
+      4 Xseed Games
+      4 Yacht Club Games
+      5 From Software
+      5 Game Factory
+      5 Koch Media
+      5 Natsume
+      5 NCSoft
+      5 Platform
+      5 Strategy
+      5 Success
+      5 Titus
+      6 Activision Value
+      6 Aksys Games
+      6 Destineer
+      6 DreamCatcher Interactive
+      6 GungHo
+      6 Sting
+      6 Telltale Games
+      7 Black Bean Games
+      7 Jaleco
+      7 Kemco
+      7 PopCap Games
+      7 Sony Online Entertainment
+      8 City Interactive
+      8 Gathering of Developers
+      8 Idea Factory
+      8 Interplay
+      8 Metro 3D
+      8 Midas Interactive Entertainment
+      8 Spike
+      9 Ghostlight
+      9 Marvelous Interactive
+      9 Microids
+      9 Play It
+      9 SquareSoft
+     10 BAM! Entertainment
+     10 JoWood Productions
+     10 Playlogic Game Factory
+     11 Crave Entertainment
+     11 SCi
+     12 Nordic Games
+     12 Sony Computer Entertainment Europe
+     12 Ubisoft Annecy
+     14 Infogrames
+     15 3DO
+     15 DTP Entertainment
+     15 Paradox Interactive
+     16 MTV Games
+     18 Universal Interactive
+     19 Virgin Interactive
+     20 Global Star
+     21 SouthPeak Games
+     21 TDK Mediactive
+     22 Kalypso Media
+     23 Majesco Entertainment
+     23 PQube
+     24 Zoo Digital Publishing
+     25 Atlus
+     26 Unknown
+     27 Empire Interactive
+     30 Ignition Entertainment
+     34 Focus Home Interactive
+     35 D3Publisher
+     48 Bethesda Softworks
+     52 Rising Star Games
+     60 Nippon Ichi Software
+     66 Acclaim Entertainment
+     70 LucasArts
+     71 Disney Interactive Studios
+     78 Deep Silver
+     80 505 Games
+    101 Midway Games
+    112 Codemasters
+    113 Vivendi Games
+    122 Eidos Interactive
+    130 Warner Bros. Interactive Entertainment
+    134 Square Enix
+    140 Tecmo Koei
+    141 Microsoft Game Studios
+    176 Atari
+    197 Capcom
+    244 Namco Bandai Games
+    246 Konami Digital Entertainment
+    273 Take-Two Interactive
+    286 Sega
+    293 Nintendo
+    297 THQ
+    314 Sony Computer Entertainment
+    492 Activision
+    497 Ubisoft
+    945 Electronic Arts
