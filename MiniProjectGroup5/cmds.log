@@ -1,63 +1,3 @@
-   10  cd cs131
-   11  rm -rf Worksheet2
-   12  ls
-   13  git init
-   14  git add
-   15  git add .
-   16  git status
-   17  git commit -m "Worksheet 4 commit"
-   18  git push -u origin master
-   19  git pull
-   20  git pull origin master
-   21  git config pull.rebase false
-   22  git pull origin master
-   23  git status
-   24  git add .
-   25  git status
-   26  git init
-   27  git add .
-   28  git status
-   29  git push -f origin master
-   30  git branch
-   31  git status
-   32  git clone
-   33  git clone git@github.com:Trikkuri/cs131.git
-   34  ls
-   35  cd cs131
-   36  ls
-   37  mkdir Assignment2
-   38  ls
-   39  cd Assignment2
-   40  find /etc -type f > one.txt 2> two.txt
-   41  cat one.txt
-   42  cat two.txt
-   43  ls
-   44  cd
-   45  cd cs131
-   46  cd Worksheet4
-   47  ls
-   48  mv 'Global YouTube Statistics.csv' Assignment2
-   49  cd Assignment2
-   50  cd
-   51  cd cs131
-   52  cd Assignment2
-   53  ls
-   54  cs /
-   55  cd /
-   56  ls
-   57  cd
-   58  cd cs131
-   59  cd Assignment2
-   60  ls
-   61  cd .
-   62  cd ..
-   63  ls
-   64  cd Worksheet4
-   65  mv *.csv Assignment2
-   66  ls
-   67  cd Assignment2
-   68  rm -rf assignment2
-   69  rm -rf Assignment2
    70  ls
    71  cd ..
    72  cd Assignment2
@@ -998,3 +938,69 @@
  1007  sort -nr sales.txt
  1008  sort -n -k2 sales.txt
  1009  history > cmds.log
+ 1010  vi cmds.log
+ 1011  sort -n -t ',' -k 2 sales.txt
+ 1012  cut -d ',' -f 4 games.csv > publishers.txt
+ 1013  sort publishers.txt | uniq -c > new.txt
+ 1014  sort -n new.txt > new2.txt
+ 1015  sort -n new.txt
+ 1016  egrep 'Electronic Arts|Ubisoft|Activision|Sony Computer Entertainment|THQ|Nintendo|Sega' new.txt > publishers.csv
+ 1017  cat publishers.csv
+ 1018  vi publishers.csv
+ 1019  cut -d ',' -f 2 games.csv > year.txt
+ 1020  uniq -c year.txt
+ 1021  sort -n year.txt | uniq -c
+ 1022  sort -n year.txt | uniq -c > year.csv
+ 1023  vi year.csv
+ 1024  cd ..
+ 1025  git init
+ 1026  git add .
+ 1027  git status
+ 1028  git commit -m "new"
+ 1029  git push origin master
+ 1030  vi publishers.csv
+ 1031  ls
+ 1032  cd MiniProjectGroup5
+ 1033  vi publishers.csv
+ 1034  vi year.csv
+ 1035  cd ..
+ 1036  git add .
+ 1037  git status
+ 1038  git commit -m "again"
+ 1039  git push origin master
+ 1040  cd MiniProjectGroup5
+ 1041  vi publishers.csv
+ 1042  vi year.csv
+ 1043  cd ..
+ 1044  git add .
+ 1045  git commit -m "changed"
+ 1046  git push origin master
+ 1047  cd MiniProjectGroup5
+ 1048  vi publishers.csv
+ 1049  cd ..
+ 1050  git add .
+ 1051  git commit -m "changed again"
+ 1052  git push origin master
+ 1053  cd MiniProjectGroup5
+ 1054  cut -d ',' -f 1,9 games.csv > sales.txt
+ 1055  grep 'Tony Hawk's Pro Skater 2
+ 1056  grep 'Tony Hawk's Pro Skater 2' sales.txt
+
+ 1057  grep 'Tony Hawk's Pro Skater 2' sales.txt
+> eh.txt
+
+ 1058  grep 'Tony Hawk's Pro Skater 2' sales.txt > eh.txt
+grep 'Tony Hawk's' sales.txt > eh.txt
+ 1059  grep 'Tony Hawk's Pro Skater 2' sales.txt > eh.txt
+grep 'Tony Hawk's' sales.txt > eh.txt
+ 1060  grep 'Tony Hawk's' sales.txt > eh.txt
+
+ 1061  cat sales.txt
+ 1062  grep "Tony Hawk's Pro Skter 2" sales.txt
+ 1063  grep "Tony Hawk's Pro Skter 2" sales.txt > eh.txt
+ 1064  cat eh.txt
+ 1065  grep "Tony Hawk" sales.txt
+ 1066  cut -d ',' -f 1,9,10 games.csv > sales.txt
+ 1067  grep 'Wii Sports' sales.txt
+ 1068  rm -rf eh.txt
+ 1069  history > cmds.log
